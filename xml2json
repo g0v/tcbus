@@ -1,0 +1,33 @@
+#!/usr/bin/perl -w
+# usage example:
+# wget 'http://citybus.taichung.gov.tw/tcbus2/GetRoutePtsEx.php?noEncode=1&useXno=1&json=0&routeIds=151' -O route-151.xml
+# ./xml2json -x 'Routes Route' ~/route-151.xml
+# wget 'http://citybus.taichung.gov.tw/tcbus2/GetStopEx.php?useXno=1&json=0&routeIds=151' -O stops-151.xml
+# ./xml2json -x 'BusInfo Stop' ~/stops-151.xml
+# 
+# requires this debian package： libxml-simple-perl
+# see:
+# http://www.techrepublic.com/article/parsing-xml-documents-with-perls-xmlsimple/
+use strict;
+use Getopt::Std;
+use XML::Simple;
+use Data::Dumper;
+use JSON;
+
+my (%opts, $data, $path);
+
+%opts = (
+    x => "",	# ' ' separated sequence of hash keys to extract substructure
+);
+
+getopts('x:', \%opts);
+
+die "cannot read $ARGV[0]" unless -r $ARGV[0];
+$data = XML::Simple->new()->XMLin($ARGV[0]);
+$path = $opts{x};
+while ($path =~ s/.*?(\w+)//) {
+    my $key = $1;
+    $data = ($key =~ /^\d+$/) ? $data->[$1] : $data->{$1};
+}
+print(to_json($data, {utf8 => 1, pretty => 1}));
+

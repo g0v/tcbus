@@ -1,0 +1,27 @@
+
+#tcbus_map_canvas {
+    width: 69%;
+    height: 540px;
+    float: left;
+}
+
+#info_pane {
+    width: 29%;
+    float: right;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    background: #ffc;
+}
+
+.footnote {
+    font-size: 80%;
+}

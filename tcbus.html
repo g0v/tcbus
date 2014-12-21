@@ -1,0 +1,36 @@
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<head>
+  <title>臺中市公車路線圖</title>
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+  <link rel="stylesheet" href="tcbus.css" />
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="tcbus.js"></script>
+</head>
+<body>
+
+    <h1>臺中市公車路線圖</h1>
+
+<div id="tcbus_map_canvas"> </div>
+
+<div id="info_pane"> <div>
+
+<h3>站牌詳細資訊：</h3>
+<span id="stop_details"></span>
+</div>
+
+<div>
+<h3>路線資訊：</h3>
+<span id="route_summary"></span>
+<br />
+<span id="route_details"></span>
+</div>
+
+<p class="footnote">
+詳見 <a href="https://github.com/g0v/tcbus">
+g0v 上的 tcbus 專案</a>
+</div>
+
+</body>
+</html>
