@@ -1,36 +1,66 @@
-<html>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!DOCTYPE 
+html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns=
+"http://www.w3.org/1999/xhtml">
 <head>
+  <meta name="generator" content=
+  "HTML Tidy for Linux (vers 25 March 2009), see www.w3.org" />
+  <meta http-equiv="Content-Type"
+  content="text/html; charset=utf-8" />
+
   <title>臺中市公車路線圖</title>
-  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-  <link rel="stylesheet" href="tcbus.css" />
-  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="tcbus.js"></script>
+  <link type="text/css" rel=
+  "stylesheet" href=
+  "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+  <link type="text/css" rel=
+  "stylesheet" href="tcbus.css" />
+  <script type="text/javascript" src=
+  "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js">
+</script>
+  <script type="text/javascript" src=
+  "http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js">
+</script>
+  <script type="text/javascript" src=
+  "tcbus.js">
+</script>
 </head>
+
 <body>
+  <h1>臺中市公車路線圖</h1>
 
-    <h1>臺中市公車路線圖</h1>
+  <div id="tcbus_map_canvas"></div>
 
-<div id="tcbus_map_canvas"> </div>
+  <div id="info_pane">
+    <div>
+      <h3>站牌詳細資訊：</h3>
 
-<div id="info_pane"> <div>
+      <p>(請點站牌)</p>
+      <span id="stop_details"></span>
+    </div>
 
-<h3>站牌詳細資訊：</h3>
-<span id="stop_details"></span>
-</div>
+    <div>
+      <h3>路線資訊：</h3>
 
-<div>
-<h3>路線資訊：</h3>
-<span id="route_summary"></span>
-<br />
-<span id="route_details"></span>
-</div>
+      <p>(請點路線)</p>
+      <span id="route_summary"></span><br />
+      <span id="route_details"></span>
+    </div>
 
-<p class="footnote">
-詳見 <a href="https://g0v.github.io/tcbus/">
-g0v 上的 tcbus 專案</a>
-</div>
+    <div>
+      <h3>勾選路線：</h3>
 
+<p>(目前的版本只能增加， 無法移除)</p>
+<input type="checkbox" class="route_selector" value="35">35</input><br />
+<input type="checkbox" class="route_selector" value="50">50</input><br />
+<input type="checkbox" class="route_selector" value="102">102</input><br />
+<input type="checkbox" class="route_selector" value="151">151</input><br />
+    </div>
+
+    <p class="footnote">詳見 <a href=
+    "https://g0v.github.io/tcbus/">g0v
+    上的 tcbus 專案</a></p>
+  </div>
 </body>
 </html>

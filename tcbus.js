@@ -43,7 +43,7 @@ function onClickRoute(e) {
 
 function loadRoute(rt_id) {
 
-    loaded = loadJson('data/route-' + rt_id + '.json');
+    loaded = loadJson('json/route-' + rt_id + '.json');
     loaded = loaded[0].PT;	// 目前只處理去程
     rt = RouteDB[rt_id] = {
 	stopList: [],
@@ -64,13 +64,13 @@ function loadRoute(rt_id) {
     rt.drawing.on("click", onClickRoute);
     rt.drawing.addTo(theMap);
 
-    loaded = loadJson('data/stops-' + rt_id + '.json');
+    loaded = loadJson('json/stops-' + rt_id + '.json');
     for (i=0; i < loaded.length; ++i) {
 	s = loaded[i];
 	if (s.GoBack != '1') continue;
 	if (! StopDB.hasOwnProperty(s.Id)) {
 	    // 第一次出現的站牌， 不曾出現在其他路線上
-	    StopDB[s.Id] = {
+	    st = StopDB[s.Id] = {
 		id: s.Id,
 		name: s.nameZh,
 		lon: s.longitude,
@@ -78,6 +78,14 @@ function loadRoute(rt_id) {
 		routeList: []
 	    }
 	    rt.name = s.routeId;
+	    st.drawing = L.marker( [st.lat, st.lon], {
+		title: st.name,
+		icon: busIcon
+	    } );
+	    st.drawing.stop = st;
+	    // 指回站牌資料結構，要讓 event handler 用
+	    st.drawing.on("click", onClickStop);
+	    st.drawing.addTo(theMap);
 	}
 	st = StopDB[s.Id];
 	st.routeList[st.routeList.length] = rt;
@@ -86,14 +94,39 @@ function loadRoute(rt_id) {
 	myRoute.stopList[seqNo] = st;
 	if (myRoute.firstStop > seqNo) myRoute.firstStop = seqNo;
 	if (myRoute.lastStop < seqNo) myRoute.lastStop = seqNo;
-	st.drawing = L.marker( [st.lat, st.lon], {
-	    title: st.name,
-	    icon: busIcon
-	} );
-	st.drawing.stop = st;	// 指回站牌資料結構，要讓 event handler 用
-	st.drawing.on("click", onClickStop);
-	st.drawing.addTo(theMap);
     }
+}
+
+function unloadRoute(rt_id) {
+    if (! RouteDB.hasOwnProperty(rt_id)) {
+	console.log(rt_id);
+	console.log(RouteDB);
+	return;
+    }
+    rt = RouteDB[rt_id];
+    for (i=0; i<rt.stopList.length; ++i) {
+	if(typeof rt.stopList[i] == 'undefined') continue;
+	st = rt.stopList[i];
+	for (j=0; j<st.routeList.length; ++j) {
+	    if (st.routeList[j] == rt) {
+		st.routeList[j] = st.routeList[--st.routeList.length];
+		break;
+	    }
+	}
+	if (st.routeList.length > 0 && typeof st.routeList[0] != 'undefined') {
+	    console.log("not deleting stop:");
+	    console.log(st);
+	}
+	// 目前無效， 要期待 leaflet 0.8 ：
+	// https://github.com/Leaflet/Leaflet/issues/4
+	delete st.drawing;
+	delete st;
+    }
+    // 目前無效， 要期待 leaflet 0.8 ：
+    // https://github.com/Leaflet/Leaflet/issues/4
+    delete rt.drawing;
+    delete rt;
+    delete RouteDB[rt_id];
 }
 
 // set up the theMap
@@ -111,9 +144,13 @@ var busIcon = L.icon({
     iconSize: [30, 31],
 });
 
-loadRoute('35');
-loadRoute('50');
-loadRoute('102');
-loadRoute('151');
+$("input:checkbox.route_selector").change(function(e) {
+    t = $(e.target);
+    if (t.prop("checked"))
+	loadRoute(t.attr("value"));
+    else 
+	unloadRoute(t.attr("value"));
+});
+
 
 });
