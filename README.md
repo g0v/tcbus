@@ -1,4 +1,4 @@
-tcbus
+tcbus 臺中市公車地圖
 =====
 
-臺中市公車地圖 (採用 leaflet 連 OSM 底圖)
+詳見 [計畫首頁](https://g0v.github.io/tcbus/)
