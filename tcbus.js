@@ -144,12 +144,27 @@ var busIcon = L.icon({
     iconSize: [30, 31],
 });
 
-$("input:checkbox.route_selector").change(function(e) {
+rsform = $("#rsform");
+loaded = loadJson('json/all-routes.json');
+for (rt_id in loaded) {
+    rsform.append('<input type="checkbox" value="' + rt_id + '">' + loaded[rt_id] + '</input><br />\n');
+}
+
+$("#route_selector input:checkbox").change(function(e) {
     t = $(e.target);
-    if (t.prop("checked"))
+    if (t.prop("checked")) {
 	loadRoute(t.attr("value"));
-    else 
-	unloadRoute(t.attr("value"));
+	t.attr("disabled", true);
+    } else {
+	// unloadRoute(t.attr("value"));
+    }
+});
+
+$("#route_selector h3").click(function(e) {
+    if (rsform.is(':hidden'))
+	rsform.show(600);
+    else
+	rsform.hide(600);
 });
 
 

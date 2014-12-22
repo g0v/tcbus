@@ -26,3 +26,7 @@ h3 {
     font-size: 80%;
 }
 
+#route_selector h3:hover {
+    background: #fcc;
+}
+

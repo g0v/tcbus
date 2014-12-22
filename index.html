@@ -30,14 +30,85 @@
 
       </header>
       <section>
-        <h3>
+        <!-- h3>
 <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>
-簡介</h3>
+簡介</h3 -->
+
+<h3>一、 簡介</h3>
 
 <p>這個程式讓你自行選擇要在 OpenStreetMap 上面顯示哪幾條
-(臺中市的) 公車路線。 目前你必須手動修改 tcbus.js 最下面幾句話。</p>
+(臺中市的) 公車路線。</p>
 
-<p>前往 <a href="tcbus.html">地圖頁面</a></p>
+<h3>二、 操作方式</h3>
+
+<ol>
+<li>勾選您有興趣的幾條路線。 目前的版本僅允許勾選路線， 不允許移除路線。
+如果要移除， 只好重新整理頁面從零開始。
+(因為底層函式庫 <a href="http://leafletjs.com/">leaflet</a>
+目前僅支援新增物件而不支援刪除或隱藏物件。)
+<li>點一下 「勾選路線」， 把路線選單藏起來。
+<li>點選一個站牌， 查看通過該站的路線。
+<li>點選一條路線， 查看該路線所停靠的所有站名。
+<strong>注意!</strong> 目前的版本僅顯示去程。
+<strong>您所選的公車， 去回程走的路線一模一樣嗎? 請自行確認!</strong>
+</ol>
+<p>直奔 <a href="tcbus.html">地圖頁面</a> 玩玩看吧!</p>
+
+<p>同場加映： 精簡版公車到站時刻查詢頁面，
+例如 <a href="timing.php?rid=151">查詢 151 路到站時刻</a>。
+(請自行修改網址。) 因為市政府的 <a href=
+"http://citybus.taichung.gov.tw/tcbus2/">
+公車動態資訊</a> 網站一定會顯示地圖；
+可是對於那些 (跟我一樣) 手機上網沒有吃到飽的族群，
+每個多下載的封包都是浪費掉的錢啊!
+
+<h3>三、 自行安裝</h3>
+
+<p>這個頁面僅僅使用 javascript， 所以您也可以在自己的電腦上安裝。
+從左側下載之後， 在您電腦的網頁目錄 (例如 ~/public_html
+或 /var/www) 解壓縮， 即可使用。
+
+<h3>四、 參與改進及開發</h3>
+
+<p>您不需要是程式高手也可參與改進這個計畫!
+
+<p>希望看見什麼新功能嗎? 現有功能及設計， 有哪些地方需要改進?
+
+<p>拜求 css 大大幫忙改進版面。
+(呵呵我小時候最爛的科目之一就是美術。)
+
+<p>目前不知該在哪裡開討論區比較好。
+搜尋到 <a href="http://ost.io/">osi.io</a>
+但是它自動只產生 <a href="http://ost.io/@ckhung">
+我個人的 projects 的討論區</a>；
+而這個 tcbus 計畫我把它開在 g0v 上面， 所以...
+(github 跟 g0v 的運作我都很不熟 orz)
+您若有什麼點子或希望參與， 目前只能 <a href=
+"http://user.frdm.info/ckhung/g/#contact">
+私下與我聯絡</a>。
+
+<h3>五、 給程式設計看的資訊</h3>
+
+<p>以後再補。
+
+<h3>六、 為什麼要開發這個程式</h3>
+
+<p>其實市政府的 <a href=
+"http://citybus.taichung.gov.tw/iTravel/">
+公車動態既路網轉乘系統</a> 做得還蠻不錯的，
+我幹嘛還要寫這個程式呢? 因為：
+<ol>
+<li>正在執行一個 OpenStreetMap 的科技部計畫， 需要產生一些績效。
+<li>受到中興大學電機系同學的啟發。 (連結待補)
+<li>想要寫 leaflet 的教學文。 (連結待補；
+有興趣的程式設計師可以先參考有點相關的 <a href=
+"http://newtoypia.blogspot.tw/2014/08/osm-mashup.html">
+「OSM 混搭很簡單」</a>)
+<li>想要同時顯示幾條路線。
+<li>手癢。 (最重要的原因)
+</ol>
+
+
       </section>
       <footer>
         <p><small>Hosted on <a href="http://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
