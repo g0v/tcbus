@@ -1,0 +1,422 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6442,
+        24.1582
+      ]
+    },
+    "properties": {
+      "id": "4497",
+      "name": "臺中市議會",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69323,
+        24.24841
+      ]
+    },
+    "properties": {
+      "id": "2993",
+      "name": "望寮",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69783,
+        24.24873
+      ]
+    },
+    "properties": {
+      "id": "5438",
+      "name": "岸裡國小",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70003,
+        24.249
+      ]
+    },
+    "properties": {
+      "id": "4498",
+      "name": "臺豐社區",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70229,
+        24.24951
+      ]
+    },
+    "properties": {
+      "id": "2489",
+      "name": "社皮鐵路巷",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70434,
+        24.24962
+      ]
+    },
+    "properties": {
+      "id": "2349",
+      "name": "忠勤新村",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70672,
+        24.24999
+      ]
+    },
+    "properties": {
+      "id": "1065",
+      "name": "三光新村",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70924,
+        24.24916
+      ]
+    },
+    "properties": {
+      "id": "4486",
+      "name": "圓環南中正路口",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71011,
+        24.24765
+      ]
+    },
+    "properties": {
+      "id": "4487",
+      "name": "圓環南永安街口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71164,
+        24.24666
+      ]
+    },
+    "properties": {
+      "id": "5440",
+      "name": "中興圓環南路口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7137,
+        24.2479
+      ]
+    },
+    "properties": {
+      "id": "5441",
+      "name": "臺中市政府衛生局",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71729,
+        24.2482
+      ]
+    },
+    "properties": {
+      "id": "5442",
+      "name": "中興田心路口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7211,
+        24.2469
+      ]
+    },
+    "properties": {
+      "id": "5443",
+      "name": "臺中市政府陽明大樓",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72278,
+        24.24603
+      ]
+    },
+    "properties": {
+      "id": "5142",
+      "name": "陽明自強南街口",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72562,
+        24.246
+      ]
+    },
+    "properties": {
+      "id": "4484",
+      "name": "圓環東南陽路口",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64682,
+        24.15762
+      ]
+    },
+    "properties": {
+      "id": "1433",
+      "name": "中央健保局(文心路)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72677,
+        24.24764
+      ]
+    },
+    "properties": {
+      "id": "4480",
+      "name": "圓環東同安街口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72855,
+        24.25077
+      ]
+    },
+    "properties": {
+      "id": "4481",
+      "name": "圓環東向陽路口",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72976,
+        24.25299
+      ]
+    },
+    "properties": {
+      "id": "5544",
+      "name": "葫蘆墩文化中心",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72983,
+        24.25577
+      ]
+    },
+    "properties": {
+      "id": "4478",
+      "name": "圓環東水源路口",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73071,
+        24.25786
+      ]
+    },
+    "properties": {
+      "id": "5867",
+      "name": "大楓樹福德祠",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73227,
+        24.2587
+      ]
+    },
+    "properties": {
+      "id": "4407",
+      "name": "永豐原紙廠",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73629,
+        24.26
+      ]
+    },
+    "properties": {
+      "id": "5684",
+      "name": "義士祠",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64759,
+        24.15975
+      ]
+    },
+    "properties": {
+      "id": "0019",
+      "name": "市警局",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64692,
+        24.16435
+      ]
+    },
+    "properties": {
+      "id": "0017",
+      "name": "臺中市政府",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64426,
+        24.16589
+      ]
+    },
+    "properties": {
+      "id": "0016",
+      "name": "新光三越",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63957,
+        24.16865
+      ]
+    },
+    "properties": {
+      "id": "0826",
+      "name": "秋紅谷(朝陽橋)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63517,
+        24.17187
+      ]
+    },
+    "properties": {
+      "id": "5788",
+      "name": "朝馬2(臺灣大道)",
+      "seq": 8
+    }
+  }
+]

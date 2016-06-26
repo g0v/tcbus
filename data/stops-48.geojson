@@ -1,0 +1,872 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68581,
+        24.14101
+      ]
+    },
+    "properties": {
+      "id": "0402",
+      "name": "干城站",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67148,
+        24.14963
+      ]
+    },
+    "properties": {
+      "id": "0723",
+      "name": "茄苳腳",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66941,
+        24.1513
+      ]
+    },
+    "properties": {
+      "id": "4619",
+      "name": "臺灣大道民權路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66744,
+        24.15304
+      ]
+    },
+    "properties": {
+      "id": "0419",
+      "name": "中正國小",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66207,
+        24.15588
+      ]
+    },
+    "properties": {
+      "id": "0320",
+      "name": "科學博物館(臺灣大道)",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65866,
+        24.15793
+      ]
+    },
+    "properties": {
+      "id": "0087",
+      "name": "忠明國小",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65634,
+        24.1592
+      ]
+    },
+    "properties": {
+      "id": "4569",
+      "name": "頂何厝(臺灣大道)",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6542,
+        24.16037
+      ]
+    },
+    "properties": {
+      "id": "4566",
+      "name": "何厝(臺灣大道)",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65122,
+        24.16189
+      ]
+    },
+    "properties": {
+      "id": "4564",
+      "name": "臺灣大道文心路口",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64666,
+        24.16435
+      ]
+    },
+    "properties": {
+      "id": "0017",
+      "name": "臺中市政府",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6443,
+        24.16582
+      ]
+    },
+    "properties": {
+      "id": "0016",
+      "name": "新光三越",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68443,
+        24.13901
+      ]
+    },
+    "properties": {
+      "id": "0443",
+      "name": "仁友東站",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64204,
+        24.16723
+      ]
+    },
+    "properties": {
+      "id": "0015",
+      "name": "教師新村",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63964,
+        24.169
+      ]
+    },
+    "properties": {
+      "id": "0826",
+      "name": "秋紅谷(朝陽橋)",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63717,
+        24.17059
+      ]
+    },
+    "properties": {
+      "id": "0054",
+      "name": "朝馬(臺灣大道)",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62374,
+        24.17874
+      ]
+    },
+    "properties": {
+      "id": "5149",
+      "name": "福安里(臺灣大道)",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62115,
+        24.18014
+      ]
+    },
+    "properties": {
+      "id": "3060",
+      "name": "統聯轉運站",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62012,
+        24.18082
+      ]
+    },
+    "properties": {
+      "id": "0008",
+      "name": "中港新城",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61516,
+        24.18257
+      ]
+    },
+    "properties": {
+      "id": "5431",
+      "name": "中港澄清醫院(工業一路)",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61471,
+        24.18017
+      ]
+    },
+    "properties": {
+      "id": "0507",
+      "name": "台中世貿中心",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61429,
+        24.17534
+      ]
+    },
+    "properties": {
+      "id": "0605",
+      "name": "安和國中",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6135,
+        24.17249
+      ]
+    },
+    "properties": {
+      "id": "0413",
+      "name": "裕國冷凍",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68358,
+        24.13897
+      ]
+    },
+    "properties": {
+      "id": "0151",
+      "name": "第一廣場",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61029,
+        24.17043
+      ]
+    },
+    "properties": {
+      "id": "5728",
+      "name": "發展署中彰投分署(工業區一路)",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60803,
+        24.16942
+      ]
+    },
+    "properties": {
+      "id": "5885",
+      "name": "工業區服務中心(工業區五路)",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60547,
+        24.1711
+      ]
+    },
+    "properties": {
+      "id": "5806",
+      "name": "工業區1與7路口",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60506,
+        24.17195
+      ]
+    },
+    "properties": {
+      "id": "5887",
+      "name": "工業區1與8路口",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60368,
+        24.17499
+      ]
+    },
+    "properties": {
+      "id": "0872",
+      "name": "裕力公司",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60161,
+        24.17484
+      ]
+    },
+    "properties": {
+      "id": "4021",
+      "name": "大新公司",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59907,
+        24.17368
+      ]
+    },
+    "properties": {
+      "id": "0554",
+      "name": "弘達公司",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59784,
+        24.17479
+      ]
+    },
+    "properties": {
+      "id": "5807",
+      "name": "工業區1與12路口",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59601,
+        24.17673
+      ]
+    },
+    "properties": {
+      "id": "1837",
+      "name": "臺灣乳品加工廠",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68254,
+        24.13998
+      ]
+    },
+    "properties": {
+      "id": "4401",
+      "name": "彰化銀行(臺灣大道)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59461,
+        24.17581
+      ]
+    },
+    "properties": {
+      "id": "0391",
+      "name": "工業區十四路口",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59368,
+        24.17966
+      ]
+    },
+    "properties": {
+      "id": "0392",
+      "name": "工業區十六路口",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59125,
+        24.17668
+      ]
+    },
+    "properties": {
+      "id": "2333",
+      "name": "尚銘公司",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5901,
+        24.1727
+      ]
+    },
+    "properties": {
+      "id": "0427",
+      "name": "工業區28與37路口",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59087,
+        24.17035
+      ]
+    },
+    "properties": {
+      "id": "0594",
+      "name": "匠澤公司",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5947,
+        24.1697
+      ]
+    },
+    "properties": {
+      "id": "0420",
+      "name": "工業區28與33路口",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5967,
+        24.1684
+      ]
+    },
+    "properties": {
+      "id": "0418",
+      "name": "工業區28與32路口",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59769,
+        24.1644
+      ]
+    },
+    "properties": {
+      "id": "5663",
+      "name": "臺中酒廠(工業區二十八路)",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59998,
+        24.16291
+      ]
+    },
+    "properties": {
+      "id": "0947",
+      "name": "環隆科技",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6015,
+        24.1618
+      ]
+    },
+    "properties": {
+      "id": "0416",
+      "name": "百容電子",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68009,
+        24.14198
+      ]
+    },
+    "properties": {
+      "id": "4395",
+      "name": "第二市場(臺灣大道)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60194,
+        24.15989
+      ]
+    },
+    "properties": {
+      "id": "5266",
+      "name": "台灣薄膜",
+      "seq": 50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6033,
+        24.15967
+      ]
+    },
+    "properties": {
+      "id": "3898",
+      "name": "聯強國際",
+      "seq": 51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60486,
+        24.16099
+      ]
+    },
+    "properties": {
+      "id": "5531",
+      "name": "五權西工業區23路口",
+      "seq": 52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60714,
+        24.16058
+      ]
+    },
+    "properties": {
+      "id": "5532",
+      "name": "五權西工業區21路口",
+      "seq": 53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60858,
+        24.15603
+      ]
+    },
+    "properties": {
+      "id": "2286",
+      "name": "辰皓電子",
+      "seq": 54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61243,
+        24.15423
+      ]
+    },
+    "properties": {
+      "id": "0944",
+      "name": "五權西嶺東路口",
+      "seq": 55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61232,
+        24.15128
+      ]
+    },
+    "properties": {
+      "id": "0116",
+      "name": "保安橋",
+      "seq": 56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6116,
+        24.1483
+      ]
+    },
+    "properties": {
+      "id": "0155",
+      "name": "嶺東文山六街口",
+      "seq": 57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61124,
+        24.14692
+      ]
+    },
+    "properties": {
+      "id": "2552",
+      "name": "保安公園",
+      "seq": 58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60996,
+        24.14109
+      ]
+    },
+    "properties": {
+      "id": "2660",
+      "name": "春社公園",
+      "seq": 59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60889,
+        24.13858
+      ]
+    },
+    "properties": {
+      "id": "5162",
+      "name": "嶺東科技大學(永春南路)",
+      "seq": 60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6007,
+        24.13945
+      ]
+    },
+    "properties": {
+      "id": "5796",
+      "name": "仁友停車場",
+      "seq": 61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67666,
+        24.14472
+      ]
+    },
+    "properties": {
+      "id": "4375",
+      "name": "臺灣大道中華路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67463,
+        24.14671
+      ]
+    },
+    "properties": {
+      "id": "5092",
+      "name": "臺灣大道原子街口",
+      "seq": 8
+    }
+  }
+]

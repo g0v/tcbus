@@ -1,0 +1,422 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61478,
+        24.35087
+      ]
+    },
+    "properties": {
+      "id": "5061",
+      "name": "新政大安港路口",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62143,
+        24.34212
+      ]
+    },
+    "properties": {
+      "id": "5048",
+      "name": "大甲高中(中山路)",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61874,
+        24.33972
+      ]
+    },
+    "properties": {
+      "id": "5693",
+      "name": "水尾橋",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61723,
+        24.33731
+      ]
+    },
+    "properties": {
+      "id": "1859",
+      "name": "外水尾",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61302,
+        24.33171
+      ]
+    },
+    "properties": {
+      "id": "4133",
+      "name": "番子寮",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6102,
+        24.32879
+      ]
+    },
+    "properties": {
+      "id": "6023",
+      "name": "武陵里",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60843,
+        24.3267
+      ]
+    },
+    "properties": {
+      "id": "1705",
+      "name": "水汴頭",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60594,
+        24.32729
+      ]
+    },
+    "properties": {
+      "id": "1132",
+      "name": "下水汴頭",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60384,
+        24.32823
+      ]
+    },
+    "properties": {
+      "id": "1665",
+      "name": "文曲里",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59712,
+        24.33442
+      ]
+    },
+    "properties": {
+      "id": "1592",
+      "name": "六塊厝",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59154,
+        24.33913
+      ]
+    },
+    "properties": {
+      "id": "2429",
+      "name": "東勢尾",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61645,
+        24.34723
+      ]
+    },
+    "properties": {
+      "id": "2038",
+      "name": "光田",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59079,
+        24.34072
+      ]
+    },
+    "properties": {
+      "id": "2761",
+      "name": "埔羌林",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58701,
+        24.34565
+      ]
+    },
+    "properties": {
+      "id": "4436",
+      "name": "大安區公所",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5842,
+        24.35003
+      ]
+    },
+    "properties": {
+      "id": "1476",
+      "name": "中庄",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58424,
+        24.35281
+      ]
+    },
+    "properties": {
+      "id": "4440",
+      "name": "中山南中海路口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58639,
+        24.36219
+      ]
+    },
+    "properties": {
+      "id": "1214",
+      "name": "下龜殼",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58653,
+        24.36488
+      ]
+    },
+    "properties": {
+      "id": "3866",
+      "name": "龜殼里",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58639,
+        24.36991
+      ]
+    },
+    "properties": {
+      "id": "3472",
+      "name": "溪洲",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58621,
+        24.37304
+      ]
+    },
+    "properties": {
+      "id": "0968",
+      "name": "溫寮橋",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58671,
+        24.37975
+      ]
+    },
+    "properties": {
+      "id": "1289",
+      "name": "大安港",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61737,
+        24.35018
+      ]
+    },
+    "properties": {
+      "id": "5691",
+      "name": "大甲體育場",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61841,
+        24.35135
+      ]
+    },
+    "properties": {
+      "id": "5692",
+      "name": "李綜合醫院",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62028,
+        24.34819
+      ]
+    },
+    "properties": {
+      "id": "5775",
+      "name": "庄尾(文武路)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62286,
+        24.34726
+      ]
+    },
+    "properties": {
+      "id": "1074",
+      "name": "文昌祠",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62664,
+        24.34461
+      ]
+    },
+    "properties": {
+      "id": "4432",
+      "name": "大甲火車站",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62553,
+        24.34321
+      ]
+    },
+    "properties": {
+      "id": "5084",
+      "name": "大甲",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62404,
+        24.34279
+      ]
+    },
+    "properties": {
+      "id": "5639",
+      "name": "南陽里(中山路)",
+      "seq": 9
+    }
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62553,
+        24.34321
+      ]
+    },
+    "properties": {
+      "id": "5084",
+      "name": "大甲",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6063,
+        24.35815
+      ]
+    },
+    "properties": {
+      "id": "3394",
+      "name": "新亞磚廠",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6033,
+        24.36129
+      ]
+    },
+    "properties": {
+      "id": "2459",
+      "name": "松仔腳",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60264,
+        24.3646
+      ]
+    },
+    "properties": {
+      "id": "1288",
+      "name": "大安國中",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60207,
+        24.36774
+      ]
+    },
+    "properties": {
+      "id": "2183",
+      "name": "西安里",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59981,
+        24.37185
+      ]
+    },
+    "properties": {
+      "id": "3514",
+      "name": "腳踏",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59671,
+        24.37533
+      ]
+    },
+    "properties": {
+      "id": "1711",
+      "name": "水柳",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59139,
+        24.37758
+      ]
+    },
+    "properties": {
+      "id": "4437",
+      "name": "大安港南北九路口",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58849,
+        24.37883
+      ]
+    },
+    "properties": {
+      "id": "5910",
+      "name": "海墘國小",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58667,
+        24.37974
+      ]
+    },
+    "properties": {
+      "id": "2800",
+      "name": "海墘",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59029,
+        24.38274
+      ]
+    },
+    "properties": {
+      "id": "1800",
+      "name": "北線",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62664,
+        24.34461
+      ]
+    },
+    "properties": {
+      "id": "4432",
+      "name": "大甲火車站",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59314,
+        24.38826
+      ]
+    },
+    "properties": {
+      "id": "5070",
+      "name": "頂五甲",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59045,
+        24.39053
+      ]
+    },
+    "properties": {
+      "id": "1529",
+      "name": "五甲港",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59447,
+        24.38989
+      ]
+    },
+    "properties": {
+      "id": "5071",
+      "name": "下五甲",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60038,
+        24.39471
+      ]
+    },
+    "properties": {
+      "id": "2108",
+      "name": "安田",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59896,
+        24.39207
+      ]
+    },
+    "properties": {
+      "id": "1981",
+      "name": "田心",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59561,
+        24.38723
+      ]
+    },
+    "properties": {
+      "id": "1934",
+      "name": "永安",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59885,
+        24.38669
+      ]
+    },
+    "properties": {
+      "id": "5572",
+      "name": "東西三南北八路口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60171,
+        24.38609
+      ]
+    },
+    "properties": {
+      "id": "5573",
+      "name": "環海宮",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60548,
+        24.38536
+      ]
+    },
+    "properties": {
+      "id": "5574",
+      "name": "東西三南北七路口",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61054,
+        24.38431
+      ]
+    },
+    "properties": {
+      "id": "5575",
+      "name": "東西三南北六路口",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62286,
+        24.34726
+      ]
+    },
+    "properties": {
+      "id": "1074",
+      "name": "文昌祠",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61529,
+        24.38332
+      ]
+    },
+    "properties": {
+      "id": "3094",
+      "name": "頂大安",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6153,
+        24.38031
+      ]
+    },
+    "properties": {
+      "id": "5576",
+      "name": "東西四南北五路口",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6117,
+        24.38104
+      ]
+    },
+    "properties": {
+      "id": "5577",
+      "name": "靖安宮",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60914,
+        24.38158
+      ]
+    },
+    "properties": {
+      "id": "5578",
+      "name": "東西四路200巷口",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60659,
+        24.38208
+      ]
+    },
+    "properties": {
+      "id": "5898",
+      "name": "永安國小(東西四路)",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60406,
+        24.38238
+      ]
+    },
+    "properties": {
+      "id": "5579",
+      "name": "南北七東西四路口",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60344,
+        24.37984
+      ]
+    },
+    "properties": {
+      "id": "5580",
+      "name": "福住里",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62028,
+        24.34819
+      ]
+    },
+    "properties": {
+      "id": "3062",
+      "name": "庄尾",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61878,
+        24.34873
+      ]
+    },
+    "properties": {
+      "id": "1621",
+      "name": "昇和醫院",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61645,
+        24.34723
+      ]
+    },
+    "properties": {
+      "id": "2038",
+      "name": "光田",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61478,
+        24.35087
+      ]
+    },
+    "properties": {
+      "id": "5061",
+      "name": "新政大安港路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61292,
+        24.35265
+      ]
+    },
+    "properties": {
+      "id": "1079",
+      "name": "三和塑膠",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61004,
+        24.35508
+      ]
+    },
+    "properties": {
+      "id": "3781",
+      "name": "橫圳",
+      "seq": 9
+    }
+  }
+]

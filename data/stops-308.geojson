@@ -1,0 +1,1022 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5301,
+        24.2396
+      ]
+    },
+    "properties": {
+      "id": "5314",
+      "name": "自立一街口",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5092,
+        24.2346
+      ]
+    },
+    "properties": {
+      "id": "5307",
+      "name": "大成經二路口",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5113,
+        24.2346
+      ]
+    },
+    "properties": {
+      "id": "5306",
+      "name": "大成南路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5147,
+        24.2372
+      ]
+    },
+    "properties": {
+      "id": "5305",
+      "name": "中港分處",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5219,
+        24.2601
+      ]
+    },
+    "properties": {
+      "id": "4519",
+      "name": "臺中港旅客服務中心",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.52401,
+        24.25585
+      ]
+    },
+    "properties": {
+      "id": "4382",
+      "name": "臺中港港務大樓",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.53035,
+        24.26079
+      ]
+    },
+    "properties": {
+      "id": "4979",
+      "name": "下寮里",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.53002,
+        24.25874
+      ]
+    },
+    "properties": {
+      "id": "1208",
+      "name": "下寮社區",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.52986,
+        24.25757
+      ]
+    },
+    "properties": {
+      "id": "5057",
+      "name": "梧棲郵局",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.52956,
+        24.25664
+      ]
+    },
+    "properties": {
+      "id": "4841",
+      "name": "梧棲(朝元宮)",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5286,
+        24.25366
+      ]
+    },
+    "properties": {
+      "id": "2107",
+      "name": "安仁里",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5285,
+        24.2401
+      ]
+    },
+    "properties": {
+      "id": "5313",
+      "name": "自立二街口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.53036,
+        24.25232
+      ]
+    },
+    "properties": {
+      "id": "2999",
+      "name": "梧棲國小",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.53444,
+        24.25083
+      ]
+    },
+    "properties": {
+      "id": "3250",
+      "name": "臺灣大道港埠路口",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.53916,
+        24.24908
+      ]
+    },
+    "properties": {
+      "id": "5915",
+      "name": "大庄(浩天宮)",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54117,
+        24.24818
+      ]
+    },
+    "properties": {
+      "id": "4824",
+      "name": "邱厝庄",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54247,
+        24.24765
+      ]
+    },
+    "properties": {
+      "id": "4041",
+      "name": "童綜合醫院(梧棲院區)",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54466,
+        24.24714
+      ]
+    },
+    "properties": {
+      "id": "4007",
+      "name": "體育館前",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54653,
+        24.24643
+      ]
+    },
+    "properties": {
+      "id": "4822",
+      "name": "東大庄",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54932,
+        24.24518
+      ]
+    },
+    "properties": {
+      "id": "1088",
+      "name": "三條圳",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55625,
+        24.24261
+      ]
+    },
+    "properties": {
+      "id": "1482",
+      "name": "中港國小",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5612,
+        24.24064
+      ]
+    },
+    "properties": {
+      "id": "5388",
+      "name": "臺灣大道中山路口",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5253,
+        24.238
+      ]
+    },
+    "properties": {
+      "id": "5312",
+      "name": "自立自強路口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56309,
+        24.24015
+      ]
+    },
+    "properties": {
+      "id": "2335",
+      "name": "居仁里",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56679,
+        24.23893
+      ]
+    },
+    "properties": {
+      "id": "0005",
+      "name": "沙鹿高工(臺灣大道)",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56786,
+        24.23839
+      ]
+    },
+    "properties": {
+      "id": "2147",
+      "name": "竹林國小",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56995,
+        24.23639
+      ]
+    },
+    "properties": {
+      "id": "4389",
+      "name": "竹林里",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57193,
+        24.23331
+      ]
+    },
+    "properties": {
+      "id": "4392",
+      "name": "紅竹巷",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57396,
+        24.23011
+      ]
+    },
+    "properties": {
+      "id": "4086",
+      "name": "臺灣大道北勢路口",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57674,
+        24.22576
+      ]
+    },
+    "properties": {
+      "id": "4147",
+      "name": "靜宜大學",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57911,
+        24.22188
+      ]
+    },
+    "properties": {
+      "id": "0442",
+      "name": "晉江寮",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5237,
+        24.2368
+      ]
+    },
+    "properties": {
+      "id": "5311",
+      "name": "關連服務中心",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58038,
+        24.21727
+      ]
+    },
+    "properties": {
+      "id": "4386",
+      "name": "弘光科技大學",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5813,
+        24.20988
+      ]
+    },
+    "properties": {
+      "id": "0435",
+      "name": "正英路",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58534,
+        24.18617
+      ]
+    },
+    "properties": {
+      "id": "2325",
+      "name": "坪頂",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5935,
+        24.1827
+      ]
+    },
+    "properties": {
+      "id": "0240",
+      "name": "東海別墅",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60359,
+        24.18289
+      ]
+    },
+    "properties": {
+      "id": "0444",
+      "name": "榮總/東海大學",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5208,
+        24.2379
+      ]
+    },
+    "properties": {
+      "id": "0031",
+      "name": "自強梧南路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61032,
+        24.18442
+      ]
+    },
+    "properties": {
+      "id": "0439",
+      "name": "玉門路",
+      "seq": 50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6172,
+        24.18204
+      ]
+    },
+    "properties": {
+      "id": "0007",
+      "name": "澄清醫院",
+      "seq": 52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61944,
+        24.18095
+      ]
+    },
+    "properties": {
+      "id": "0008",
+      "name": "中港新城",
+      "seq": 54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62337,
+        24.1792
+      ]
+    },
+    "properties": {
+      "id": "0445",
+      "name": "福安",
+      "seq": 56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63876,
+        24.16915
+      ]
+    },
+    "properties": {
+      "id": "0441",
+      "name": "秋紅谷",
+      "seq": 58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5131,
+        24.2409
+      ]
+    },
+    "properties": {
+      "id": "5309",
+      "name": "大通經一路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64336,
+        24.16583
+      ]
+    },
+    "properties": {
+      "id": "0467",
+      "name": "新光/遠百",
+      "seq": 60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6492,
+        24.1629
+      ]
+    },
+    "properties": {
+      "id": "0433",
+      "name": "市政府",
+      "seq": 62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65586,
+        24.15915
+      ]
+    },
+    "properties": {
+      "id": "0086",
+      "name": "頂何厝",
+      "seq": 64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65924,
+        24.15729
+      ]
+    },
+    "properties": {
+      "id": "0087",
+      "name": "忠明國小",
+      "seq": 66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66319,
+        24.15517
+      ]
+    },
+    "properties": {
+      "id": "2696",
+      "name": "科博館",
+      "seq": 68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5109,
+        24.2416
+      ]
+    },
+    "properties": {
+      "id": "5308",
+      "name": "大通經二路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66721,
+        24.15275
+      ]
+    },
+    "properties": {
+      "id": "0419",
+      "name": "中正國小",
+      "seq": 70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67157,
+        24.14924
+      ]
+    },
+    "properties": {
+      "id": "0723",
+      "name": "茄苳腳",
+      "seq": 72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67483,
+        24.14663
+      ]
+    },
+    "properties": {
+      "id": "5092",
+      "name": "臺灣大道原子街口",
+      "seq": 73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67695,
+        24.14474
+      ]
+    },
+    "properties": {
+      "id": "4375",
+      "name": "臺灣大道中華路口",
+      "seq": 74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67822,
+        24.14366
+      ]
+    },
+    "properties": {
+      "id": "4662",
+      "name": "仁愛醫院",
+      "seq": 75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67931,
+        24.14275
+      ]
+    },
+    "properties": {
+      "id": "4395",
+      "name": "第二市場(臺灣大道)",
+      "seq": 76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68245,
+        24.14001
+      ]
+    },
+    "properties": {
+      "id": "4401",
+      "name": "彰化銀行(臺灣大道)",
+      "seq": 77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68368,
+        24.13878
+      ]
+    },
+    "properties": {
+      "id": "0151",
+      "name": "第一廣場",
+      "seq": 78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68466,
+        24.1374
+      ]
+    },
+    "properties": {
+      "id": "1824",
+      "name": "臺中火車站",
+      "seq": 79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5091,
+        24.2405
+      ]
+    },
+    "properties": {
+      "id": "5508",
+      "name": "經三大通路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68592,
+        24.14076
+      ]
+    },
+    "properties": {
+      "id": "0402",
+      "name": "干城站",
+      "seq": 80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68616,
+        24.14418
+      ]
+    },
+    "properties": {
+      "id": "4544",
+      "name": "臺中公園(雙十路)",
+      "seq": 81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68448,
+        24.14626
+      ]
+    },
+    "properties": {
+      "id": "1513",
+      "name": "中興堂",
+      "seq": 82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68391,
+        24.1494
+      ]
+    },
+    "properties": {
+      "id": "0045",
+      "name": "國立臺中科技大學",
+      "seq": 83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68521,
+        24.15237
+      ]
+    },
+    "properties": {
+      "id": "0046",
+      "name": "中友百貨",
+      "seq": 84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6855,
+        24.15656
+      ]
+    },
+    "properties": {
+      "id": "0203",
+      "name": "市立殯儀館",
+      "seq": 85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68736,
+        24.15897
+      ]
+    },
+    "properties": {
+      "id": "4400",
+      "name": "新民高中(健行路)",
+      "seq": 86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5077,
+        24.2372
+      ]
+    },
+    "properties": {
+      "id": "5509",
+      "name": "經三大成路口",
+      "seq": 9
+    }
+  }
+]

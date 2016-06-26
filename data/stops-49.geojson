@@ -1,0 +1,392 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63946,
+        24.1648
+      ]
+    },
+    "properties": {
+      "id": "2161",
+      "name": "老虎城",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62115,
+        24.18027
+      ]
+    },
+    "properties": {
+      "id": "3060",
+      "name": "統聯轉運站",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61973,
+        24.18096
+      ]
+    },
+    "properties": {
+      "id": "0008",
+      "name": "中港新城",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61516,
+        24.18257
+      ]
+    },
+    "properties": {
+      "id": "5431",
+      "name": "中港澄清醫院(工業一路)",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61478,
+        24.18002
+      ]
+    },
+    "properties": {
+      "id": "0507",
+      "name": "台中世貿中心",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61414,
+        24.17538
+      ]
+    },
+    "properties": {
+      "id": "0605",
+      "name": "安和國中",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6135,
+        24.17249
+      ]
+    },
+    "properties": {
+      "id": "0413",
+      "name": "裕國冷凍",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61029,
+        24.17043
+      ]
+    },
+    "properties": {
+      "id": "5728",
+      "name": "發展署中彰投分署(工業區一路)",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60804,
+        24.16944
+      ]
+    },
+    "properties": {
+      "id": "5885",
+      "name": "工業區服務中心(工業區五路)",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60547,
+        24.1711
+      ]
+    },
+    "properties": {
+      "id": "5806",
+      "name": "工業區1與7路口",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60506,
+        24.17195
+      ]
+    },
+    "properties": {
+      "id": "5887",
+      "name": "工業區1與8路口",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63845,
+        24.16538
+      ]
+    },
+    "properties": {
+      "id": "6023",
+      "name": "老虎城2",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60367,
+        24.17499
+      ]
+    },
+    "properties": {
+      "id": "0872",
+      "name": "裕力公司",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60164,
+        24.17485
+      ]
+    },
+    "properties": {
+      "id": "4021",
+      "name": "大新公司",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59914,
+        24.17369
+      ]
+    },
+    "properties": {
+      "id": "0554",
+      "name": "弘達公司",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59784,
+        24.17479
+      ]
+    },
+    "properties": {
+      "id": "5807",
+      "name": "工業區1與12路口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59601,
+        24.17673
+      ]
+    },
+    "properties": {
+      "id": "1837",
+      "name": "臺灣乳品加工廠",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59461,
+        24.17581
+      ]
+    },
+    "properties": {
+      "id": "0391",
+      "name": "工業區十四路口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59369,
+        24.17968
+      ]
+    },
+    "properties": {
+      "id": "0392",
+      "name": "工業區十六路口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59146,
+        24.17686
+      ]
+    },
+    "properties": {
+      "id": "2333",
+      "name": "尚銘公司",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58884,
+        24.17562
+      ]
+    },
+    "properties": {
+      "id": "6055",
+      "name": "協和國小分校",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63806,
+        24.16743
+      ]
+    },
+    "properties": {
+      "id": "3059",
+      "name": "朝馬轉運站(朝富路)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6353,
+        24.16952
+      ]
+    },
+    "properties": {
+      "id": "4642",
+      "name": "朝馬黎明路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63312,
+        24.17008
+      ]
+    },
+    "properties": {
+      "id": "4648",
+      "name": "朝馬環中路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62252,
+        24.17466
+      ]
+    },
+    "properties": {
+      "id": "5106",
+      "name": "安和朝馬路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62353,
+        24.1767
+      ]
+    },
+    "properties": {
+      "id": "0285",
+      "name": "安和福玄路口",
+      "seq": 9
+    }
+  }
+]

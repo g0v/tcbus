@@ -1,0 +1,797 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73515,
+        24.29857
+      ]
+    },
+    "properties": {
+      "id": "5422",
+      "name": "后里馬場",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71932,
+        24.31245
+      ]
+    },
+    "properties": {
+      "id": "5415",
+      "name": "成功路105巷口",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72352,
+        24.31333
+      ]
+    },
+    "properties": {
+      "id": "5046",
+      "name": "三豐泉洲路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72493,
+        24.31873
+      ]
+    },
+    "properties": {
+      "id": "5469",
+      "name": "三豐后科南路口",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72366,
+        24.32342
+      ]
+    },
+    "properties": {
+      "id": "5045",
+      "name": "三豐九甲路口",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72837,
+        24.32585
+      ]
+    },
+    "properties": {
+      "id": "3271",
+      "name": "發電廠",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73476,
+        24.32515
+      ]
+    },
+    "properties": {
+      "id": "5059",
+      "name": "頂下城",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73989,
+        24.32379
+      ]
+    },
+    "properties": {
+      "id": "1164",
+      "name": "下城",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.74317,
+        24.32202
+      ]
+    },
+    "properties": {
+      "id": "3311",
+      "name": "集會所",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.74576,
+        24.32237
+      ]
+    },
+    "properties": {
+      "id": "2988",
+      "name": "教會前",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.74882,
+        24.32286
+      ]
+    },
+    "properties": {
+      "id": "2794",
+      "name": "泰安",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73421,
+        24.30228
+      ]
+    },
+    "properties": {
+      "id": "5789",
+      "name": "七星活動中心入口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75146,
+        24.32399
+      ]
+    },
+    "properties": {
+      "id": "5055",
+      "name": "泰安派出所",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.74864,
+        24.3262
+      ]
+    },
+    "properties": {
+      "id": "5056",
+      "name": "泰安國小",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.74495,
+        24.328
+      ]
+    },
+    "properties": {
+      "id": "0988",
+      "name": "七塊厝",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.74221,
+        24.32926
+      ]
+    },
+    "properties": {
+      "id": "5052",
+      "name": "安眉興安路口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73607,
+        24.33048
+      ]
+    },
+    "properties": {
+      "id": "5051",
+      "name": "安眉福美路口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72948,
+        24.33209
+      ]
+    },
+    "properties": {
+      "id": "5050",
+      "name": "公館(安眉路)",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72324,
+        24.33327
+      ]
+    },
+    "properties": {
+      "id": "2229",
+      "name": "尾社",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71972,
+        24.33368
+      ]
+    },
+    "properties": {
+      "id": "0993",
+      "name": "九股",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71242,
+        24.32971
+      ]
+    },
+    "properties": {
+      "id": "0211",
+      "name": "土地公廟(安眉路)",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70866,
+        24.33375
+      ]
+    },
+    "properties": {
+      "id": "0213",
+      "name": "永豐1鄰",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73095,
+        24.30467
+      ]
+    },
+    "properties": {
+      "id": "5421",
+      "name": "內東路營區",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69993,
+        24.33481
+      ]
+    },
+    "properties": {
+      "id": "0214",
+      "name": "六分月眉北路口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69122,
+        24.33399
+      ]
+    },
+    "properties": {
+      "id": "0219",
+      "name": "永豐農憩小站",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68858,
+        24.33401
+      ]
+    },
+    "properties": {
+      "id": "0221",
+      "name": "六分新厝路口",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68807,
+        24.33142
+      ]
+    },
+    "properties": {
+      "id": "0223",
+      "name": "六分永眉路口",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68317,
+        24.33143
+      ]
+    },
+    "properties": {
+      "id": "0225",
+      "name": "永豐6鄰",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67867,
+        24.33161
+      ]
+    },
+    "properties": {
+      "id": "0226",
+      "name": "永豐里活動中心",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67543,
+        24.33116
+      ]
+    },
+    "properties": {
+      "id": "0239",
+      "name": "高鐵橋下公園",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67104,
+        24.33246
+      ]
+    },
+    "properties": {
+      "id": "0241",
+      "name": "幼兒園",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66788,
+        24.33203
+      ]
+    },
+    "properties": {
+      "id": "0252",
+      "name": "永豐11鄰",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66425,
+        24.33227
+      ]
+    },
+    "properties": {
+      "id": "0256",
+      "name": "永豐社區",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73086,
+        24.30756
+      ]
+    },
+    "properties": {
+      "id": "5420",
+      "name": "內東大山路口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65858,
+        24.33141
+      ]
+    },
+    "properties": {
+      "id": "0258",
+      "name": "外埔自來水廠",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65652,
+        24.33254
+      ]
+    },
+    "properties": {
+      "id": "0266",
+      "name": "弘彰社區",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65452,
+        24.33195
+      ]
+    },
+    "properties": {
+      "id": "3548",
+      "name": "外埔區公所",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65249,
+        24.3326
+      ]
+    },
+    "properties": {
+      "id": "1865",
+      "name": "外埔",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65001,
+        24.335
+      ]
+    },
+    "properties": {
+      "id": "2652",
+      "name": "后寮",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64125,
+        24.3407
+      ]
+    },
+    "properties": {
+      "id": "1277",
+      "name": "大甲東",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6367,
+        24.34153
+      ]
+    },
+    "properties": {
+      "id": "0270",
+      "name": "甲東路36巷口",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63367,
+        24.34089
+      ]
+    },
+    "properties": {
+      "id": "0275",
+      "name": "幸福公園",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62946,
+        24.3404
+      ]
+    },
+    "properties": {
+      "id": "4899",
+      "name": "致用高中",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62643,
+        24.34027
+      ]
+    },
+    "properties": {
+      "id": "4558",
+      "name": "中正紀念館",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72933,
+        24.30933
+      ]
+    },
+    "properties": {
+      "id": "5419",
+      "name": "后里火車站(后里國小)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62285,
+        24.34205
+      ]
+    },
+    "properties": {
+      "id": "4433",
+      "name": "大甲高中(水源路)",
+      "seq": 50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62404,
+        24.34279
+      ]
+    },
+    "properties": {
+      "id": "5639",
+      "name": "南陽里(中山路)",
+      "seq": 51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62553,
+        24.34321
+      ]
+    },
+    "properties": {
+      "id": "5084",
+      "name": "大甲",
+      "seq": 52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62643,
+        24.34439
+      ]
+    },
+    "properties": {
+      "id": "4432",
+      "name": "大甲火車站",
+      "seq": 53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72843,
+        24.30923
+      ]
+    },
+    "properties": {
+      "id": "5418",
+      "name": "后里義里郵局",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72468,
+        24.30905
+      ]
+    },
+    "properties": {
+      "id": "5417",
+      "name": "甲后路329巷口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7209,
+        24.30898
+      ]
+    },
+    "properties": {
+      "id": "1169",
+      "name": "下后里",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71769,
+        24.31026
+      ]
+    },
+    "properties": {
+      "id": "5416",
+      "name": "成功甲后路口",
+      "seq": 9
+    }
+  }
+]

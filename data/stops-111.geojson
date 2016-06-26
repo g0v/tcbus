@@ -1,0 +1,452 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57005,
+        24.26341
+      ]
+    },
+    "properties": {
+      "id": "5999",
+      "name": "清水火車站(中正街)",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57506,
+        24.2679
+      ]
+    },
+    "properties": {
+      "id": "5141",
+      "name": "華南銀行(清水分行)",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57503,
+        24.26922
+      ]
+    },
+    "properties": {
+      "id": "1615",
+      "name": "分局前",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57004,
+        24.26923
+      ]
+    },
+    "properties": {
+      "id": "5655",
+      "name": "鰲峰西社路口",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56832,
+        24.26845
+      ]
+    },
+    "properties": {
+      "id": "2486",
+      "name": "社口",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56469,
+        24.26832
+      ]
+    },
+    "properties": {
+      "id": "3700",
+      "name": "銀聯二村",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56356,
+        24.26801
+      ]
+    },
+    "properties": {
+      "id": "3017",
+      "name": "清水國中",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56073,
+        24.2681
+      ]
+    },
+    "properties": {
+      "id": "5720",
+      "name": "清水第二市場",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55958,
+        24.2698
+      ]
+    },
+    "properties": {
+      "id": "5944",
+      "name": "港區藝術中心(建國路)",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55687,
+        24.27207
+      ]
+    },
+    "properties": {
+      "id": "4891",
+      "name": "秀水里",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55443,
+        24.27298
+      ]
+    },
+    "properties": {
+      "id": "5767",
+      "name": "首園",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57421,
+        24.26615
+      ]
+    },
+    "properties": {
+      "id": "0314",
+      "name": "清水高中(中山路)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55141,
+        24.27403
+      ]
+    },
+    "properties": {
+      "id": "5719",
+      "name": "武鹿里",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54947,
+        24.27477
+      ]
+    },
+    "properties": {
+      "id": "0300",
+      "name": "甲桂林社區",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54869,
+        24.27927
+      ]
+    },
+    "properties": {
+      "id": "0301",
+      "name": "港埠中清路口",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54931,
+        24.28189
+      ]
+    },
+    "properties": {
+      "id": "0302",
+      "name": "港埠五權路口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55005,
+        24.28493
+      ]
+    },
+    "properties": {
+      "id": "0303",
+      "name": "港埠海濱路口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55188,
+        24.29235
+      ]
+    },
+    "properties": {
+      "id": "0304",
+      "name": "港埠臨海路口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55039,
+        24.29771
+      ]
+    },
+    "properties": {
+      "id": "0306",
+      "name": "長明公司",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54647,
+        24.29965
+      ]
+    },
+    "properties": {
+      "id": "5760",
+      "name": "高美濕地遊客中心",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5447,
+        24.30382
+      ]
+    },
+    "properties": {
+      "id": "0308",
+      "name": "18號風車",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.52956,
+        24.31245
+      ]
+    },
+    "properties": {
+      "id": "0309",
+      "name": "9號風車",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57492,
+        24.26615
+      ]
+    },
+    "properties": {
+      "id": "5568",
+      "name": "清水高中(學園街)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.52527,
+        24.2923
+      ]
+    },
+    "properties": {
+      "id": "4394",
+      "name": "梧棲觀光漁港",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58021,
+        24.26804
+      ]
+    },
+    "properties": {
+      "id": "0296",
+      "name": "牛罵頭遺址",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5817,
+        24.269
+      ]
+    },
+    "properties": {
+      "id": "0297",
+      "name": "鰲峰山公園",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58161,
+        24.272
+      ]
+    },
+    "properties": {
+      "id": "0298",
+      "name": "清水鬼洞",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58179,
+        24.26905
+      ]
+    },
+    "properties": {
+      "id": "0297",
+      "name": "鰲峰山公園",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58026,
+        24.26815
+      ]
+    },
+    "properties": {
+      "id": "0296",
+      "name": "牛罵頭遺址",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57511,
+        24.26616
+      ]
+    },
+    "properties": {
+      "id": "5568",
+      "name": "清水高中(學園街)",
+      "seq": 9
+    }
+  }
+]

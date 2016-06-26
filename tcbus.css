@@ -1,12 +1,12 @@
 
 #map_pane {
     width: 69%;
-    float: left;
+    position: fixed;
 }
 
 #tcbus_map_canvas {
     width: 100%;
-    height: 540px;
+    height: 480px;
 }
 
 #info_pane {

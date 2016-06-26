@@ -1,0 +1,527 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82784,
+        24.25838
+      ]
+    },
+    "properties": {
+      "id": "2428",
+      "name": "東勢",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.84601,
+        24.2429
+      ]
+    },
+    "properties": {
+      "id": "2217",
+      "name": "伯公下",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8479,
+        24.24109
+      ]
+    },
+    "properties": {
+      "id": "1816",
+      "name": "古靈堂",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.85013,
+        24.24041
+      ]
+    },
+    "properties": {
+      "id": "2001",
+      "name": "石角",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.85152,
+        24.23887
+      ]
+    },
+    "properties": {
+      "id": "2003",
+      "name": "石角國小",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.85426,
+        24.23618
+      ]
+    },
+    "properties": {
+      "id": "1227",
+      "name": "上石角",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.86117,
+        24.23723
+      ]
+    },
+    "properties": {
+      "id": "3312",
+      "name": "雲仙洞",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.86353,
+        24.23974
+      ]
+    },
+    "properties": {
+      "id": "2018",
+      "name": "石橋頭前",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.86816,
+        24.241
+      ]
+    },
+    "properties": {
+      "id": "2324",
+      "name": "坪埔",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.87327,
+        24.24027
+      ]
+    },
+    "properties": {
+      "id": "3881",
+      "name": "檢查站",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.87836,
+        24.23691
+      ]
+    },
+    "properties": {
+      "id": "3449",
+      "name": "楊桃樹腳",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82924,
+        24.25518
+      ]
+    },
+    "properties": {
+      "id": "2570",
+      "name": "南平里",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.87783,
+        24.23398
+      ]
+    },
+    "properties": {
+      "id": "5211",
+      "name": "下楊桃樹腳",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.87886,
+        24.22969
+      ]
+    },
+    "properties": {
+      "id": "5213",
+      "name": "上小南坑",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8789,
+        24.22751
+      ]
+    },
+    "properties": {
+      "id": "1384",
+      "name": "小南坑",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.87817,
+        24.22394
+      ]
+    },
+    "properties": {
+      "id": "0985",
+      "name": "七公里",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.87944,
+        24.21904
+      ]
+    },
+    "properties": {
+      "id": "1018",
+      "name": "八公里",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.88277,
+        24.21422
+      ]
+    },
+    "properties": {
+      "id": "1319",
+      "name": "大南坑",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.88412,
+        24.21512
+      ]
+    },
+    "properties": {
+      "id": "5202",
+      "name": "九公里",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.88903,
+        24.21784
+      ]
+    },
+    "properties": {
+      "id": "1038",
+      "name": "十公里",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.88739,
+        24.2206
+      ]
+    },
+    "properties": {
+      "id": "1027",
+      "name": "十一公里",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.89415,
+        24.22085
+      ]
+    },
+    "properties": {
+      "id": "1029",
+      "name": "十二公里",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82984,
+        24.25259
+      ]
+    },
+    "properties": {
+      "id": "1415",
+      "name": "中嵙口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8959,
+        24.22576
+      ]
+    },
+    "properties": {
+      "id": "1032",
+      "name": "十三公里",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.90027,
+        24.23267
+      ]
+    },
+    "properties": {
+      "id": "1042",
+      "name": "十四公里",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.90688,
+        24.23924
+      ]
+    },
+    "properties": {
+      "id": "5302",
+      "name": "十五公里",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.90703,
+        24.24073
+      ]
+    },
+    "properties": {
+      "id": "3783",
+      "name": "橫流溪",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.00787,
+        24.25623
+      ]
+    },
+    "properties": {
+      "id": "3535",
+      "name": "遊客中心",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.02873,
+        24.28251
+      ]
+    },
+    "properties": {
+      "id": "5219",
+      "name": "大雪山森林遊樂區",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83065,
+        24.24976
+      ]
+    },
+    "properties": {
+      "id": "4409",
+      "name": "東勢南站",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83282,
+        24.24723
+      ]
+    },
+    "properties": {
+      "id": "2002",
+      "name": "石角口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8321,
+        24.24749
+      ]
+    },
+    "properties": {
+      "id": "4524",
+      "name": "東坑豐勢路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83707,
+        24.24493
+      ]
+    },
+    "properties": {
+      "id": "1339",
+      "name": "大雪山後門",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.84068,
+        24.24496
+      ]
+    },
+    "properties": {
+      "id": "2921",
+      "name": "高簡",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.84251,
+        24.24493
+      ]
+    },
+    "properties": {
+      "id": "1242",
+      "name": "上高簡",
+      "seq": 9
+    }
+  }
+]

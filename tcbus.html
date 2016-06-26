@@ -11,22 +11,20 @@ html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
   content="text/html; charset=utf-8" />
 
   <title>臺中市公車路線圖</title>
-  <link type="text/css" rel="stylesheet" href="leaflet.css" />
-  <link type="text/css" rel=
-  "stylesheet" href="tcbus.css" />
-  <script type="text/javascript" src="leaflet.js">
-</script>
-  <script type="text/javascript" src=
-  "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js">
-</script>
+  <link rel="stylesheet" href="tcbus.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="leaflet.tooltip.css" />
+  <script src="leaflet.tooltip.js"></script>
   <script type="text/javascript" src="tcbus.js">
 </script>
 </head>
 
 <body>
-  <h1>臺中市公車路線圖</h1>
 
   <div id="map_pane">
+  <h1>臺中市公車路線圖</h1>
       <div id="tcbus_map_canvas"></div>
 
     <!-- div>

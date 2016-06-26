@@ -1,0 +1,377 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80835,
+        24.24458
+      ]
+    },
+    "properties": {
+      "id": "3398",
+      "name": "新社",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79585,
+        24.22431
+      ]
+    },
+    "properties": {
+      "id": "1720",
+      "name": "水頭",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79363,
+        24.22204
+      ]
+    },
+    "properties": {
+      "id": "2940",
+      "name": "國隆社區",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7931,
+        24.22078
+      ]
+    },
+    "properties": {
+      "id": "2892",
+      "name": "馬力埔",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79235,
+        24.219
+      ]
+    },
+    "properties": {
+      "id": "2675",
+      "name": "活動中心",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79421,
+        24.21843
+      ]
+    },
+    "properties": {
+      "id": "2987",
+      "name": "教堂前",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79603,
+        24.21791
+      ]
+    },
+    "properties": {
+      "id": "3363",
+      "name": "新二村",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79593,
+        24.21429
+      ]
+    },
+    "properties": {
+      "id": "3082",
+      "name": "陳厝",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79583,
+        24.21127
+      ]
+    },
+    "properties": {
+      "id": "1123",
+      "name": "下中興嶺",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79445,
+        24.2075
+      ]
+    },
+    "properties": {
+      "id": "3885",
+      "name": "營區前",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79406,
+        24.20579
+      ]
+    },
+    "properties": {
+      "id": "0437",
+      "name": "中興嶺",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80769,
+        24.24262
+      ]
+    },
+    "properties": {
+      "id": "3162",
+      "name": "頂新社",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79005,
+        24.20679
+      ]
+    },
+    "properties": {
+      "id": "1625",
+      "name": "天主教堂",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.78449,
+        24.21076
+      ]
+    },
+    "properties": {
+      "id": "5241",
+      "name": "受奉宮",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.78174,
+        24.21466
+      ]
+    },
+    "properties": {
+      "id": "2779",
+      "name": "崁頂",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.77629,
+        24.21629
+      ]
+    },
+    "properties": {
+      "id": "1431",
+      "name": "中央",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.77412,
+        24.21711
+      ]
+    },
+    "properties": {
+      "id": "1494",
+      "name": "中路",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.77309,
+        24.21789
+      ]
+    },
+    "properties": {
+      "id": "1697",
+      "name": "水井",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80658,
+        24.23922
+      ]
+    },
+    "properties": {
+      "id": "3400",
+      "name": "新社高中",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8057,
+        24.23711
+      ]
+    },
+    "properties": {
+      "id": "5707",
+      "name": "擺頭店",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80451,
+        24.23582
+      ]
+    },
+    "properties": {
+      "id": "5705",
+      "name": "復盛橋",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80339,
+        24.2302
+      ]
+    },
+    "properties": {
+      "id": "3679",
+      "name": "種苗繁殖場",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79961,
+        24.22922
+      ]
+    },
+    "properties": {
+      "id": "1318",
+      "name": "大南",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79874,
+        24.22815
+      ]
+    },
+    "properties": {
+      "id": "2356",
+      "name": "內觀中心",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79749,
+        24.22637
+      ]
+    },
+    "properties": {
+      "id": "3586",
+      "name": "廖厝",
+      "seq": 9
+    }
+  }
+]

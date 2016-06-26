@@ -1,0 +1,347 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6845,
+        24.13897
+      ]
+    },
+    "properties": {
+      "id": "0443",
+      "name": "仁友東站",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6961,
+        24.13468
+      ]
+    },
+    "properties": {
+      "id": "2402",
+      "name": "建成東光園路口",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69665,
+        24.13814
+      ]
+    },
+    "properties": {
+      "id": "4562",
+      "name": "建成樂業路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69678,
+        24.14076
+      ]
+    },
+    "properties": {
+      "id": "5176",
+      "name": "東光旱溪街口",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69755,
+        24.14432
+      ]
+    },
+    "properties": {
+      "id": "5180",
+      "name": "東光十甲路口",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69784,
+        24.1463
+      ]
+    },
+    "properties": {
+      "id": "5116",
+      "name": "東光精武路口",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69848,
+        24.15095
+      ]
+    },
+    "properties": {
+      "id": "5114",
+      "name": "東光力行路口",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69884,
+        24.15366
+      ]
+    },
+    "properties": {
+      "id": "2398",
+      "name": "東光三街口",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6992,
+        24.15615
+      ]
+    },
+    "properties": {
+      "id": "2165",
+      "name": "肉品市場",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7011,
+        24.1572
+      ]
+    },
+    "properties": {
+      "id": "5839",
+      "name": "東成一街口",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7021,
+        24.1591
+      ]
+    },
+    "properties": {
+      "id": "5840",
+      "name": "東成三街",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.701,
+        24.1602
+      ]
+    },
+    "properties": {
+      "id": "5841",
+      "name": "天祥東光路口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70026,
+        24.16643
+      ]
+    },
+    "properties": {
+      "id": "4351",
+      "name": "太原火車站",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70292,
+        24.16474
+      ]
+    },
+    "properties": {
+      "id": "0218",
+      "name": "三川福德祠",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70621,
+        24.16468
+      ]
+    },
+    "properties": {
+      "id": "0470",
+      "name": "太原二號橋",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71275,
+        24.16436
+      ]
+    },
+    "properties": {
+      "id": "5113",
+      "name": "東山高中(太原路)",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68359,
+        24.13287
+      ]
+    },
+    "properties": {
+      "id": "0049",
+      "name": "第三市場",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68498,
+        24.1304
+      ]
+    },
+    "properties": {
+      "id": "0257",
+      "name": "臺中國小",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68556,
+        24.12981
+      ]
+    },
+    "properties": {
+      "id": "5647",
+      "name": "興大附農(建成路)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68796,
+        24.13072
+      ]
+    },
+    "properties": {
+      "id": "2029",
+      "name": "建成立德街口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6899,
+        24.13148
+      ]
+    },
+    "properties": {
+      "id": "4655",
+      "name": "建成大智路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69233,
+        24.13251
+      ]
+    },
+    "properties": {
+      "id": "4362",
+      "name": "建成大振街口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69397,
+        24.13319
+      ]
+    },
+    "properties": {
+      "id": "0188",
+      "name": "大東紡織(建成路)",
+      "seq": 9
+    }
+  }
+]

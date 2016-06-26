@@ -1,0 +1,467 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56383,
+        24.19349
+      ]
+    },
+    "properties": {
+      "id": "5855",
+      "name": "天母櫻城",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56422,
+        24.20671
+      ]
+    },
+    "properties": {
+      "id": "0373",
+      "name": "保寧向上路口",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5669,
+        24.20735
+      ]
+    },
+    "properties": {
+      "id": "0372",
+      "name": "保安保寧路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56922,
+        24.20596
+      ]
+    },
+    "properties": {
+      "id": "0371",
+      "name": "正德路72巷口",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5712,
+        24.20369
+      ]
+    },
+    "properties": {
+      "id": "0370",
+      "name": "正德正順路口",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57322,
+        24.20163
+      ]
+    },
+    "properties": {
+      "id": "0369",
+      "name": "正德正義路口",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57449,
+        24.20266
+      ]
+    },
+    "properties": {
+      "id": "0368",
+      "name": "溫莎城堡社區",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57364,
+        24.20607
+      ]
+    },
+    "properties": {
+      "id": "0367",
+      "name": "正順正義路口",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57619,
+        24.20993
+      ]
+    },
+    "properties": {
+      "id": "5429",
+      "name": "正英七街口",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58108,
+        24.2099
+      ]
+    },
+    "properties": {
+      "id": "3531",
+      "name": "正英臺灣大道口",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58079,
+        24.21365
+      ]
+    },
+    "properties": {
+      "id": "4124",
+      "name": "頂六路",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56399,
+        24.19554
+      ]
+    },
+    "properties": {
+      "id": "0386",
+      "name": "裕國社區",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5808,
+        24.2166
+      ]
+    },
+    "properties": {
+      "id": "4386",
+      "name": "弘光科技大學",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57986,
+        24.22106
+      ]
+    },
+    "properties": {
+      "id": "4111",
+      "name": "晉江里",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57809,
+        24.22357
+      ]
+    },
+    "properties": {
+      "id": "4062",
+      "name": "下晉江",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57533,
+        24.22699
+      ]
+    },
+    "properties": {
+      "id": "0498",
+      "name": "靜宜大學(英才路)",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5729,
+        24.22609
+      ]
+    },
+    "properties": {
+      "id": "5370",
+      "name": "英才東英路口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56939,
+        24.22506
+      ]
+    },
+    "properties": {
+      "id": "4794",
+      "name": "北勢國中",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56701,
+        24.22883
+      ]
+    },
+    "properties": {
+      "id": "2362",
+      "name": "明泰社區",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5657,
+        24.232
+      ]
+    },
+    "properties": {
+      "id": "4817",
+      "name": "沙鹿區公所",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5659,
+        24.2335
+      ]
+    },
+    "properties": {
+      "id": "5504",
+      "name": "沙鹿戶政事務所",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56455,
+        24.23731
+      ]
+    },
+    "properties": {
+      "id": "4390",
+      "name": "沙鹿高工(中山路)",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56355,
+        24.19882
+      ]
+    },
+    "properties": {
+      "id": "0384",
+      "name": "水裡社公園",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56236,
+        24.23768
+      ]
+    },
+    "properties": {
+      "id": "2682",
+      "name": "洛泉里",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56106,
+        24.23783
+      ]
+    },
+    "properties": {
+      "id": "5914",
+      "name": "巨業沙鹿站",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56333,
+        24.20018
+      ]
+    },
+    "properties": {
+      "id": "5854",
+      "name": "龍沙橋",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56658,
+        24.19886
+      ]
+    },
+    "properties": {
+      "id": "0383",
+      "name": "自立中樂街口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56844,
+        24.19842
+      ]
+    },
+    "properties": {
+      "id": "0382",
+      "name": "中正新城(自立路)",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56834,
+        24.20115
+      ]
+    },
+    "properties": {
+      "id": "3198",
+      "name": "鹿港寮",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56698,
+        24.20365
+      ]
+    },
+    "properties": {
+      "id": "0379",
+      "name": "向上屏西路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56436,
+        24.20585
+      ]
+    },
+    "properties": {
+      "id": "0397",
+      "name": "向上保寧路口",
+      "seq": 9
+    }
+  }
+]

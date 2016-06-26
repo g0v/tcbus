@@ -1,0 +1,827 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68742,
+        24.04587
+      ]
+    },
+    "properties": {
+      "id": "5529",
+      "name": "亞洲大學安藤館",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6844,
+        24.0297
+      ]
+    },
+    "properties": {
+      "id": "0451",
+      "name": "豐正中投東路口",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68227,
+        24.03016
+      ]
+    },
+    "properties": {
+      "id": "5768",
+      "name": "船板橋",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67909,
+        24.03126
+      ]
+    },
+    "properties": {
+      "id": "5769",
+      "name": "煙間",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67505,
+        24.03264
+      ]
+    },
+    "properties": {
+      "id": "2611",
+      "name": "南勢(豐正路)",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67198,
+        24.03448
+      ]
+    },
+    "properties": {
+      "id": "2287",
+      "name": "邑興社區",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66772,
+        24.03632
+      ]
+    },
+    "properties": {
+      "id": "0585",
+      "name": "光正國小",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66617,
+        24.03739
+      ]
+    },
+    "properties": {
+      "id": "1792",
+      "name": "北勢里",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66851,
+        24.04
+      ]
+    },
+    "properties": {
+      "id": "2085",
+      "name": "合作農場",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6697,
+        24.04133
+      ]
+    },
+    "properties": {
+      "id": "5713",
+      "name": "北勢社區",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67293,
+        24.04507
+      ]
+    },
+    "properties": {
+      "id": "5205",
+      "name": "下丁台",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68828,
+        24.04473
+      ]
+    },
+    "properties": {
+      "id": "4413",
+      "name": "王厝",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67527,
+        24.04872
+      ]
+    },
+    "properties": {
+      "id": "0983",
+      "name": "丁台",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67495,
+        24.05213
+      ]
+    },
+    "properties": {
+      "id": "1011",
+      "name": "二媽廟前",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6749,
+        24.0528
+      ]
+    },
+    "properties": {
+      "id": "1003",
+      "name": "二林",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67481,
+        24.05549
+      ]
+    },
+    "properties": {
+      "id": "3243",
+      "name": "曾厝",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67536,
+        24.05659
+      ]
+    },
+    "properties": {
+      "id": "5799",
+      "name": "丁台路296巷口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6768,
+        24.0618
+      ]
+    },
+    "properties": {
+      "id": "0454",
+      "name": "丁台霧工五路口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6767,
+        24.0642
+      ]
+    },
+    "properties": {
+      "id": "0535",
+      "name": "新厝",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6797,
+        24.06502
+      ]
+    },
+    "properties": {
+      "id": "1779",
+      "name": "北柳",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68287,
+        24.06538
+      ]
+    },
+    "properties": {
+      "id": "5267",
+      "name": "領鮮超市",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68643,
+        24.06576
+      ]
+    },
+    "properties": {
+      "id": "3105",
+      "name": "頂北柳",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68992,
+        24.04306
+      ]
+    },
+    "properties": {
+      "id": "4629",
+      "name": "光復國中小(柳豐路)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68809,
+        24.0659
+      ]
+    },
+    "properties": {
+      "id": "2293",
+      "name": "佳興新村",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69175,
+        24.06612
+      ]
+    },
+    "properties": {
+      "id": "3977",
+      "name": "霧峰國中",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6958,
+        24.06585
+      ]
+    },
+    "properties": {
+      "id": "5850",
+      "name": "聖賢宮(四德路)",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.697,
+        24.0639
+      ]
+    },
+    "properties": {
+      "id": "5439",
+      "name": "樹仁育仁路口",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69643,
+        24.06007
+      ]
+    },
+    "properties": {
+      "id": "5444",
+      "name": "福德宮",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69772,
+        24.05731
+      ]
+    },
+    "properties": {
+      "id": "3976",
+      "name": "霧峰國小",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69799,
+        24.05932
+      ]
+    },
+    "properties": {
+      "id": "5546",
+      "name": "教育部國教署",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69829,
+        24.06197
+      ]
+    },
+    "properties": {
+      "id": "3978",
+      "name": "霧峰郵局",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69858,
+        24.06376
+      ]
+    },
+    "properties": {
+      "id": "3972",
+      "name": "霧峰",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69909,
+        24.06741
+      ]
+    },
+    "properties": {
+      "id": "5461",
+      "name": "市場口",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6917,
+        24.0416
+      ]
+    },
+    "properties": {
+      "id": "5814",
+      "name": "六股(中正路)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70128,
+        24.06716
+      ]
+    },
+    "properties": {
+      "id": "6044",
+      "name": "甲寅(民生路)",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70294,
+        24.07051
+      ]
+    },
+    "properties": {
+      "id": "3571",
+      "name": "僑榮國小",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70534,
+        24.07281
+      ]
+    },
+    "properties": {
+      "id": "0292",
+      "name": "民生自強路口",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70705,
+        24.07381
+      ]
+    },
+    "properties": {
+      "id": "1509",
+      "name": "中興社區",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71036,
+        24.07434
+      ]
+    },
+    "properties": {
+      "id": "5994",
+      "name": "民生路198巷",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71464,
+        24.07595
+      ]
+    },
+    "properties": {
+      "id": "2059",
+      "name": "吉峰里",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71704,
+        24.07764
+      ]
+    },
+    "properties": {
+      "id": "5995",
+      "name": "交叉點",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71951,
+        24.07834
+      ]
+    },
+    "properties": {
+      "id": "4725",
+      "name": "桐林里",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72394,
+        24.07693
+      ]
+    },
+    "properties": {
+      "id": "2076",
+      "name": "吊橋頭",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72571,
+        24.07535
+      ]
+    },
+    "properties": {
+      "id": "3720",
+      "name": "廣興社區",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.693,
+        24.0383
+      ]
+    },
+    "properties": {
+      "id": "1400",
+      "name": "山腳巷",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73027,
+        24.07223
+      ]
+    },
+    "properties": {
+      "id": "0347",
+      "name": "土地公廟",
+      "seq": 50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73246,
+        24.07132
+      ]
+    },
+    "properties": {
+      "id": "3445",
+      "name": "暗坑",
+      "seq": 51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73364,
+        24.06897
+      ]
+    },
+    "properties": {
+      "id": "5911",
+      "name": "番石榴園(606巷)",
+      "seq": 52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73541,
+        24.06611
+      ]
+    },
+    "properties": {
+      "id": "2790",
+      "name": "桐林國小",
+      "seq": 53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73703,
+        24.06414
+      ]
+    },
+    "properties": {
+      "id": "5209",
+      "name": "下桐林",
+      "seq": 54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73864,
+        24.06192
+      ]
+    },
+    "properties": {
+      "id": "2789",
+      "name": "桐林",
+      "seq": 55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6907,
+        24.0378
+      ]
+    },
+    "properties": {
+      "id": "0448",
+      "name": "六股庄",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.688,
+        24.0381
+      ]
+    },
+    "properties": {
+      "id": "0449",
+      "name": "六股庄福德祠",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68566,
+        24.03556
+      ]
+    },
+    "properties": {
+      "id": "5798",
+      "name": "板橋福德祠",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6844,
+        24.0342
+      ]
+    },
+    "properties": {
+      "id": "0450",
+      "name": "板橋中投東路口",
+      "seq": 9
+    }
+  }
+]

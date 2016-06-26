@@ -1,0 +1,317 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.53022,
+        24.2543
+      ]
+    },
+    "properties": {
+      "id": "4393",
+      "name": "梧棲農會",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54401,
+        24.1765
+      ]
+    },
+    "properties": {
+      "id": "2144",
+      "name": "竹坑口",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5425,
+        24.16529
+      ]
+    },
+    "properties": {
+      "id": "1395",
+      "name": "山陽",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54421,
+        24.15462
+      ]
+    },
+    "properties": {
+      "id": "1303",
+      "name": "大肚火車站",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54641,
+        24.14672
+      ]
+    },
+    "properties": {
+      "id": "1359",
+      "name": "大道國中",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55386,
+        24.13284
+      ]
+    },
+    "properties": {
+      "id": "2494",
+      "name": "社腳",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56174,
+        24.12489
+      ]
+    },
+    "properties": {
+      "id": "2886",
+      "name": "追分郵局",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57017,
+        24.12112
+      ]
+    },
+    "properties": {
+      "id": "2884",
+      "name": "追分",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57582,
+        24.11901
+      ]
+    },
+    "properties": {
+      "id": "2597",
+      "name": "南追分",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59081,
+        24.11353
+      ]
+    },
+    "properties": {
+      "id": "1743",
+      "name": "王田",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60111,
+        24.11042
+      ]
+    },
+    "properties": {
+      "id": "2120",
+      "name": "成功嶺",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.53336,
+        24.25084
+      ]
+    },
+    "properties": {
+      "id": "3250",
+      "name": "臺灣大道港埠路口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60596,
+        24.10887
+      ]
+    },
+    "properties": {
+      "id": "5083",
+      "name": "三和里2",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6143,
+        24.10873
+      ]
+    },
+    "properties": {
+      "id": "6021",
+      "name": "新烏日火車站",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54327,
+        24.24728
+      ]
+    },
+    "properties": {
+      "id": "4689",
+      "name": "童綜合醫院(梧棲院區)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55028,
+        24.24092
+      ]
+    },
+    "properties": {
+      "id": "5957",
+      "name": "中華文昌路口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54527,
+        24.22783
+      ]
+    },
+    "properties": {
+      "id": "5958",
+      "name": "中華永興路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55179,
+        24.21389
+      ]
+    },
+    "properties": {
+      "id": "5159",
+      "name": "龍山國小(山腳里)",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54805,
+        24.20304
+      ]
+    },
+    "properties": {
+      "id": "3850",
+      "name": "龍目井",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54593,
+        24.19231
+      ]
+    },
+    "properties": {
+      "id": "5160",
+      "name": "龍井區公所",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54547,
+        24.18238
+      ]
+    },
+    "properties": {
+      "id": "3031",
+      "name": "深水",
+      "seq": 9
+    }
+  }
+]

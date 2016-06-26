@@ -1,0 +1,332 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72154,
+        24.2538
+      ]
+    },
+    "properties": {
+      "id": "3935",
+      "name": "豐原",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69606,
+        24.26555
+      ]
+    },
+    "properties": {
+      "id": "2655",
+      "name": "後壁厝",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69073,
+        24.26621
+      ]
+    },
+    "properties": {
+      "id": "2840",
+      "name": "神洲",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68592,
+        24.26797
+      ]
+    },
+    "properties": {
+      "id": "1496",
+      "name": "中寮",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68296,
+        24.26933
+      ]
+    },
+    "properties": {
+      "id": "1143",
+      "name": "下圳寮",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68095,
+        24.26727
+      ]
+    },
+    "properties": {
+      "id": "3934",
+      "name": "豐洲",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67957,
+        24.26597
+      ]
+    },
+    "properties": {
+      "id": "1205",
+      "name": "下溪洲",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67765,
+        24.26491
+      ]
+    },
+    "properties": {
+      "id": "4945",
+      "name": "崎腳",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6756,
+        24.26328
+      ]
+    },
+    "properties": {
+      "id": "5895",
+      "name": "三條溝",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67315,
+        24.25992
+      ]
+    },
+    "properties": {
+      "id": "5896",
+      "name": "貝多芬幼兒園",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67175,
+        24.25767
+      ]
+    },
+    "properties": {
+      "id": "5897",
+      "name": "厚生北庄路口",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7184,
+        24.25178
+      ]
+    },
+    "properties": {
+      "id": "3343",
+      "name": "媽祖廟",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66832,
+        24.25732
+      ]
+    },
+    "properties": {
+      "id": "1783",
+      "name": "北庄",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66294,
+        24.25812
+      ]
+    },
+    "properties": {
+      "id": "3066",
+      "name": "庄頭",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66141,
+        24.25771
+      ]
+    },
+    "properties": {
+      "id": "2837",
+      "name": "神岡區公所",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71571,
+        24.25245
+      ]
+    },
+    "properties": {
+      "id": "2097",
+      "name": "圳寮口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71548,
+        24.25557
+      ]
+    },
+    "properties": {
+      "id": "2098",
+      "name": "圳寮里",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71299,
+        24.25583
+      ]
+    },
+    "properties": {
+      "id": "4473",
+      "name": "圓環北中山路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71133,
+        24.25835
+      ]
+    },
+    "properties": {
+      "id": "3458",
+      "name": "源龍社區",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70844,
+        24.25975
+      ]
+    },
+    "properties": {
+      "id": "2021",
+      "name": "石頭厝",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70375,
+        24.26201
+      ]
+    },
+    "properties": {
+      "id": "4967",
+      "name": "豐洲國小",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6999,
+        24.26388
+      ]
+    },
+    "properties": {
+      "id": "1323",
+      "name": "豐洲大洲路口",
+      "seq": 9
+    }
+  }
+]

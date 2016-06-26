@@ -1,0 +1,512 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61564,
+        24.11387
+      ]
+    },
+    "properties": {
+      "id": "2907",
+      "name": "高鐵臺中站",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63957,
+        24.16865
+      ]
+    },
+    "properties": {
+      "id": "0826",
+      "name": "秋紅谷(朝陽橋)",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63517,
+        24.17187
+      ]
+    },
+    "properties": {
+      "id": "5788",
+      "name": "朝馬2(臺灣大道)",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75175,
+        24.27084
+      ]
+    },
+    "properties": {
+      "id": "4412",
+      "name": "國家教育研究院",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75398,
+        24.27345
+      ]
+    },
+    "properties": {
+      "id": "2128",
+      "name": "朴子口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75652,
+        24.27507
+      ]
+    },
+    "properties": {
+      "id": "4454",
+      "name": "民安",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75916,
+        24.27657
+      ]
+    },
+    "properties": {
+      "id": "2947",
+      "name": "埤頭",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.76675,
+        24.27812
+      ]
+    },
+    "properties": {
+      "id": "2005",
+      "name": "石岡水壩",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7719,
+        24.27755
+      ]
+    },
+    "properties": {
+      "id": "2337",
+      "name": "岡尾",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.77635,
+        24.27653
+      ]
+    },
+    "properties": {
+      "id": "2004",
+      "name": "石岡",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.78075,
+        24.27492
+      ]
+    },
+    "properties": {
+      "id": "4456",
+      "name": "石岡區公所",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.78428,
+        24.27447
+      ]
+    },
+    "properties": {
+      "id": "0992",
+      "name": "九房厝",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.78874,
+        24.27386
+      ]
+    },
+    "properties": {
+      "id": "2983",
+      "name": "情人木橋",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79172,
+        24.2726
+      ]
+    },
+    "properties": {
+      "id": "2496",
+      "name": "社寮角",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79646,
+        24.27049
+      ]
+    },
+    "properties": {
+      "id": "3440",
+      "name": "新豐冷凍",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80127,
+        24.26864
+      ]
+    },
+    "properties": {
+      "id": "3003",
+      "name": "梅子",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80419,
+        24.26745
+      ]
+    },
+    "properties": {
+      "id": "2357",
+      "name": "明山寺",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80692,
+        24.26608
+      ]
+    },
+    "properties": {
+      "id": "1114",
+      "name": "下土牛",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81019,
+        24.26398
+      ]
+    },
+    "properties": {
+      "id": "3074",
+      "name": "連厝",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8127,
+        24.26237
+      ]
+    },
+    "properties": {
+      "id": "3728",
+      "name": "德興里",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63454,
+        24.1612
+      ]
+    },
+    "properties": {
+      "id": "4641",
+      "name": "市政黎明路口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81608,
+        24.26021
+      ]
+    },
+    "properties": {
+      "id": "4430",
+      "name": "土牛(豐勢路)",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82456,
+        24.26119
+      ]
+    },
+    "properties": {
+      "id": "4415",
+      "name": "東勢游泳池",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82784,
+        24.25838
+      ]
+    },
+    "properties": {
+      "id": "2428",
+      "name": "東勢",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82934,
+        24.25515
+      ]
+    },
+    "properties": {
+      "id": "2570",
+      "name": "南平里",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83003,
+        24.25251
+      ]
+    },
+    "properties": {
+      "id": "1415",
+      "name": "中嵙口",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83063,
+        24.24998
+      ]
+    },
+    "properties": {
+      "id": "4409",
+      "name": "東勢南站",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83189,
+        24.24803
+      ]
+    },
+    "properties": {
+      "id": "2002",
+      "name": "石角口",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83329,
+        24.24339
+      ]
+    },
+    "properties": {
+      "id": "0312",
+      "name": "新盛里(東勢高工)",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63822,
+        24.15914
+      ]
+    },
+    "properties": {
+      "id": "0294",
+      "name": "第六分局(市政路)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64323,
+        24.15627
+      ]
+    },
+    "properties": {
+      "id": "0295",
+      "name": "市政惠文路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64759,
+        24.15935
+      ]
+    },
+    "properties": {
+      "id": "0019",
+      "name": "市警局",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64705,
+        24.16438
+      ]
+    },
+    "properties": {
+      "id": "0017",
+      "name": "臺中市政府",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64426,
+        24.16589
+      ]
+    },
+    "properties": {
+      "id": "0016",
+      "name": "新光三越",
+      "seq": 9
+    }
+  }
+]

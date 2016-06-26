@@ -1,0 +1,422 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82786,
+        24.25839
+      ]
+    },
+    "properties": {
+      "id": "2428",
+      "name": "東勢",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81678,
+        24.27817
+      ]
+    },
+    "properties": {
+      "id": "3640",
+      "name": "福成橋",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81301,
+        24.28103
+      ]
+    },
+    "properties": {
+      "id": "4653",
+      "name": "東蘭大明路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81048,
+        24.2819
+      ]
+    },
+    "properties": {
+      "id": "2786",
+      "name": "校栗埔",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80814,
+        24.28331
+      ]
+    },
+    "properties": {
+      "id": "1089",
+      "name": "三清宮",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80343,
+        24.28411
+      ]
+    },
+    "properties": {
+      "id": "1175",
+      "name": "下校栗埔",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8014,
+        24.28486
+      ]
+    },
+    "properties": {
+      "id": "1925",
+      "name": "民誠宮",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79774,
+        24.28518
+      ]
+    },
+    "properties": {
+      "id": "2010",
+      "name": "石城橋頭",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79564,
+        24.2867
+      ]
+    },
+    "properties": {
+      "id": "2008",
+      "name": "石城",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79599,
+        24.28812
+      ]
+    },
+    "properties": {
+      "id": "1228",
+      "name": "上石城",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8011,
+        24.29391
+      ]
+    },
+    "properties": {
+      "id": "3090",
+      "name": "頂上",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82695,
+        24.26104
+      ]
+    },
+    "properties": {
+      "id": "4500",
+      "name": "東勢老人會館",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80272,
+        24.29847
+      ]
+    },
+    "properties": {
+      "id": "2012",
+      "name": "石排",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80099,
+        24.30194
+      ]
+    },
+    "properties": {
+      "id": "2017",
+      "name": "石壁坑口",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8047,
+        24.30323
+      ]
+    },
+    "properties": {
+      "id": "3444",
+      "name": "暗山",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81141,
+        24.30437
+      ]
+    },
+    "properties": {
+      "id": "5809",
+      "name": "永盛巷口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80725,
+        24.30544
+      ]
+    },
+    "properties": {
+      "id": "1248",
+      "name": "上圓屯",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7999,
+        24.30682
+      ]
+    },
+    "properties": {
+      "id": "3382",
+      "name": "新田口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79434,
+        24.30906
+      ]
+    },
+    "properties": {
+      "id": "1195",
+      "name": "下圓屯",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.79124,
+        24.3102
+      ]
+    },
+    "properties": {
+      "id": "2358",
+      "name": "明正國小",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.78571,
+        24.31174
+      ]
+    },
+    "properties": {
+      "id": "2359",
+      "name": "明正里",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82678,
+        24.26235
+      ]
+    },
+    "properties": {
+      "id": "2434",
+      "name": "東新國中",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.826,
+        24.26491
+      ]
+    },
+    "properties": {
+      "id": "1200",
+      "name": "下新社區",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8248,
+        24.26667
+      ]
+    },
+    "properties": {
+      "id": "1197",
+      "name": "下新",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82331,
+        24.26853
+      ]
+    },
+    "properties": {
+      "id": "2190",
+      "name": "東蘭西門巷口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82224,
+        24.2716
+      ]
+    },
+    "properties": {
+      "id": "1019",
+      "name": "八分",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82082,
+        24.27315
+      ]
+    },
+    "properties": {
+      "id": "2044",
+      "name": "東蘭光明路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81871,
+        24.27559
+      ]
+    },
+    "properties": {
+      "id": "1977",
+      "name": "田中央",
+      "seq": 9
+    }
+  }
+]

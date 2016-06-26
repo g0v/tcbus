@@ -1,0 +1,452 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57005,
+        24.26341
+      ]
+    },
+    "properties": {
+      "id": "5999",
+      "name": "清水火車站(中正街)",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57339,
+        24.28704
+      ]
+    },
+    "properties": {
+      "id": "1096",
+      "name": "三塊厝",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57468,
+        24.29059
+      ]
+    },
+    "properties": {
+      "id": "4782",
+      "name": "三田路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5754,
+        24.29249
+      ]
+    },
+    "properties": {
+      "id": "5343",
+      "name": "城隍廟",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57586,
+        24.29537
+      ]
+    },
+    "properties": {
+      "id": "5516",
+      "name": "國姓里(三美路)",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57718,
+        24.29747
+      ]
+    },
+    "properties": {
+      "id": "4814",
+      "name": "李厝",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57775,
+        24.29953
+      ]
+    },
+    "properties": {
+      "id": "5528",
+      "name": "溪底(三美路)",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57763,
+        24.30091
+      ]
+    },
+    "properties": {
+      "id": "4870",
+      "name": "臨海路口",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57566,
+        24.30573
+      ]
+    },
+    "properties": {
+      "id": "5721",
+      "name": "蔡厝(三美路)",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5752,
+        24.30732
+      ]
+    },
+    "properties": {
+      "id": "4853",
+      "name": "溪頭仔",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57334,
+        24.30905
+      ]
+    },
+    "properties": {
+      "id": "3070",
+      "name": "許厝",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5742,
+        24.2658
+      ]
+    },
+    "properties": {
+      "id": "0314",
+      "name": "清水高中(中山路)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5703,
+        24.31044
+      ]
+    },
+    "properties": {
+      "id": "4837",
+      "name": "高美植物園",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56557,
+        24.31128
+      ]
+    },
+    "properties": {
+      "id": "3406",
+      "name": "新厝(三美路)",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56292,
+        24.31058
+      ]
+    },
+    "properties": {
+      "id": "4835",
+      "name": "高美",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55975,
+        24.30949
+      ]
+    },
+    "properties": {
+      "id": "4789",
+      "name": "五分子",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55723,
+        24.31086
+      ]
+    },
+    "properties": {
+      "id": "4831",
+      "name": "海口村",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5555,
+        24.31103
+      ]
+    },
+    "properties": {
+      "id": "0347",
+      "name": "土地公廟",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55226,
+        24.31122
+      ]
+    },
+    "properties": {
+      "id": "4793",
+      "name": "文興宮",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55137,
+        24.3118
+      ]
+    },
+    "properties": {
+      "id": "4728",
+      "name": "高美濕地",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54944,
+        24.30845
+      ]
+    },
+    "properties": {
+      "id": "0322",
+      "name": "西安朝天宮",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54649,
+        24.30599
+      ]
+    },
+    "properties": {
+      "id": "0326",
+      "name": "高美濕地體驗館",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57516,
+        24.2683
+      ]
+    },
+    "properties": {
+      "id": "5141",
+      "name": "華南銀行(清水分行)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54631,
+        24.29995
+      ]
+    },
+    "properties": {
+      "id": "5760",
+      "name": "高美濕地遊客中心",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57594,
+        24.2703
+      ]
+    },
+    "properties": {
+      "id": "3013",
+      "name": "清水",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57687,
+        24.27284
+      ]
+    },
+    "properties": {
+      "id": "4521",
+      "name": "中山董公街口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57725,
+        24.27461
+      ]
+    },
+    "properties": {
+      "id": "4442",
+      "name": "中山高美路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57524,
+        24.27929
+      ]
+    },
+    "properties": {
+      "id": "4863",
+      "name": "橋頭",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57494,
+        24.28251
+      ]
+    },
+    "properties": {
+      "id": "4847",
+      "name": "頂橋頭",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57462,
+        24.28457
+      ]
+    },
+    "properties": {
+      "id": "3586",
+      "name": "廖厝",
+      "seq": 9
+    }
+  }
+]

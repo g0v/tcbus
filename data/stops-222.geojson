@@ -1,0 +1,422 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72154,
+        24.2538
+      ]
+    },
+    "properties": {
+      "id": "3935",
+      "name": "豐原",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7254,
+        24.24326
+      ]
+    },
+    "properties": {
+      "id": "4966",
+      "name": "豐原醫院",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72749,
+        24.24384
+      ]
+    },
+    "properties": {
+      "id": "1946",
+      "name": "永康南陽路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72859,
+        24.24545
+      ]
+    },
+    "properties": {
+      "id": "0020",
+      "name": "豐東南陽路口",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72982,
+        24.24802
+      ]
+    },
+    "properties": {
+      "id": "5163",
+      "name": "豐原監理站",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73132,
+        24.24987
+      ]
+    },
+    "properties": {
+      "id": "3896",
+      "name": "豐東向陽路口",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73375,
+        24.25266
+      ]
+    },
+    "properties": {
+      "id": "3439",
+      "name": "豐東北陽二街口",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73419,
+        24.25557
+      ]
+    },
+    "properties": {
+      "id": "3441",
+      "name": "水源豐東路口",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73574,
+        24.2557
+      ]
+    },
+    "properties": {
+      "id": "3931",
+      "name": "豐村國小",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73793,
+        24.25591
+      ]
+    },
+    "properties": {
+      "id": "5943",
+      "name": "水源豐原大道口",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.74185,
+        24.25572
+      ]
+    },
+    "properties": {
+      "id": "3937",
+      "name": "豐原高中",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71612,
+        24.25276
+      ]
+    },
+    "properties": {
+      "id": "2097",
+      "name": "圳寮口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.74367,
+        24.25562
+      ]
+    },
+    "properties": {
+      "id": "1716",
+      "name": "水源地",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.74806,
+        24.25445
+      ]
+    },
+    "properties": {
+      "id": "1437",
+      "name": "中正公園",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75264,
+        24.25743
+      ]
+    },
+    "properties": {
+      "id": "1773",
+      "name": "北坑口",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75497,
+        24.25939
+      ]
+    },
+    "properties": {
+      "id": "3815",
+      "name": "蕭家花園",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75471,
+        24.25996
+      ]
+    },
+    "properties": {
+      "id": "1953",
+      "name": "水遠橋",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75267,
+        24.26048
+      ]
+    },
+    "properties": {
+      "id": "3352",
+      "name": "慈惠堂",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75307,
+        24.26087
+      ]
+    },
+    "properties": {
+      "id": "2546",
+      "name": "丘逢甲紀念公園",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75143,
+        24.26099
+      ]
+    },
+    "properties": {
+      "id": "4965",
+      "name": "興農牛莊",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75444,
+        24.26416
+      ]
+    },
+    "properties": {
+      "id": "3038",
+      "name": "豐原球場",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71526,
+        24.25136
+      ]
+    },
+    "properties": {
+      "id": "3939",
+      "name": "豐原郵局",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7184,
+        24.25178
+      ]
+    },
+    "properties": {
+      "id": "3343",
+      "name": "媽祖廟",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72365,
+        24.25229
+      ]
+    },
+    "properties": {
+      "id": "4203",
+      "name": "新都酒店",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72414,
+        24.25075
+      ]
+    },
+    "properties": {
+      "id": "3238",
+      "name": "惠陽中陽路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7227,
+        24.24911
+      ]
+    },
+    "properties": {
+      "id": "2607",
+      "name": "南陽國小",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72343,
+        24.24764
+      ]
+    },
+    "properties": {
+      "id": "2269",
+      "name": "育樂新村",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72278,
+        24.24603
+      ]
+    },
+    "properties": {
+      "id": "5142",
+      "name": "陽明自強南街口",
+      "seq": 9
+    }
+  }
+]

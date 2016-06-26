@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.00835,
+        24.20284
+      ]
+    },
+    "properties": {
+      "id": "2274",
+      "name": "谷關",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.00436,
+        24.20283
+      ]
+    },
+    "properties": {
+      "id": "3852",
+      "name": "龍谷樂園",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.00157,
+        24.2009
+      ]
+    },
+    "properties": {
+      "id": "2290",
+      "name": "佳保臺",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        121.00825,
+        24.19686
+      ]
+    },
+    "properties": {
+      "id": "5203",
+      "name": "八仙山森林遊樂區",
+      "seq": 4
+    }
+  }
+]

@@ -1,0 +1,932 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6845,
+        24.13897
+      ]
+    },
+    "properties": {
+      "id": "0443",
+      "name": "仁友東站",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6961,
+        24.13468
+      ]
+    },
+    "properties": {
+      "id": "2402",
+      "name": "建成東光園路口",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69665,
+        24.13814
+      ]
+    },
+    "properties": {
+      "id": "4562",
+      "name": "建成樂業路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69678,
+        24.14076
+      ]
+    },
+    "properties": {
+      "id": "5176",
+      "name": "東光旱溪街口",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69755,
+        24.14432
+      ]
+    },
+    "properties": {
+      "id": "5180",
+      "name": "東光十甲路口",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69784,
+        24.1463
+      ]
+    },
+    "properties": {
+      "id": "5116",
+      "name": "東光精武路口",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69848,
+        24.15095
+      ]
+    },
+    "properties": {
+      "id": "5114",
+      "name": "東光力行路口",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69884,
+        24.15366
+      ]
+    },
+    "properties": {
+      "id": "2398",
+      "name": "東光三街口",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6992,
+        24.15615
+      ]
+    },
+    "properties": {
+      "id": "2165",
+      "name": "肉品市場",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7011,
+        24.1572
+      ]
+    },
+    "properties": {
+      "id": "5839",
+      "name": "東成一街口",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7021,
+        24.1591
+      ]
+    },
+    "properties": {
+      "id": "5840",
+      "name": "東成三街",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.701,
+        24.1602
+      ]
+    },
+    "properties": {
+      "id": "5841",
+      "name": "天祥東光路口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70026,
+        24.16643
+      ]
+    },
+    "properties": {
+      "id": "4351",
+      "name": "太原火車站",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70292,
+        24.16474
+      ]
+    },
+    "properties": {
+      "id": "0218",
+      "name": "三川福德祠",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70621,
+        24.16468
+      ]
+    },
+    "properties": {
+      "id": "0470",
+      "name": "太原二號橋",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71275,
+        24.16436
+      ]
+    },
+    "properties": {
+      "id": "5113",
+      "name": "東山高中(太原路)",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71434,
+        24.1642
+      ]
+    },
+    "properties": {
+      "id": "5175",
+      "name": "太原軍功路口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71676,
+        24.16359
+      ]
+    },
+    "properties": {
+      "id": "1430",
+      "name": "中台駕訓班",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72179,
+        24.16296
+      ]
+    },
+    "properties": {
+      "id": "0809",
+      "name": "弘光復健醫院",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7232,
+        24.1652
+      ]
+    },
+    "properties": {
+      "id": "5842",
+      "name": "祥和公園",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7258,
+        24.1668
+      ]
+    },
+    "properties": {
+      "id": "5843",
+      "name": "情人橋(景賢路)",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68359,
+        24.13287
+      ]
+    },
+    "properties": {
+      "id": "0049",
+      "name": "第三市場",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7274,
+        24.1649
+      ]
+    },
+    "properties": {
+      "id": "5844",
+      "name": "祥順軍福七路口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7277,
+        24.1619
+      ]
+    },
+    "properties": {
+      "id": "0471",
+      "name": "太原六號橋",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7334,
+        24.16202
+      ]
+    },
+    "properties": {
+      "id": "5035",
+      "name": "?子太原路口",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73342,
+        24.16609
+      ]
+    },
+    "properties": {
+      "id": "3079",
+      "name": "?子巷口",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73331,
+        24.16719
+      ]
+    },
+    "properties": {
+      "id": "4154",
+      "name": "?子景賢路口",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73343,
+        24.17029
+      ]
+    },
+    "properties": {
+      "id": "0755",
+      "name": "國際青年之家",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73422,
+        24.17238
+      ]
+    },
+    "properties": {
+      "id": "0682",
+      "name": "花園新城",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73632,
+        24.17555
+      ]
+    },
+    "properties": {
+      "id": "1428",
+      "name": "中臺科技大學",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73834,
+        24.17637
+      ]
+    },
+    "properties": {
+      "id": "0917",
+      "name": "樂達利山莊",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73952,
+        24.17775
+      ]
+    },
+    "properties": {
+      "id": "0351",
+      "name": "大坑橋",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68498,
+        24.1304
+      ]
+    },
+    "properties": {
+      "id": "0257",
+      "name": "臺中國小",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73994,
+        24.17918
+      ]
+    },
+    "properties": {
+      "id": "0350",
+      "name": "大坑圓環",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73714,
+        24.17847
+      ]
+    },
+    "properties": {
+      "id": "0784",
+      "name": "逢甲橋",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73565,
+        24.1778
+      ]
+    },
+    "properties": {
+      "id": "0768",
+      "name": "梨仔園",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73467,
+        24.17726
+      ]
+    },
+    "properties": {
+      "id": "0534",
+      "name": "台電東山所",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73195,
+        24.17708
+      ]
+    },
+    "properties": {
+      "id": "0854",
+      "name": "圓山新村",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72754,
+        24.1767
+      ]
+    },
+    "properties": {
+      "id": "0555",
+      "name": "正覺寺",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72436,
+        24.17618
+      ]
+    },
+    "properties": {
+      "id": "0687",
+      "name": "長興塑膠",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72222,
+        24.17606
+      ]
+    },
+    "properties": {
+      "id": "4592",
+      "name": "和平里(東山路)",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71975,
+        24.17591
+      ]
+    },
+    "properties": {
+      "id": "0727",
+      "name": "軍功里",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71935,
+        24.17728
+      ]
+    },
+    "properties": {
+      "id": "2723",
+      "name": "軍功農會",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68556,
+        24.12981
+      ]
+    },
+    "properties": {
+      "id": "5647",
+      "name": "興大附農(建成路)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71968,
+        24.17988
+      ]
+    },
+    "properties": {
+      "id": "2631",
+      "name": "建功橋頭",
+      "seq": 50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71934,
+        24.18293
+      ]
+    },
+    "properties": {
+      "id": "0729",
+      "name": "軍功松竹路口",
+      "seq": 51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71914,
+        24.18439
+      ]
+    },
+    "properties": {
+      "id": "1552",
+      "name": "仁愛之家",
+      "seq": 52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71836,
+        24.18839
+      ]
+    },
+    "properties": {
+      "id": "2078",
+      "name": "名人球場",
+      "seq": 53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71984,
+        24.19385
+      ]
+    },
+    "properties": {
+      "id": "4976",
+      "name": "慈濟中醫院",
+      "seq": 54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72097,
+        24.19567
+      ]
+    },
+    "properties": {
+      "id": "3359",
+      "name": "慈濟醫院",
+      "seq": 55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72196,
+        24.19924
+      ]
+    },
+    "properties": {
+      "id": "1504",
+      "name": "中興",
+      "seq": 56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72265,
+        24.20362
+      ]
+    },
+    "properties": {
+      "id": "3432",
+      "name": "新興",
+      "seq": 57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71989,
+        24.2042
+      ]
+    },
+    "properties": {
+      "id": "5621",
+      "name": "翔仁社區",
+      "seq": 58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71477,
+        24.20498
+      ]
+    },
+    "properties": {
+      "id": "5620",
+      "name": "聚興福德祠",
+      "seq": 59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68796,
+        24.13072
+      ]
+    },
+    "properties": {
+      "id": "2029",
+      "name": "建成立德街口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71354,
+        24.20533
+      ]
+    },
+    "properties": {
+      "id": "5761",
+      "name": "久豪社區",
+      "seq": 60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7103,
+        24.20802
+      ]
+    },
+    "properties": {
+      "id": "5623",
+      "name": "潭興新興路口",
+      "seq": 61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70987,
+        24.21054
+      ]
+    },
+    "properties": {
+      "id": "5624",
+      "name": "潭興光陽路口",
+      "seq": 62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70632,
+        24.21153
+      ]
+    },
+    "properties": {
+      "id": "5625",
+      "name": "潭子火車站(後站)",
+      "seq": 63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6899,
+        24.13148
+      ]
+    },
+    "properties": {
+      "id": "4655",
+      "name": "建成大智路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69233,
+        24.13251
+      ]
+    },
+    "properties": {
+      "id": "4362",
+      "name": "建成大振街口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69397,
+        24.13319
+      ]
+    },
+    "properties": {
+      "id": "0188",
+      "name": "大東紡織(建成路)",
+      "seq": 9
+    }
+  }
+]
