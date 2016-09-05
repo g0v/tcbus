@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.52346,
+        24.20115
+      ]
+    },
+    "properties": {
+      "id": "3858",
+      "name": "龍津",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.52342,
+        24.20315
+      ]
+    },
+    "properties": {
+      "id": "4183",
+      "name": "海埔厝庄頭",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.52339,
+        24.20424
+      ]
+    },
+    "properties": {
+      "id": "3848",
+      "name": "龍井市場",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.52363,
+        24.20717
+      ]
+    },
+    "properties": {
+      "id": "1102",
+      "name": "三德",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.52405,
+        24.2097
+      ]
+    },
+    "properties": {
+      "id": "0980",
+      "name": "一號橋",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.52522,
+        24.21253
+      ]
+    },
+    "properties": {
+      "id": "0421",
+      "name": "忠和",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.52561,
+        24.21378
+      ]
+    },
+    "properties": {
+      "id": "2972",
+      "name": "崙仔頂",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5263,
+        24.21627
+      ]
+    },
+    "properties": {
+      "id": "4838",
+      "name": "高園子",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.52713,
         24.21869
       ]
@@ -169,21 +289,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.52346,
-        24.20115
-      ]
-    },
-    "properties": {
-      "id": "3858",
-      "name": "龍津",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.53795,
         24.24676
       ]
@@ -327,111 +432,6 @@
       "id": "5914",
       "name": "巨業沙鹿站",
       "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.52342,
-        24.20315
-      ]
-    },
-    "properties": {
-      "id": "4183",
-      "name": "海埔厝庄頭",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.52339,
-        24.20424
-      ]
-    },
-    "properties": {
-      "id": "3848",
-      "name": "龍井市場",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.52363,
-        24.20717
-      ]
-    },
-    "properties": {
-      "id": "1102",
-      "name": "三德",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.52405,
-        24.2097
-      ]
-    },
-    "properties": {
-      "id": "0980",
-      "name": "一號橋",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.52522,
-        24.21253
-      ]
-    },
-    "properties": {
-      "id": "0421",
-      "name": "忠和",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.52561,
-        24.21378
-      ]
-    },
-    "properties": {
-      "id": "2972",
-      "name": "崙仔頂",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.5263,
-        24.21627
-      ]
-    },
-    "properties": {
-      "id": "4838",
-      "name": "高園子",
-      "seq": 9
     }
   }
 ]

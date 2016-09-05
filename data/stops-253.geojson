@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.82936,
+        24.25511
+      ]
+    },
+    "properties": {
+      "id": "2570",
+      "name": "南平里",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82985,
+        24.25249
+      ]
+    },
+    "properties": {
+      "id": "1415",
+      "name": "中嵙口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83057,
+        24.2516
+      ]
+    },
+    "properties": {
+      "id": "0108",
+      "name": "第一橫三民街口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83662,
+        24.25106
+      ]
+    },
+    "properties": {
+      "id": "2795",
+      "name": "泰昌里",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83947,
+        24.25097
+      ]
+    },
+    "properties": {
+      "id": "3334",
+      "name": "圓通精舍",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8423,
+        24.25171
+      ]
+    },
+    "properties": {
+      "id": "5233",
+      "name": "玉山高中",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.84574,
+        24.25288
+      ]
+    },
+    "properties": {
+      "id": "1971",
+      "name": "瓦斯中心",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.85031,
+        24.25527
+      ]
+    },
+    "properties": {
+      "id": "1414",
+      "name": "中嵙",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.85222,
         24.25825
       ]
@@ -154,21 +274,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.82936,
-        24.25511
-      ]
-    },
-    "properties": {
-      "id": "2570",
-      "name": "南平里",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.88473,
         24.26789
       ]
@@ -282,21 +387,6 @@
       "id": "4017",
       "name": "觀音橋",
       "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.82985,
-        24.25249
-      ]
-    },
-    "properties": {
-      "id": "1415",
-      "name": "中嵙口",
-      "seq": 3
     }
   },
   {
@@ -424,21 +514,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.83057,
-        24.2516
-      ]
-    },
-    "properties": {
-      "id": "0108",
-      "name": "第一橫三民街口",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.92166,
         24.32491
       ]
@@ -559,21 +634,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.83662,
-        24.25106
-      ]
-    },
-    "properties": {
-      "id": "2795",
-      "name": "泰昌里",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.92735,
         24.34462
       ]
@@ -589,13 +649,73 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.83947,
-        24.25097
+        120.92735,
+        24.34462
       ]
     },
     "properties": {
-      "id": "3334",
-      "name": "圓通精舍",
+      "id": "1266",
+      "name": "士林村",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.9339,
+        24.34596
+      ]
+    },
+    "properties": {
+      "id": "5212",
+      "name": "上士林",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.93452,
+        24.3389
+      ]
+    },
+    "properties": {
+      "id": "3084",
+      "name": "雪山坑",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.93412,
+        24.33687
+      ]
+    },
+    "properties": {
+      "id": "2792",
+      "name": "桃園",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.93334,
+        24.33461
+      ]
+    },
+    "properties": {
+      "id": "3085",
+      "name": "雪山橋頭",
       "seq": 6
     }
   },
@@ -604,13 +724,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.8423,
-        24.25171
+        120.92842,
+        24.33609
       ]
     },
     "properties": {
-      "id": "5233",
-      "name": "玉山高中",
+      "id": "1244",
+      "name": "上雪山坑",
       "seq": 7
     }
   },
@@ -619,14 +739,419 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.84574,
-        24.25288
+        120.92695,
+        24.3351
       ]
     },
     "properties": {
-      "id": "1971",
-      "name": "瓦斯中心",
+      "id": "2113",
+      "name": "安壁口",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.92009,
+        24.32757
+      ]
+    },
+    "properties": {
+      "id": "3545",
+      "name": "達觀",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.92166,
+        24.32491
+      ]
+    },
+    "properties": {
+      "id": "1207",
+      "name": "下達觀",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.9233,
+        24.32032
+      ]
+    },
+    "properties": {
+      "id": "2730",
+      "name": "香川",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.924,
+        24.3189
+      ]
+    },
+    "properties": {
+      "id": "3731",
+      "name": "摩天嶺口",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.92283,
+        24.31592
+      ]
+    },
+    "properties": {
+      "id": "3969",
+      "name": "蟾蜍石",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.92265,
+        24.31012
+      ]
+    },
+    "properties": {
+      "id": "1230",
+      "name": "上竹林",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.92435,
+        24.30625
+      ]
+    },
+    "properties": {
+      "id": "2145",
+      "name": "竹林",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.92395,
+        24.29658
+      ]
+    },
+    "properties": {
+      "id": "2823",
+      "name": "烏石坑",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.90889,
+        24.2918
+      ]
+    },
+    "properties": {
+      "id": "3954",
+      "name": "雙崎",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.90447,
+        24.28824
+      ]
+    },
+    "properties": {
+      "id": "1217",
+      "name": "下雙崎",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.905,
+        24.28532
+      ]
+    },
+    "properties": {
+      "id": "4017",
+      "name": "觀音橋",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.90226,
+        24.28293
+      ]
+    },
+    "properties": {
+      "id": "5208",
+      "name": "下穿龍",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.90081,
+        24.2812
+      ]
+    },
+    "properties": {
+      "id": "2698",
+      "name": "穿龍",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.89408,
+        24.27756
+      ]
+    },
+    "properties": {
+      "id": "0411",
+      "name": "穿龍橋",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.89171,
+        24.27505
+      ]
+    },
+    "properties": {
+      "id": "1240",
+      "name": "上穿龍",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.89042,
+        24.27265
+      ]
+    },
+    "properties": {
+      "id": "1585",
+      "name": "六十甲",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.88687,
+        24.27107
+      ]
+    },
+    "properties": {
+      "id": "1057",
+      "name": "三叉坑",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.88473,
+        24.26789
+      ]
+    },
+    "properties": {
+      "id": "1110",
+      "name": "下三叉坑",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.88161,
+        24.26267
+      ]
+    },
+    "properties": {
+      "id": "5942",
+      "name": "松林園",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.88024,
+        24.26027
+      ]
+    },
+    "properties": {
+      "id": "5224",
+      "name": "中嵙溪",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.87613,
+        24.25811
+      ]
+    },
+    "properties": {
+      "id": "1739",
+      "name": "牛欄坑",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.87377,
+        24.25876
+      ]
+    },
+    "properties": {
+      "id": "3965",
+      "name": "羅厝",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.87059,
+        24.26094
+      ]
+    },
+    "properties": {
+      "id": "1379",
+      "name": "大彎",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.86695,
+        24.25904
+      ]
+    },
+    "properties": {
+      "id": "3784",
+      "name": "橫龍",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.86362,
+        24.2601
+      ]
+    },
+    "properties": {
+      "id": "1211",
+      "name": "下橫龍",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.85535,
+        24.25859
+      ]
+    },
+    "properties": {
+      "id": "3098",
+      "name": "頂中嵙",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.85287,
+        24.25896
+      ]
+    },
+    "properties": {
+      "id": "5220",
+      "name": "大願寺",
+      "seq": 41
     }
   },
   {
@@ -641,7 +1166,127 @@
     "properties": {
       "id": "1414",
       "name": "中嵙",
-      "seq": 9
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.84574,
+        24.25288
+      ]
+    },
+    "properties": {
+      "id": "1971",
+      "name": "瓦斯中心",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8423,
+        24.25171
+      ]
+    },
+    "properties": {
+      "id": "5233",
+      "name": "玉山高中",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83947,
+        24.25097
+      ]
+    },
+    "properties": {
+      "id": "3334",
+      "name": "圓通精舍",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83662,
+        24.25106
+      ]
+    },
+    "properties": {
+      "id": "2795",
+      "name": "泰昌里",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83057,
+        24.2516
+      ]
+    },
+    "properties": {
+      "id": "0108",
+      "name": "第一橫三民街口",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82985,
+        24.25249
+      ]
+    },
+    "properties": {
+      "id": "1415",
+      "name": "中嵙口",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82936,
+        24.25511
+      ]
+    },
+    "properties": {
+      "id": "2570",
+      "name": "南平里",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82862,
+        24.25742
+      ]
+    },
+    "properties": {
+      "id": "2428",
+      "name": "東勢",
+      "seq": 50
     }
   }
 ]

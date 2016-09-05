@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.74233,
+        24.15759
+      ]
+    },
+    "properties": {
+      "id": "5341",
+      "name": "大興十九街口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73755,
+        24.157
+      ]
+    },
+    "properties": {
+      "id": "5465",
+      "name": "大興十五街口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73361,
+        24.15636
+      ]
+    },
+    "properties": {
+      "id": "4352",
+      "name": "屯區藝文中心",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73263,
+        24.15667
+      ]
+    },
+    "properties": {
+      "id": "5652",
+      "name": "光華里",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72988,
+        24.15601
+      ]
+    },
+    "properties": {
+      "id": "0150",
+      "name": "麗園站",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72875,
+        24.15542
+      ]
+    },
+    "properties": {
+      "id": "0138",
+      "name": "長安路233巷",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72699,
+        24.15354
+      ]
+    },
+    "properties": {
+      "id": "0137",
+      "name": "長安路398巷",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7264,
+        24.15205
+      ]
+    },
+    "properties": {
+      "id": "0120",
+      "name": "長安路417巷",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.72069,
         24.14911
       ]
@@ -169,28 +289,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.74233,
-        24.15759
-      ]
-    },
-    "properties": {
-      "id": "5341",
-      "name": "大興十九街口",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.69322,
         24.15164
       ]
     },
     "properties": {
-      "id": "0311",
-      "name": "力行國小",
+      "id": "6083",
+      "name": "力行國小(力行路)",
       "seq": 20
     }
   },
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.73755,
-        24.157
-      ]
-    },
-    "properties": {
-      "id": "5465",
-      "name": "大興十五街口",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.67842,
         24.13896
       ]
@@ -379,104 +469,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68363,
-        24.1383
+        120.6833,
+        24.13797
       ]
     },
     "properties": {
       "id": "0905",
       "name": "綠川東站",
-      "seq": 32
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.73361,
-        24.15636
-      ]
-    },
-    "properties": {
-      "id": "4352",
-      "name": "屯區藝文中心",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.73263,
-        24.15667
-      ]
-    },
-    "properties": {
-      "id": "5652",
-      "name": "光華里",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.72988,
-        24.15601
-      ]
-    },
-    "properties": {
-      "id": "0150",
-      "name": "麗園站",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.72875,
-        24.15542
-      ]
-    },
-    "properties": {
-      "id": "0138",
-      "name": "長安路233巷",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.72699,
-        24.15354
-      ]
-    },
-    "properties": {
-      "id": "0137",
-      "name": "長安路398巷",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.7264,
-        24.15205
-      ]
-    },
-    "properties": {
-      "id": "0120",
-      "name": "長安路417巷",
-      "seq": 9
+      "seq": 33
     }
   }
 ]

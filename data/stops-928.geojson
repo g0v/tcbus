@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.72425,
+        24.13933
+      ]
+    },
+    "properties": {
+      "id": "4751",
+      "name": "豐年社區四站",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72457,
+        24.14131
+      ]
+    },
+    "properties": {
+      "id": "3929",
+      "name": "豐年社區三站",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72505,
+        24.14353
+      ]
+    },
+    "properties": {
+      "id": "3928",
+      "name": "豐年社區二站",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72497,
+        24.14469
+      ]
+    },
+    "properties": {
+      "id": "3927",
+      "name": "豐年社區一站",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72409,
+        24.14635
+      ]
+    },
+    "properties": {
+      "id": "1519",
+      "name": "中興駕訓班",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72069,
+        24.14911
+      ]
+    },
+    "properties": {
+      "id": "0436",
+      "name": "中興駕訓班前",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71891,
+        24.14889
+      ]
+    },
+    "properties": {
+      "id": "0875",
+      "name": "遊樂大樓",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71567,
+        24.14881
+      ]
+    },
+    "properties": {
+      "id": "0633",
+      "name": "宜欣社區",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.71281,
         24.14975
       ]
@@ -129,8 +249,8 @@
       ]
     },
     "properties": {
-      "id": "0311",
-      "name": "力行國小",
+      "id": "6083",
+      "name": "力行國小(力行路)",
       "seq": 17
     }
   },
@@ -162,21 +282,6 @@
       "id": "4694",
       "name": "臺灣體大體育場",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.72425,
-        24.13933
-      ]
-    },
-    "properties": {
-      "id": "4751",
-      "name": "豐年社區四站",
-      "seq": 2
     }
   },
   {
@@ -319,119 +424,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68363,
-        24.1383
+        120.6833,
+        24.13797
       ]
     },
     "properties": {
       "id": "0905",
       "name": "綠川東站",
-      "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.72457,
-        24.14131
-      ]
-    },
-    "properties": {
-      "id": "3929",
-      "name": "豐年社區三站",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.72505,
-        24.14353
-      ]
-    },
-    "properties": {
-      "id": "3928",
-      "name": "豐年社區二站",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.72497,
-        24.14469
-      ]
-    },
-    "properties": {
-      "id": "3927",
-      "name": "豐年社區一站",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.72409,
-        24.14635
-      ]
-    },
-    "properties": {
-      "id": "1519",
-      "name": "中興駕訓班",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.72069,
-        24.14911
-      ]
-    },
-    "properties": {
-      "id": "0436",
-      "name": "中興駕訓班前",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.71891,
-        24.14889
-      ]
-    },
-    "properties": {
-      "id": "0875",
-      "name": "遊樂大樓",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.71567,
-        24.14881
-      ]
-    },
-    "properties": {
-      "id": "0633",
-      "name": "宜欣社區",
-      "seq": 9
+      "seq": 30
     }
   }
 ]

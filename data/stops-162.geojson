@@ -19,141 +19,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.57118,
-        24.24204
-      ]
-    },
-    "properties": {
-      "id": "3035",
-      "name": "犁份",
-      "seq": 11
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.57012,
-        24.23617
-      ]
-    },
-    "properties": {
-      "id": "4389",
-      "name": "竹林里",
-      "seq": 12
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.57198,
-        24.23325
-      ]
-    },
-    "properties": {
-      "id": "4392",
-      "name": "紅竹巷",
-      "seq": 13
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.57408,
-        24.2301
-      ]
-    },
-    "properties": {
-      "id": "4086",
-      "name": "臺灣大道北勢路口",
-      "seq": 14
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.57533,
-        24.22699
-      ]
-    },
-    "properties": {
-      "id": "0498",
-      "name": "靜宜大學(英才路)",
-      "seq": 15
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.5731,
-        24.2263
-      ]
-    },
-    "properties": {
-      "id": "5370",
-      "name": "英才東英路口",
-      "seq": 16
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.5692,
-        24.2251
-      ]
-    },
-    "properties": {
-      "id": "4794",
-      "name": "北勢國中",
-      "seq": 17
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.56715,
-        24.22861
-      ]
-    },
-    "properties": {
-      "id": "2362",
-      "name": "明泰社區",
-      "seq": 18
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.56586,
-        24.23197
-      ]
-    },
-    "properties": {
-      "id": "4817",
-      "name": "沙鹿區公所",
-      "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.58787,
         24.26416
       ]
@@ -162,51 +27,6 @@
       "id": "5033",
       "name": "國仕加油站",
       "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.5632,
-        24.23335
-      ]
-    },
-    "properties": {
-      "id": "5794",
-      "name": "沙鹿國中(鎮南路)",
-      "seq": 20
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.5591,
-        24.23511
-      ]
-    },
-    "properties": {
-      "id": "4816",
-      "name": "沙鹿光田醫院",
-      "seq": 21
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.55931,
-        24.23602
-      ]
-    },
-    "properties": {
-      "id": "4815",
-      "name": "沙鹿火車站",
-      "seq": 22
     }
   },
   {
@@ -297,6 +117,576 @@
       "id": "2202",
       "name": "西勢寮",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57118,
+        24.24204
+      ]
+    },
+    "properties": {
+      "id": "3035",
+      "name": "犁份",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56918,
+        24.2371
+      ]
+    },
+    "properties": {
+      "id": "5221",
+      "name": "中山臺灣大道口",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56673,
+        24.23698
+      ]
+    },
+    "properties": {
+      "id": "5222",
+      "name": "中山鎮政路口",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56491,
+        24.23726
+      ]
+    },
+    "properties": {
+      "id": "4390",
+      "name": "沙鹿高工(中山路)",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56252,
+        24.2376
+      ]
+    },
+    "properties": {
+      "id": "2682",
+      "name": "洛泉里",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55967,
+        24.23737
+      ]
+    },
+    "properties": {
+      "id": "4681",
+      "name": "沙鹿市場",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55931,
+        24.23602
+      ]
+    },
+    "properties": {
+      "id": "4815",
+      "name": "沙鹿火車站",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5632,
+        24.23335
+      ]
+    },
+    "properties": {
+      "id": "5794",
+      "name": "沙鹿國中(鎮南路)",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56586,
+        24.23197
+      ]
+    },
+    "properties": {
+      "id": "4817",
+      "name": "沙鹿區公所",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56715,
+        24.22861
+      ]
+    },
+    "properties": {
+      "id": "2362",
+      "name": "明泰社區",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5692,
+        24.2251
+      ]
+    },
+    "properties": {
+      "id": "4794",
+      "name": "北勢國中",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5731,
+        24.2263
+      ]
+    },
+    "properties": {
+      "id": "5370",
+      "name": "英才東英路口",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57533,
+        24.22699
+      ]
+    },
+    "properties": {
+      "id": "0498",
+      "name": "靜宜大學(英才路)",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5778,
+        24.2253
+      ]
+    },
+    "properties": {
+      "id": "6103",
+      "name": "靜宜大學(校門)",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5831,
+        24.2266
+      ]
+    },
+    "properties": {
+      "id": "6104",
+      "name": "靜宜大學主顧樓",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5807,
+        24.2273
+      ]
+    },
+    "properties": {
+      "id": "6105",
+      "name": "靜宜大學希嘉學苑",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58065,
+        24.2273
+      ]
+    },
+    "properties": {
+      "id": "6105",
+      "name": "靜宜大學希嘉學苑",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57483,
+        24.22665
+      ]
+    },
+    "properties": {
+      "id": "0498",
+      "name": "靜宜大學(英才路)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5731,
+        24.2263
+      ]
+    },
+    "properties": {
+      "id": "5370",
+      "name": "英才東英路口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5692,
+        24.2251
+      ]
+    },
+    "properties": {
+      "id": "4794",
+      "name": "北勢國中",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56715,
+        24.22861
+      ]
+    },
+    "properties": {
+      "id": "2362",
+      "name": "明泰社區",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56586,
+        24.23197
+      ]
+    },
+    "properties": {
+      "id": "4817",
+      "name": "沙鹿區公所",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5632,
+        24.23335
+      ]
+    },
+    "properties": {
+      "id": "5794",
+      "name": "沙鹿國中(鎮南路)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55882,
+        24.23492
+      ]
+    },
+    "properties": {
+      "id": "4816",
+      "name": "沙鹿光田醫院",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55931,
+        24.23602
+      ]
+    },
+    "properties": {
+      "id": "4815",
+      "name": "沙鹿火車站",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5597,
+        24.23736
+      ]
+    },
+    "properties": {
+      "id": "4681",
+      "name": "沙鹿市場",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56252,
+        24.2376
+      ]
+    },
+    "properties": {
+      "id": "2682",
+      "name": "洛泉里",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56455,
+        24.23731
+      ]
+    },
+    "properties": {
+      "id": "4390",
+      "name": "沙鹿高工(中山路)",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56673,
+        24.23698
+      ]
+    },
+    "properties": {
+      "id": "5222",
+      "name": "中山鎮政路口",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56918,
+        24.2371
+      ]
+    },
+    "properties": {
+      "id": "5221",
+      "name": "中山臺灣大道口",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57118,
+        24.24204
+      ]
+    },
+    "properties": {
+      "id": "3035",
+      "name": "犁份",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59899,
+        24.25348
+      ]
+    },
+    "properties": {
+      "id": "0135",
+      "name": "臺中航空站",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60003,
+        24.25557
+      ]
+    },
+    "properties": {
+      "id": "5381",
+      "name": "西勢十巷口",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60134,
+        24.25807
+      ]
+    },
+    "properties": {
+      "id": "5662",
+      "name": "中航和睦路口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5987,
+        24.25982
+      ]
+    },
+    "properties": {
+      "id": "4101",
+      "name": "西勢里",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59513,
+        24.26084
+      ]
+    },
+    "properties": {
+      "id": "4083",
+      "name": "公館國小",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58787,
+        24.26416
+      ]
+    },
+    "properties": {
+      "id": "5033",
+      "name": "國仕加油站",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58266,
+        24.26607
+      ]
+    },
+    "properties": {
+      "id": "4137",
+      "name": "嘉陽高中",
+      "seq": 24
     }
   }
 ]

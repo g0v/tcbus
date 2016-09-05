@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.61694,
+        24.10561
+      ]
+    },
+    "properties": {
+      "id": "5126",
+      "name": "烏日國中(新興路)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6213,
+        24.1052
+      ]
+    },
+    "properties": {
+      "id": "5124",
+      "name": "烏日(新興路)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62384,
+        24.10439
+      ]
+    },
+    "properties": {
+      "id": "5125",
+      "name": "烏日區公所(新興路)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62813,
+        24.10287
+      ]
+    },
+    "properties": {
+      "id": "0040",
+      "name": "五光公園三街口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63098,
+        24.09983
+      ]
+    },
+    "properties": {
+      "id": "0469",
+      "name": "五光復光六巷口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63307,
+        24.09852
+      ]
+    },
+    "properties": {
+      "id": "0472",
+      "name": "五光復光五巷口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63834,
+        24.09629
+      ]
+    },
+    "properties": {
+      "id": "0474",
+      "name": "五光溪南路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64376,
+        24.09354
+      ]
+    },
+    "properties": {
+      "id": "0475",
+      "name": "五光環河路口",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.6471,
         24.09292
       ]
@@ -162,21 +282,6 @@
       "id": "1364",
       "name": "大里農會",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.61694,
-        24.10561
-      ]
-    },
-    "properties": {
-      "id": "5126",
-      "name": "烏日國中(新興路)",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6213,
-        24.1052
-      ]
-    },
-    "properties": {
-      "id": "5124",
-      "name": "烏日(新興路)",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.68938,
         24.10111
       ]
@@ -424,13 +514,58 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62384,
-        24.10439
+        120.6999,
+        24.1051
       ]
     },
     "properties": {
-      "id": "5125",
-      "name": "烏日區公所(新興路)",
+      "id": "0495",
+      "name": "立新國小",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69805,
+        24.10421
+      ]
+    },
+    "properties": {
+      "id": "0482",
+      "name": "立新國中",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69715,
+        24.1017
+      ]
+    },
+    "properties": {
+      "id": "0480",
+      "name": "立中街",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69588,
+        24.09976
+      ]
+    },
+    "properties": {
+      "id": "0490",
+      "name": "健康公園(立元路)",
       "seq": 4
     }
   },
@@ -439,13 +574,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62813,
-        24.10287
+        120.6895,
+        24.10123
       ]
     },
     "properties": {
-      "id": "0040",
-      "name": "五光公園三街口",
+      "id": "0479",
+      "name": "大元國小",
       "seq": 5
     }
   },
@@ -454,13 +589,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.63098,
-        24.09983
+        120.68856,
+        24.10289
       ]
     },
     "properties": {
-      "id": "0469",
-      "name": "五光復光六巷口",
+      "id": "1126",
+      "name": "下內新",
       "seq": 6
     }
   },
@@ -469,13 +604,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.63307,
-        24.09852
+        120.68917,
+        24.10494
       ]
     },
     "properties": {
-      "id": "0472",
-      "name": "五光復光五巷口",
+      "id": "2026",
+      "name": "立人高中",
       "seq": 7
     }
   },
@@ -484,14 +619,269 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.63834,
-        24.09629
+        120.68996,
+        24.10879
       ]
     },
     "properties": {
-      "id": "0474",
-      "name": "五光溪南路口",
+      "id": "1363",
+      "name": "中興大里路口",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68749,
+        24.11028
+      ]
+    },
+    "properties": {
+      "id": "4919",
+      "name": "大里公園",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68541,
+        24.11037
+      ]
+    },
+    "properties": {
+      "id": "5074",
+      "name": "大里地政事務所",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68232,
+        24.10996
+      ]
+    },
+    "properties": {
+      "id": "5627",
+      "name": "興大附中(東榮路)",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67995,
+        24.10856
+      ]
+    },
+    "properties": {
+      "id": "0521",
+      "name": "大里仁愛醫院(國光路)",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68094,
+        24.10524
+      ]
+    },
+    "properties": {
+      "id": "4294",
+      "name": "國光德芳路口",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67825,
+        24.10405
+      ]
+    },
+    "properties": {
+      "id": "0508",
+      "name": "環保公園",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67555,
+        24.10246
+      ]
+    },
+    "properties": {
+      "id": "0520",
+      "name": "進士公園(樹王路)",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67659,
+        24.10101
+      ]
+    },
+    "properties": {
+      "id": "1364",
+      "name": "大里農會",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67705,
+        24.09958
+      ]
+    },
+    "properties": {
+      "id": "5218",
+      "name": "大里國小",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67702,
+        24.09789
+      ]
+    },
+    "properties": {
+      "id": "1360",
+      "name": "大里",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67328,
+        24.09756
+      ]
+    },
+    "properties": {
+      "id": "1972",
+      "name": "瓦瑤",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66467,
+        24.0968
+      ]
+    },
+    "properties": {
+      "id": "3788",
+      "name": "樹王",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65912,
+        24.0961
+      ]
+    },
+    "properties": {
+      "id": "3789",
+      "name": "德昌社區",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65522,
+        24.09525
+      ]
+    },
+    "properties": {
+      "id": "5225",
+      "name": "五光五中巷口",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65266,
+        24.09446
+      ]
+    },
+    "properties": {
+      "id": "5226",
+      "name": "五光里",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6508,
+        24.09382
+      ]
+    },
+    "properties": {
+      "id": "0477",
+      "name": "五張犁福德宮",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64723,
+        24.09298
+      ]
+    },
+    "properties": {
+      "id": "0476",
+      "name": "五光環中路口",
+      "seq": 25
     }
   },
   {
@@ -506,7 +896,127 @@
     "properties": {
       "id": "0475",
       "name": "五光環河路口",
-      "seq": 9
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63834,
+        24.09629
+      ]
+    },
+    "properties": {
+      "id": "0474",
+      "name": "五光溪南路口",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63307,
+        24.09852
+      ]
+    },
+    "properties": {
+      "id": "0472",
+      "name": "五光復光五巷口",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63098,
+        24.09983
+      ]
+    },
+    "properties": {
+      "id": "0469",
+      "name": "五光復光六巷口",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62813,
+        24.10287
+      ]
+    },
+    "properties": {
+      "id": "0040",
+      "name": "五光公園三街口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62384,
+        24.10439
+      ]
+    },
+    "properties": {
+      "id": "5125",
+      "name": "烏日區公所(新興路)",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6213,
+        24.1052
+      ]
+    },
+    "properties": {
+      "id": "5124",
+      "name": "烏日(新興路)",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61697,
+        24.10565
+      ]
+    },
+    "properties": {
+      "id": "5126",
+      "name": "烏日國中(新興路)",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61629,
+        24.11094
+      ]
+    },
+    "properties": {
+      "id": "2907",
+      "name": "高鐵臺中站",
+      "seq": 34
     }
   }
 ]

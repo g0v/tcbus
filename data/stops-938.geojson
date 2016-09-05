@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.56,
+        24.23932
+      ]
+    },
+    "properties": {
+      "id": "5135",
+      "name": "第一銀行(沙鹿分行)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56127,
+        24.24245
+      ]
+    },
+    "properties": {
+      "id": "5140",
+      "name": "童綜合醫院(沙鹿院區)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56221,
+        24.24518
+      ]
+    },
+    "properties": {
+      "id": "4042",
+      "name": "文化莊",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56269,
+        24.24674
+      ]
+    },
+    "properties": {
+      "id": "4110",
+      "name": "家扶中心",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56484,
+        24.2489
+      ]
+    },
+    "properties": {
+      "id": "5138",
+      "name": "鹿寮成衣商圈",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56679,
+        24.25177
+      ]
+    },
+    "properties": {
+      "id": "4044",
+      "name": "鹿寮",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56786,
+        24.2537
+      ]
+    },
+    "properties": {
+      "id": "5392",
+      "name": "中山長春路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56885,
+        24.25542
+      ]
+    },
+    "properties": {
+      "id": "4045",
+      "name": "中峰",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.57005,
         24.25766
       ]
@@ -162,21 +282,6 @@
       "id": "4065",
       "name": "下湳加油站",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.56,
-        24.23932
-      ]
-    },
-    "properties": {
-      "id": "5135",
-      "name": "第一銀行(沙鹿分行)",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.56127,
-        24.24245
-      ]
-    },
-    "properties": {
-      "id": "5140",
-      "name": "童綜合醫院(沙鹿院區)",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.60744,
         24.32384
       ]
@@ -369,7 +459,7 @@
       ]
     },
     "properties": {
-      "id": "6023",
+      "id": "6006",
       "name": "武陵里",
       "seq": 31
     }
@@ -462,96 +552,6 @@
       "id": "5919",
       "name": "巨業大甲站",
       "seq": 37
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.56221,
-        24.24518
-      ]
-    },
-    "properties": {
-      "id": "4042",
-      "name": "文化莊",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.56269,
-        24.24674
-      ]
-    },
-    "properties": {
-      "id": "4110",
-      "name": "家扶中心",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.56484,
-        24.2489
-      ]
-    },
-    "properties": {
-      "id": "5138",
-      "name": "鹿寮成衣商圈",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.56679,
-        24.25177
-      ]
-    },
-    "properties": {
-      "id": "4044",
-      "name": "鹿寮",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.56786,
-        24.2537
-      ]
-    },
-    "properties": {
-      "id": "5392",
-      "name": "中山長春路口",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.56885,
-        24.25542
-      ]
-    },
-    "properties": {
-      "id": "4045",
-      "name": "中峰",
-      "seq": 9
     }
   }
 ]

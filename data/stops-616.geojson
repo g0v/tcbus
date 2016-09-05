@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.53336,
+        24.25084
+      ]
+    },
+    "properties": {
+      "id": "3250",
+      "name": "臺灣大道港埠路口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54327,
+        24.24728
+      ]
+    },
+    "properties": {
+      "id": "4689",
+      "name": "童綜合醫院(梧棲院區)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55454,
+        24.24853
+      ]
+    },
+    "properties": {
+      "id": "5462",
+      "name": "中華路201巷口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55851,
+        24.25638
+      ]
+    },
+    "properties": {
+      "id": "3523",
+      "name": "中華長春路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56245,
+        24.26306
+      ]
+    },
+    "properties": {
+      "id": "3516",
+      "name": "中華民族路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5671,
+        24.26896
+      ]
+    },
+    "properties": {
+      "id": "3509",
+      "name": "中華鰲峰路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57259,
+        24.27621
+      ]
+    },
+    "properties": {
+      "id": "5956",
+      "name": "中華五權路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5834,
+        24.28377
+      ]
+    },
+    "properties": {
+      "id": "4063",
+      "name": "下湳子",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.58817,
         24.2922
       ]
@@ -34,8 +154,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.5956,
-        24.3012
+        120.5955,
+        24.30106
       ]
     },
     "properties": {
@@ -169,21 +289,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.53336,
-        24.25084
-      ]
-    },
-    "properties": {
-      "id": "3250",
-      "name": "臺灣大道港埠路口",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.64609,
         24.39806
       ]
@@ -244,13 +349,43 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.54327,
-        24.24728
+        120.64268,
+        24.41907
       ]
     },
     "properties": {
-      "id": "4689",
-      "name": "童綜合醫院(梧棲院區)",
+      "id": "4141",
+      "name": "銅安厝",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6433,
+        24.40984
+      ]
+    },
+    "properties": {
+      "id": "4087",
+      "name": "幼獅工業區",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64128,
+        24.40405
+      ]
+    },
+    "properties": {
+      "id": "4079",
+      "name": "五里牌",
       "seq": 3
     }
   },
@@ -259,13 +394,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.55454,
-        24.24853
+        120.64587,
+        24.3979
       ]
     },
     "properties": {
-      "id": "5462",
-      "name": "中華路201巷口",
+      "id": "4088",
+      "name": "打鐵庄",
       "seq": 4
     }
   },
@@ -274,13 +409,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.55851,
-        24.25638
+        120.65115,
+        24.38783
       ]
     },
     "properties": {
-      "id": "3523",
-      "name": "中華長春路口",
+      "id": "4496",
+      "name": "經國黎明路口",
       "seq": 5
     }
   },
@@ -289,13 +424,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.56245,
-        24.26306
+        120.65125,
+        24.38154
       ]
     },
     "properties": {
-      "id": "3516",
-      "name": "中華民族路口",
+      "id": "4084",
+      "name": "日南",
       "seq": 6
     }
   },
@@ -304,13 +439,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.5671,
-        24.26896
+        120.63831,
+        24.3629
       ]
     },
     "properties": {
-      "id": "3509",
-      "name": "中華鰲峰路口",
+      "id": "5563",
+      "name": "經國中山路口",
       "seq": 7
     }
   },
@@ -319,13 +454,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.57259,
-        24.27621
+        120.61839,
+        24.35367
       ]
     },
     "properties": {
-      "id": "5956",
-      "name": "中華五權路口",
+      "id": "5991",
+      "name": "經國育英路口",
       "seq": 8
     }
   },
@@ -334,14 +469,224 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.5834,
-        24.28377
+        120.617,
+        24.34759
+      ]
+    },
+    "properties": {
+      "id": "5690",
+      "name": "光田醫院(大甲院區)",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61721,
+        24.33757
+      ]
+    },
+    "properties": {
+      "id": "1859",
+      "name": "外水尾",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6082,
+        24.32666
+      ]
+    },
+    "properties": {
+      "id": "1705",
+      "name": "水汴頭",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59994,
+        24.30964
+      ]
+    },
+    "properties": {
+      "id": "5862",
+      "name": "大甲溪南岸",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5955,
+        24.3015
+      ]
+    },
+    "properties": {
+      "id": "3708",
+      "name": "劉厝",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58866,
+        24.29359
+      ]
+    },
+    "properties": {
+      "id": "4127",
+      "name": "頂湳子",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58321,
+        24.28398
       ]
     },
     "properties": {
       "id": "4063",
       "name": "下湳子",
-      "seq": 9
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57224,
+        24.27631
+      ]
+    },
+    "properties": {
+      "id": "5956",
+      "name": "中華五權路口",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56686,
+        24.2691
+      ]
+    },
+    "properties": {
+      "id": "3509",
+      "name": "中華鰲峰路口",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56215,
+        24.26312
+      ]
+    },
+    "properties": {
+      "id": "3516",
+      "name": "中華民族路口",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55817,
+        24.25627
+      ]
+    },
+    "properties": {
+      "id": "3523",
+      "name": "中華長春路口",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55419,
+        24.2485
+      ]
+    },
+    "properties": {
+      "id": "5462",
+      "name": "中華路201巷口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54314,
+        24.24761
+      ]
+    },
+    "properties": {
+      "id": "4689",
+      "name": "童綜合醫院(梧棲院區)",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.53431,
+        24.25087
+      ]
+    },
+    "properties": {
+      "id": "3250",
+      "name": "臺灣大道港埠路口",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.53044,
+        24.25452
+      ]
+    },
+    "properties": {
+      "id": "4393",
+      "name": "梧棲農會",
+      "seq": 23
     }
   }
 ]

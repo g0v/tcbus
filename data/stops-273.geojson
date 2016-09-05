@@ -19,36 +19,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.81057,
-        24.15176
-      ]
-    },
-    "properties": {
-      "id": "2218",
-      "name": "伯公前",
-      "seq": 10
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.80589,
-        24.15078
-      ]
-    },
-    "properties": {
-      "id": "2714",
-      "name": "茄苳寮",
-      "seq": 11
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.81558,
         24.18477
       ]
@@ -162,6 +132,201 @@
       "id": "3856",
       "name": "龍泉下",
       "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81057,
+        24.15176
+      ]
+    },
+    "properties": {
+      "id": "2218",
+      "name": "伯公前",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80589,
+        24.15078
+      ]
+    },
+    "properties": {
+      "id": "2714",
+      "name": "茄苳寮",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80589,
+        24.15078
+      ]
+    },
+    "properties": {
+      "id": "2714",
+      "name": "茄苳寮",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81057,
+        24.15176
+      ]
+    },
+    "properties": {
+      "id": "2218",
+      "name": "伯公前",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81248,
+        24.15316
+      ]
+    },
+    "properties": {
+      "id": "3856",
+      "name": "龍泉下",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81321,
+        24.15462
+      ]
+    },
+    "properties": {
+      "id": "3855",
+      "name": "龍泉",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81362,
+        24.15705
+      ]
+    },
+    "properties": {
+      "id": "2131",
+      "name": "池上",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8126,
+        24.16064
+      ]
+    },
+    "properties": {
+      "id": "3006",
+      "name": "梅園",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81009,
+        24.17426
+      ]
+    },
+    "properties": {
+      "id": "6037",
+      "name": "崎頂(南華街)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81494,
+        24.17592
+      ]
+    },
+    "properties": {
+      "id": "2604",
+      "name": "南華莊",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81594,
+        24.17801
+      ]
+    },
+    "properties": {
+      "id": "4206",
+      "name": "食水井",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81558,
+        24.18477
+      ]
+    },
+    "properties": {
+      "id": "2705",
+      "name": "茅埔角",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81147,
+        24.19043
+      ]
+    },
+    "properties": {
+      "id": "3368",
+      "name": "新五村",
+      "seq": 11
     }
   }
 ]

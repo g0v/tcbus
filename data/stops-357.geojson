@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.60633,
+        24.18371
+      ]
+    },
+    "properties": {
+      "id": "2378",
+      "name": "東大附中",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60821,
+        24.18422
+      ]
+    },
+    "properties": {
+      "id": "0004",
+      "name": "普濟寺",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60964,
+        24.18516
+      ]
+    },
+    "properties": {
+      "id": "5287",
+      "name": "玉門臺灣大道口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61408,
+        24.18674
+      ]
+    },
+    "properties": {
+      "id": "5316",
+      "name": "福科福林路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61792,
+        24.18526
+      ]
+    },
+    "properties": {
+      "id": "5263",
+      "name": "福科福雅路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62096,
+        24.18382
+      ]
+    },
+    "properties": {
+      "id": "0053",
+      "name": "福科永福路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62466,
+        24.18224
+      ]
+    },
+    "properties": {
+      "id": "0010",
+      "name": "福科安和路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62508,
+        24.17956
+      ]
+    },
+    "properties": {
+      "id": "0287",
+      "name": "福華/裕元",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.62438,
         24.17838
       ]
@@ -169,21 +289,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60633,
-        24.18371
-      ]
-    },
-    "properties": {
-      "id": "2378",
-      "name": "東大附中",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.6157,
         24.15073
       ]
@@ -319,13 +424,43 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60821,
-        24.18422
+        120.60918,
+        24.13853
       ]
     },
     "properties": {
-      "id": "0004",
-      "name": "普濟寺",
+      "id": "5162",
+      "name": "嶺東科技大學(永春南路)",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61119,
+        24.1385
+      ]
+    },
+    "properties": {
+      "id": "3874",
+      "name": "嶺東高中",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61287,
+        24.13912
+      ]
+    },
+    "properties": {
+      "id": "4599",
+      "name": "春社里(忠勇路)",
       "seq": 3
     }
   },
@@ -334,13 +469,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60964,
-        24.18516
+        120.61318,
+        24.14074
       ]
     },
     "properties": {
-      "id": "5287",
-      "name": "玉門臺灣大道口",
+      "id": "0157",
+      "name": "七星橋",
       "seq": 4
     }
   },
@@ -349,13 +484,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.61408,
-        24.18674
+        120.61372,
+        24.14275
       ]
     },
     "properties": {
-      "id": "5316",
-      "name": "福科福林路口",
+      "id": "0158",
+      "name": "下文山",
       "seq": 5
     }
   },
@@ -364,13 +499,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.61792,
-        24.18526
+        120.61474,
+        24.14496
       ]
     },
     "properties": {
-      "id": "5263",
-      "name": "福科福雅路口",
+      "id": "0159",
+      "name": "一善堂",
       "seq": 6
     }
   },
@@ -379,13 +514,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62096,
-        24.18382
+        120.61497,
+        24.14588
       ]
     },
     "properties": {
-      "id": "0053",
-      "name": "福科永福路口",
+      "id": "0160",
+      "name": "文山里",
       "seq": 7
     }
   },
@@ -394,14 +529,179 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62466,
-        24.18224
+        120.6156,
+        24.14938
       ]
     },
     "properties": {
-      "id": "0010",
-      "name": "福科安和路口",
+      "id": "0165",
+      "name": "文山國小(忠勇路)",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6157,
+        24.15073
+      ]
+    },
+    "properties": {
+      "id": "5489",
+      "name": "寶山里土地公",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61629,
+        24.15275
+      ]
+    },
+    "properties": {
+      "id": "5488",
+      "name": "忠勇寶山東二街口",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61664,
+        24.15434
+      ]
+    },
+    "properties": {
+      "id": "5494",
+      "name": "忠勇五權西路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61713,
+        24.15748
+      ]
+    },
+    "properties": {
+      "id": "3985",
+      "name": "寶山里",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61786,
+        24.1615
+      ]
+    },
+    "properties": {
+      "id": "0765",
+      "name": "啟聰學校",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61848,
+        24.16461
+      ]
+    },
+    "properties": {
+      "id": "0329",
+      "name": "下七張犁",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62001,
+        24.17012
+      ]
+    },
+    "properties": {
+      "id": "0629",
+      "name": "協和國小",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62096,
+        24.17181
+      ]
+    },
+    "properties": {
+      "id": "5933",
+      "name": "安和協和北巷口(賴祖厝)",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62225,
+        24.17457
+      ]
+    },
+    "properties": {
+      "id": "5106",
+      "name": "安和朝馬路口",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.623,
+        24.1768
+      ]
+    },
+    "properties": {
+      "id": "0285",
+      "name": "安和福玄路口",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62438,
+        24.17838
+      ]
+    },
+    "properties": {
+      "id": "1481",
+      "name": "安和臺灣大道口",
+      "seq": 19
     }
   },
   {
@@ -416,7 +716,127 @@
     "properties": {
       "id": "0287",
       "name": "福華/裕元",
-      "seq": 9
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62447,
+        24.18235
+      ]
+    },
+    "properties": {
+      "id": "0010",
+      "name": "福科安和路口",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62129,
+        24.18368
+      ]
+    },
+    "properties": {
+      "id": "0053",
+      "name": "福科永福路口",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61792,
+        24.18526
+      ]
+    },
+    "properties": {
+      "id": "5263",
+      "name": "福科福雅路口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61333,
+        24.18681
+      ]
+    },
+    "properties": {
+      "id": "5316",
+      "name": "福科福林路口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6098,
+        24.18503
+      ]
+    },
+    "properties": {
+      "id": "5287",
+      "name": "玉門臺灣大道口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60898,
+        24.18437
+      ]
+    },
+    "properties": {
+      "id": "0004",
+      "name": "普濟寺",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60686,
+        24.18365
+      ]
+    },
+    "properties": {
+      "id": "2378",
+      "name": "東大附中",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60491,
+        24.18349
+      ]
+    },
+    "properties": {
+      "id": "5386",
+      "name": "臺中榮總(臺灣大道)",
+      "seq": 28
     }
   }
 ]

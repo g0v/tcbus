@@ -19,6 +19,111 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.73701,
+        24.26121
+      ]
+    },
+    "properties": {
+      "id": "2843",
+      "name": "翁子",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73629,
+        24.26
+      ]
+    },
+    "properties": {
+      "id": "5684",
+      "name": "義士祠",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.737,
+        24.24835
+      ]
+    },
+    "properties": {
+      "id": "5282",
+      "name": "豐原大道中陽503巷口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73265,
+        24.24662
+      ]
+    },
+    "properties": {
+      "id": "5283",
+      "name": "豐原大道中陽路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72918,
+        24.24407
+      ]
+    },
+    "properties": {
+      "id": "1611",
+      "name": "廣福宮",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72749,
+        24.24384
+      ]
+    },
+    "properties": {
+      "id": "1946",
+      "name": "永康南陽路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7254,
+        24.24326
+      ]
+    },
+    "properties": {
+      "id": "4966",
+      "name": "豐原醫院",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.72278,
         24.24603
       ]
@@ -169,21 +274,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.73701,
-        24.26121
-      ]
-    },
-    "properties": {
-      "id": "2843",
-      "name": "翁子",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.71316,
         24.26197
       ]
@@ -289,8 +379,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69808,
-        24.27412
+        120.6977,
+        24.27398
       ]
     },
     "properties": {
@@ -334,21 +424,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.73629,
-        24.26
-      ]
-    },
-    "properties": {
-      "id": "5684",
-      "name": "義士祠",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.68276,
         24.27138
       ]
@@ -364,8 +439,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.67957,
-        24.26597
+        120.68113,
+        24.2673
       ]
     },
     "properties": {
@@ -379,8 +454,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.67765,
-        24.26491
+        120.67916,
+        24.26582
       ]
     },
     "properties": {
@@ -604,21 +679,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.737,
-        24.24835
-      ]
-    },
-    "properties": {
-      "id": "5282",
-      "name": "豐原大道中陽503巷口",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.64827,
         24.25835
       ]
@@ -634,13 +694,88 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.73265,
-        24.24662
+        120.64827,
+        24.25835
       ]
     },
     "properties": {
-      "id": "5283",
-      "name": "豐原大道中陽路口",
+      "id": "5989",
+      "name": "圳前仁愛公園",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6503,
+        24.26127
+      ]
+    },
+    "properties": {
+      "id": "5988",
+      "name": "仁愛退伍宿舍",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65263,
+        24.2639
+      ]
+    },
+    "properties": {
+      "id": "5987",
+      "name": "圳陽橋",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65676,
+        24.26674
+      ]
+    },
+    "properties": {
+      "id": "3111",
+      "name": "頂圳前",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65642,
+        24.26864
+      ]
+    },
+    "properties": {
+      "id": "4755",
+      "name": "圳堵里口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65737,
+        24.2707
+      ]
+    },
+    "properties": {
+      "id": "2095",
+      "name": "圳堵",
       "seq": 6
     }
   },
@@ -649,13 +784,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.72918,
-        24.24407
+        120.65712,
+        24.2731
       ]
     },
     "properties": {
-      "id": "1611",
-      "name": "廣福宮",
+      "id": "5986",
+      "name": "和睦兒童公園",
       "seq": 7
     }
   },
@@ -664,14 +799,464 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.72749,
-        24.24384
+        120.65147,
+        24.27474
       ]
     },
     "properties": {
-      "id": "1946",
-      "name": "永康南陽路口",
+      "id": "5985",
+      "name": "成都土地公廟",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65316,
+        24.2762
+      ]
+    },
+    "properties": {
+      "id": "5984",
+      "name": "成都中平路口",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65321,
+        24.27862
+      ]
+    },
+    "properties": {
+      "id": "5983",
+      "name": "三角公園",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65147,
+        24.28034
+      ]
+    },
+    "properties": {
+      "id": "5982",
+      "name": "永進家園",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65224,
+        24.28111
+      ]
+    },
+    "properties": {
+      "id": "3418",
+      "name": "新庄車庫",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65422,
+        24.28031
+      ]
+    },
+    "properties": {
+      "id": "3415",
+      "name": "新庄",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65787,
+        24.27786
+      ]
+    },
+    "properties": {
+      "id": "3660",
+      "name": "福德祠",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65938,
+        24.27688
+      ]
+    },
+    "properties": {
+      "id": "5981",
+      "name": "和睦路212巷口",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67916,
+        24.26582
+      ]
+    },
+    "properties": {
+      "id": "4945",
+      "name": "崎腳",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68113,
+        24.2673
+      ]
+    },
+    "properties": {
+      "id": "1205",
+      "name": "下溪洲",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68276,
+        24.27138
+      ]
+    },
+    "properties": {
+      "id": "5980",
+      "name": "宋厝",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68577,
+        24.27164
+      ]
+    },
+    "properties": {
+      "id": "5979",
+      "name": "神洲路796巷口",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68922,
+        24.27221
+      ]
+    },
+    "properties": {
+      "id": "5978",
+      "name": "神洲路716巷口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6977,
+        24.27398
+      ]
+    },
+    "properties": {
+      "id": "5977",
+      "name": "神洲路506巷口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69753,
+        24.27876
+      ]
+    },
+    "properties": {
+      "id": "5976",
+      "name": "豐洲汙水廠",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70402,
+        24.27808
+      ]
+    },
+    "properties": {
+      "id": "5975",
+      "name": "豐工中豐工一路口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70741,
+        24.27802
+      ]
+    },
+    "properties": {
+      "id": "5974",
+      "name": "豐工中豐工南路口",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70531,
+        24.27679
+      ]
+    },
+    "properties": {
+      "id": "5973",
+      "name": "豐工南豐工路口",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70794,
+        24.27324
+      ]
+    },
+    "properties": {
+      "id": "5972",
+      "name": "豐工東洲247巷口",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71141,
+        24.26847
+      ]
+    },
+    "properties": {
+      "id": "5971",
+      "name": "豐工三豐799巷口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71316,
+        24.26197
+      ]
+    },
+    "properties": {
+      "id": "5970",
+      "name": "葫蘆墩國小",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71983,
+        24.26123
+      ]
+    },
+    "properties": {
+      "id": "4503",
+      "name": "豐原國中",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72155,
+        24.25765
+      ]
+    },
+    "properties": {
+      "id": "5632",
+      "name": "豐中大順街口",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72251,
+        24.25535
+      ]
+    },
+    "properties": {
+      "id": "4931",
+      "name": "豐原火車站",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72129,
+        24.25239
+      ]
+    },
+    "properties": {
+      "id": "3157",
+      "name": "頂街",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71806,
+        24.25188
+      ]
+    },
+    "properties": {
+      "id": "3343",
+      "name": "媽祖廟",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71593,
+        24.25175
+      ]
+    },
+    "properties": {
+      "id": "3939",
+      "name": "豐原郵局",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71474,
+        24.25003
+      ]
+    },
+    "properties": {
+      "id": "3556",
+      "name": "電信局",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71729,
+        24.2482
+      ]
+    },
+    "properties": {
+      "id": "5442",
+      "name": "中興田心路口",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7211,
+        24.2469
+      ]
+    },
+    "properties": {
+      "id": "5443",
+      "name": "臺中市政府陽明大樓",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72278,
+        24.24603
+      ]
+    },
+    "properties": {
+      "id": "5142",
+      "name": "陽明自強南街口",
+      "seq": 41
     }
   },
   {
@@ -686,7 +1271,112 @@
     "properties": {
       "id": "4966",
       "name": "豐原醫院",
-      "seq": 9
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72749,
+        24.24384
+      ]
+    },
+    "properties": {
+      "id": "1946",
+      "name": "永康南陽路口",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72918,
+        24.24407
+      ]
+    },
+    "properties": {
+      "id": "1611",
+      "name": "廣福宮",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73265,
+        24.24662
+      ]
+    },
+    "properties": {
+      "id": "5283",
+      "name": "豐原大道中陽路口",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.737,
+        24.24835
+      ]
+    },
+    "properties": {
+      "id": "5282",
+      "name": "豐原大道中陽503巷口",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73629,
+        24.26
+      ]
+    },
+    "properties": {
+      "id": "5684",
+      "name": "義士祠",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73701,
+        24.26121
+      ]
+    },
+    "properties": {
+      "id": "2843",
+      "name": "翁子",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73947,
+        24.26226
+      ]
+    },
+    "properties": {
+      "id": "2844",
+      "name": "翁子保養場",
+      "seq": 50
     }
   }
 ]

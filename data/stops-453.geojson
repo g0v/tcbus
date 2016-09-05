@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.68349,
+        24.13903
+      ]
+    },
+    "properties": {
+      "id": "0151",
+      "name": "第一廣場",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68254,
+        24.13998
+      ]
+    },
+    "properties": {
+      "id": "4401",
+      "name": "彰化銀行(臺灣大道)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67935,
+        24.14271
+      ]
+    },
+    "properties": {
+      "id": "4395",
+      "name": "第二市場(臺灣大道)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67666,
+        24.14472
+      ]
+    },
+    "properties": {
+      "id": "4375",
+      "name": "臺灣大道中華路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67463,
+        24.14671
+      ]
+    },
+    "properties": {
+      "id": "5092",
+      "name": "臺灣大道原子街口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67189,
+        24.14909
+      ]
+    },
+    "properties": {
+      "id": "0723",
+      "name": "茄苳腳",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67042,
+        24.1517
+      ]
+    },
+    "properties": {
+      "id": "5103",
+      "name": "民權臺灣大道口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67012,
+        24.15396
+      ]
+    },
+    "properties": {
+      "id": "0263",
+      "name": "英才公園",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.66926,
         24.15514
       ]
@@ -162,21 +282,6 @@
       "id": "0269",
       "name": "西屯文心路口",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68349,
-        24.13903
-      ]
-    },
-    "properties": {
-      "id": "0151",
-      "name": "第一廣場",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68254,
-        24.13998
-      ]
-    },
-    "properties": {
-      "id": "4401",
-      "name": "彰化銀行(臺灣大道)",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.64501,
         24.18149
       ]
@@ -394,6 +484,21 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.64195,
+        24.18725
+      ]
+    },
+    "properties": {
+      "id": "5954",
+      "name": "福星北西苑路口",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.64019,
         24.18633
       ]
@@ -401,7 +506,7 @@
     "properties": {
       "id": "2192",
       "name": "西苑高中",
-      "seq": 33
+      "seq": 34
     }
   },
   {
@@ -416,7 +521,7 @@
     "properties": {
       "id": "2175",
       "name": "西屯派出所",
-      "seq": 34
+      "seq": 35
     }
   },
   {
@@ -431,7 +536,7 @@
     "properties": {
       "id": "0489",
       "name": "火房",
-      "seq": 35
+      "seq": 36
     }
   },
   {
@@ -446,7 +551,7 @@
     "properties": {
       "id": "3712",
       "name": "墩仔頂",
-      "seq": 36
+      "seq": 37
     }
   },
   {
@@ -461,7 +566,7 @@
     "properties": {
       "id": "0579",
       "name": "甲八",
-      "seq": 37
+      "seq": 38
     }
   },
   {
@@ -476,7 +581,7 @@
     "properties": {
       "id": "1712",
       "name": "水堀頭",
-      "seq": 38
+      "seq": 39
     }
   },
   {
@@ -491,22 +596,7 @@
     "properties": {
       "id": "5860",
       "name": "永安國小(西屯路)",
-      "seq": 39
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.67935,
-        24.14271
-      ]
-    },
-    "properties": {
-      "id": "4395",
-      "name": "第二市場(臺灣大道)",
-      "seq": 4
+      "seq": 40
     }
   },
   {
@@ -521,7 +611,7 @@
     "properties": {
       "id": "4677",
       "name": "福安里(西屯路)",
-      "seq": 40
+      "seq": 41
     }
   },
   {
@@ -536,7 +626,7 @@
     "properties": {
       "id": "0620",
       "name": "宏台別墅",
-      "seq": 41
+      "seq": 42
     }
   },
   {
@@ -551,7 +641,7 @@
     "properties": {
       "id": "0959",
       "name": "麗景天地",
-      "seq": 42
+      "seq": 43
     }
   },
   {
@@ -566,7 +656,7 @@
     "properties": {
       "id": "4682",
       "name": "福科國中",
-      "seq": 43
+      "seq": 44
     }
   },
   {
@@ -581,7 +671,7 @@
     "properties": {
       "id": "4683",
       "name": "西屯玉門路口",
-      "seq": 44
+      "seq": 45
     }
   },
   {
@@ -596,7 +686,7 @@
     "properties": {
       "id": "0885",
       "name": "榮總宿舍",
-      "seq": 45
+      "seq": 46
     }
   },
   {
@@ -611,7 +701,7 @@
     "properties": {
       "id": "5234",
       "name": "玉門福科路口",
-      "seq": 46
+      "seq": 47
     }
   },
   {
@@ -626,7 +716,7 @@
     "properties": {
       "id": "3495",
       "name": "瑞聯天地(福科路)",
-      "seq": 47
+      "seq": 48
     }
   },
   {
@@ -641,7 +731,7 @@
     "properties": {
       "id": "1544",
       "name": "五龍公園",
-      "seq": 48
+      "seq": 49
     }
   },
   {
@@ -656,22 +746,7 @@
     "properties": {
       "id": "3609",
       "name": "榮總北院",
-      "seq": 49
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.67666,
-        24.14472
-      ]
-    },
-    "properties": {
-      "id": "4375",
-      "name": "臺灣大道中華路口",
-      "seq": 5
+      "seq": 50
     }
   },
   {
@@ -686,7 +761,7 @@
     "properties": {
       "id": "0752",
       "name": "國安社區(東大路)",
-      "seq": 50
+      "seq": 51
     }
   },
   {
@@ -701,7 +776,22 @@
     "properties": {
       "id": "2931",
       "name": "國安國小",
-      "seq": 51
+      "seq": 52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60818,
+        24.19704
+      ]
+    },
+    "properties": {
+      "id": "1461",
+      "name": "中科站",
+      "seq": 53
     }
   },
   {
@@ -716,7 +806,7 @@
     "properties": {
       "id": "4720",
       "name": "格網中心",
-      "seq": 52
+      "seq": 54
     }
   },
   {
@@ -731,7 +821,7 @@
     "properties": {
       "id": "1459",
       "name": "中科友達",
-      "seq": 53
+      "seq": 55
     }
   },
   {
@@ -746,67 +836,7 @@
     "properties": {
       "id": "4054",
       "name": "中科管理局(中科路)",
-      "seq": 54
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.67463,
-        24.14671
-      ]
-    },
-    "properties": {
-      "id": "5092",
-      "name": "臺灣大道原子街口",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.67189,
-        24.14909
-      ]
-    },
-    "properties": {
-      "id": "0723",
-      "name": "茄苳腳",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.67042,
-        24.1517
-      ]
-    },
-    "properties": {
-      "id": "5103",
-      "name": "民權臺灣大道口",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.67012,
-        24.15396
-      ]
-    },
-    "properties": {
-      "id": "0263",
-      "name": "英才公園",
-      "seq": 9
+      "seq": 56
     }
   }
 ]

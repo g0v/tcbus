@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.62649,
+        24.19971
+      ]
+    },
+    "properties": {
+      "id": "1112",
+      "name": "下三角埔",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62565,
+        24.19795
+      ]
+    },
+    "properties": {
+      "id": "0671",
+      "name": "林厝里",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62423,
+        24.19451
+      ]
+    },
+    "properties": {
+      "id": "1721",
+      "name": "水臨橋",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62361,
+        24.19352
+      ]
+    },
+    "properties": {
+      "id": "5923",
+      "name": "福雅路321巷口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62178,
+        24.1909
+      ]
+    },
+    "properties": {
+      "id": "5945",
+      "name": "福雅路252巷口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62062,
+        24.18823
+      ]
+    },
+    "properties": {
+      "id": "5288",
+      "name": "福雅西屯路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62196,
+        24.18641
+      ]
+    },
+    "properties": {
+      "id": "4677",
+      "name": "福安里(西屯路)",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6211,
+        24.1849
+      ]
+    },
+    "properties": {
+      "id": "6008",
+      "name": "永福福科路口",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.61975,
         24.18251
       ]
@@ -132,21 +252,6 @@
       "id": "0017",
       "name": "臺中市政府",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.62649,
-        24.19971
-      ]
-    },
-    "properties": {
-      "id": "1112",
-      "name": "下三角埔",
-      "seq": 2
     }
   },
   {
@@ -282,21 +387,6 @@
       "id": "0091",
       "name": "健行國小",
       "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.62565,
-        24.19795
-      ]
-    },
-    "properties": {
-      "id": "0671",
-      "name": "林厝里",
-      "seq": 3
     }
   },
   {
@@ -454,21 +544,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62423,
-        24.19451
-      ]
-    },
-    "properties": {
-      "id": "1721",
-      "name": "水臨橋",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.68528,
         24.17164
       ]
@@ -612,21 +687,6 @@
       "id": "4582",
       "name": "舊社公園(北屯路)",
       "seq": 49
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.62361,
-        24.19352
-      ]
-    },
-    "properties": {
-      "id": "5923",
-      "name": "福雅路321巷口",
-      "seq": 5
     }
   },
   {
@@ -784,21 +844,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62178,
-        24.1909
-      ]
-    },
-    "properties": {
-      "id": "5945",
-      "name": "福雅路252巷口",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.71826,
         24.1915
       ]
@@ -844,13 +889,103 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62062,
-        24.18823
+        120.72108,
+        24.19577
       ]
     },
     "properties": {
-      "id": "5288",
-      "name": "福雅西屯路口",
+      "id": "3359",
+      "name": "慈濟醫院",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71984,
+        24.19385
+      ]
+    },
+    "properties": {
+      "id": "4976",
+      "name": "慈濟中醫院",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71811,
+        24.19143
+      ]
+    },
+    "properties": {
+      "id": "3692",
+      "name": "聚興",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71822,
+        24.1883
+      ]
+    },
+    "properties": {
+      "id": "2078",
+      "name": "名人球場",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71871,
+        24.18586
+      ]
+    },
+    "properties": {
+      "id": "1552",
+      "name": "仁愛之家",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71926,
+        24.18306
+      ]
+    },
+    "properties": {
+      "id": "0729",
+      "name": "軍功松竹路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71778,
+        24.1803
+      ]
+    },
+    "properties": {
+      "id": "4975",
+      "name": "軍福松竹二路口",
       "seq": 7
     }
   },
@@ -859,14 +994,644 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62196,
-        24.18641
+        120.71541,
+        24.18027
       ]
     },
     "properties": {
-      "id": "4677",
-      "name": "福安里(西屯路)",
+      "id": "4974",
+      "name": "軍福公園",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7122,
+        24.18027
+      ]
+    },
+    "properties": {
+      "id": "4973",
+      "name": "葳格高級中學",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71037,
+        24.18226
+      ]
+    },
+    "properties": {
+      "id": "2237",
+      "name": "松竹旱溪西路口",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70651,
+        24.18219
+      ]
+    },
+    "properties": {
+      "id": "3915",
+      "name": "松竹舊社巷口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70036,
+        24.18235
+      ]
+    },
+    "properties": {
+      "id": "4583",
+      "name": "舊社公園(松竹路)",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70036,
+        24.18317
+      ]
+    },
+    "properties": {
+      "id": "2461",
+      "name": "松竹市場",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70167,
+        24.18155
+      ]
+    },
+    "properties": {
+      "id": "4582",
+      "name": "舊社公園(北屯路)",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70034,
+        24.17842
+      ]
+    },
+    "properties": {
+      "id": "0105",
+      "name": "北新國中",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69932,
+        24.17585
+      ]
+    },
+    "properties": {
+      "id": "0200",
+      "name": "北屯崇德二路口",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69834,
+        24.17374
+      ]
+    },
+    "properties": {
+      "id": "0364",
+      "name": "特力屋北屯店",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69791,
+        24.17061
+      ]
+    },
+    "properties": {
+      "id": "4951",
+      "name": "北屯文心路口",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69699,
+        24.17072
+      ]
+    },
+    "properties": {
+      "id": "0102",
+      "name": "四維國小",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69447,
+        24.17109
+      ]
+    },
+    "properties": {
+      "id": "5780",
+      "name": "文心興安路口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69171,
+        24.17152
+      ]
+    },
+    "properties": {
+      "id": "4274",
+      "name": "文心昌平路口",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68785,
+        24.17191
+      ]
+    },
+    "properties": {
+      "id": "4283",
+      "name": "文心熱河路口",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68528,
+        24.17164
+      ]
+    },
+    "properties": {
+      "id": "4339",
+      "name": "崇德文心路口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68535,
+        24.17052
+      ]
+    },
+    "properties": {
+      "id": "1768",
+      "name": "崇德北平路口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68519,
+        24.16821
+      ]
+    },
+    "properties": {
+      "id": "5866",
+      "name": "崇德青島路口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68507,
+        24.16452
+      ]
+    },
+    "properties": {
+      "id": "0098",
+      "name": "崇德橋",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68506,
+        24.16182
+      ]
+    },
+    "properties": {
+      "id": "4576",
+      "name": "崇德德化街口",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68504,
+        24.15985
+      ]
+    },
+    "properties": {
+      "id": "4607",
+      "name": "新民高中(崇德路)",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68187,
+        24.1591
+      ]
+    },
+    "properties": {
+      "id": "4578",
+      "name": "健行永興街口",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68126,
+        24.15674
+      ]
+    },
+    "properties": {
+      "id": "0426",
+      "name": "中國醫藥大學",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67945,
+        24.15583
+      ]
+    },
+    "properties": {
+      "id": "0093",
+      "name": "五權國中",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67652,
+        24.15658
+      ]
+    },
+    "properties": {
+      "id": "0092",
+      "name": "邱厝里",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67334,
+        24.15927
+      ]
+    },
+    "properties": {
+      "id": "0091",
+      "name": "健行國小",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67066,
+        24.15924
+      ]
+    },
+    "properties": {
+      "id": "5428",
+      "name": "健行民權路口",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6677,
+        24.15928
+      ]
+    },
+    "properties": {
+      "id": "4679",
+      "name": "植物園(健行路)",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66405,
+        24.15804
+      ]
+    },
+    "properties": {
+      "id": "0089",
+      "name": "忠明高中",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66207,
+        24.15588
+      ]
+    },
+    "properties": {
+      "id": "0320",
+      "name": "科學博物館(臺灣大道)",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65862,
+        24.15795
+      ]
+    },
+    "properties": {
+      "id": "0087",
+      "name": "忠明國小",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65629,
+        24.15917
+      ]
+    },
+    "properties": {
+      "id": "4569",
+      "name": "頂何厝(臺灣大道)",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65422,
+        24.16037
+      ]
+    },
+    "properties": {
+      "id": "4566",
+      "name": "何厝(臺灣大道)",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6513,
+        24.16199
+      ]
+    },
+    "properties": {
+      "id": "4564",
+      "name": "臺灣大道文心路口",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64702,
+        24.16433
+      ]
+    },
+    "properties": {
+      "id": "0017",
+      "name": "臺中市政府",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64415,
+        24.16585
+      ]
+    },
+    "properties": {
+      "id": "0016",
+      "name": "新光三越",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64201,
+        24.16724
+      ]
+    },
+    "properties": {
+      "id": "0015",
+      "name": "教師新村",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63966,
+        24.16901
+      ]
+    },
+    "properties": {
+      "id": "0826",
+      "name": "秋紅谷(朝陽橋)",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63717,
+        24.17059
+      ]
+    },
+    "properties": {
+      "id": "0054",
+      "name": "朝馬(臺灣大道)",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62485,
+        24.17849
+      ]
+    },
+    "properties": {
+      "id": "5149",
+      "name": "福安里(臺灣大道)",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62116,
+        24.18006
+      ]
+    },
+    "properties": {
+      "id": "3060",
+      "name": "統聯轉運站",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61946,
+        24.18099
+      ]
+    },
+    "properties": {
+      "id": "0008",
+      "name": "中港新城",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61975,
+        24.18251
+      ]
+    },
+    "properties": {
+      "id": "5493",
+      "name": "世斌公園",
+      "seq": 50
     }
   },
   {
@@ -881,7 +1646,127 @@
     "properties": {
       "id": "6008",
       "name": "永福福科路口",
-      "seq": 9
+      "seq": 51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62178,
+        24.18664
+      ]
+    },
+    "properties": {
+      "id": "4677",
+      "name": "福安里(西屯路)",
+      "seq": 52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62062,
+        24.18823
+      ]
+    },
+    "properties": {
+      "id": "5288",
+      "name": "福雅西屯路口",
+      "seq": 53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62178,
+        24.1909
+      ]
+    },
+    "properties": {
+      "id": "5945",
+      "name": "福雅路252巷口",
+      "seq": 54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62361,
+        24.19352
+      ]
+    },
+    "properties": {
+      "id": "5923",
+      "name": "福雅路321巷口",
+      "seq": 55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62423,
+        24.19451
+      ]
+    },
+    "properties": {
+      "id": "1721",
+      "name": "水臨橋",
+      "seq": 56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62565,
+        24.19795
+      ]
+    },
+    "properties": {
+      "id": "0671",
+      "name": "林厝里",
+      "seq": 57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62649,
+        24.19971
+      ]
+    },
+    "properties": {
+      "id": "1112",
+      "name": "下三角埔",
+      "seq": 58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62777,
+        24.20183
+      ]
+    },
+    "properties": {
+      "id": "5968",
+      "name": "三角埔(福雅路)",
+      "seq": 59
     }
   }
 ]

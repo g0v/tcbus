@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.71612,
+        24.25276
+      ]
+    },
+    "properties": {
+      "id": "2097",
+      "name": "圳寮口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71526,
+        24.25136
+      ]
+    },
+    "properties": {
+      "id": "3939",
+      "name": "豐原郵局",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7184,
+        24.25178
+      ]
+    },
+    "properties": {
+      "id": "3343",
+      "name": "媽祖廟",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72365,
+        24.25229
+      ]
+    },
+    "properties": {
+      "id": "4203",
+      "name": "新都酒店",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72414,
+        24.25075
+      ]
+    },
+    "properties": {
+      "id": "3238",
+      "name": "惠陽中陽路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7227,
+        24.24911
+      ]
+    },
+    "properties": {
+      "id": "2607",
+      "name": "南陽國小",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72343,
+        24.24764
+      ]
+    },
+    "properties": {
+      "id": "2269",
+      "name": "育樂新村",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72278,
+        24.24603
+      ]
+    },
+    "properties": {
+      "id": "5142",
+      "name": "陽明自強南街口",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.7254,
         24.24326
       ]
@@ -169,21 +289,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.71612,
-        24.25276
-      ]
-    },
-    "properties": {
-      "id": "2097",
-      "name": "圳寮口",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.73458,
         24.23797
       ]
@@ -319,21 +424,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.71526,
-        24.25136
-      ]
-    },
-    "properties": {
-      "id": "3939",
-      "name": "豐原郵局",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.75248,
         24.23008
       ]
@@ -364,13 +454,43 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.7184,
-        24.25178
+        120.75431,
+        24.22667
       ]
     },
     "properties": {
-      "id": "3343",
-      "name": "媽祖廟",
+      "id": "2426",
+      "name": "東陽里",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.75248,
+        24.23008
+      ]
+    },
+    "properties": {
+      "id": "1740",
+      "name": "東陽太坑巷口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.74757,
+        24.23319
+      ]
+    },
+    "properties": {
+      "id": "2259",
+      "name": "東陽泉洲巷口",
       "seq": 4
     }
   },
@@ -379,13 +499,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.72365,
-        24.25229
+        120.74662,
+        24.23398
       ]
     },
     "properties": {
-      "id": "4203",
-      "name": "新都酒店",
+      "id": "3695",
+      "name": "豪傑山莊",
       "seq": 5
     }
   },
@@ -394,13 +514,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.72414,
-        24.25075
+        120.74395,
+        24.23456
       ]
     },
     "properties": {
-      "id": "3238",
-      "name": "惠陽中陽路口",
+      "id": "2675",
+      "name": "活動中心",
       "seq": 6
     }
   },
@@ -409,13 +529,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.7227,
-        24.24911
+        120.74192,
+        24.23622
       ]
     },
     "properties": {
-      "id": "2607",
-      "name": "南陽國小",
+      "id": "1013",
+      "name": "二號橋",
       "seq": 7
     }
   },
@@ -424,14 +544,224 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.72343,
-        24.24764
+        120.73971,
+        24.23689
       ]
     },
     "properties": {
-      "id": "2269",
-      "name": "育樂新村",
+      "id": "3987",
+      "name": "寶泉犬舍",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73833,
+        24.23515
+      ]
+    },
+    "properties": {
+      "id": "2076",
+      "name": "吊橋頭",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73683,
+        24.23593
+      ]
+    },
+    "properties": {
+      "id": "2427",
+      "name": "東陽橋",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73504,
+        24.23681
+      ]
+    },
+    "properties": {
+      "id": "2283",
+      "name": "車程",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73458,
+        24.23797
+      ]
+    },
+    "properties": {
+      "id": "2471",
+      "name": "武明山",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73512,
+        24.24168
+      ]
+    },
+    "properties": {
+      "id": "5593",
+      "name": "福陽國小",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73307,
+        24.24059
+      ]
+    },
+    "properties": {
+      "id": "3687",
+      "name": "綠山莊口",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73244,
+        24.24185
+      ]
+    },
+    "properties": {
+      "id": "1524",
+      "name": "南陽綠山巷口",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73049,
+        24.24258
+      ]
+    },
+    "properties": {
+      "id": "2610",
+      "name": "南陽橋",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72918,
+        24.24407
+      ]
+    },
+    "properties": {
+      "id": "1611",
+      "name": "廣福宮",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72672,
+        24.24544
+      ]
+    },
+    "properties": {
+      "id": "5281",
+      "name": "南陽新村",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72887,
+        24.24652
+      ]
+    },
+    "properties": {
+      "id": "5900",
+      "name": "豐東國中(同安街)",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72859,
+        24.24545
+      ]
+    },
+    "properties": {
+      "id": "0020",
+      "name": "豐東南陽路口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72749,
+        24.24384
+      ]
+    },
+    "properties": {
+      "id": "1946",
+      "name": "永康南陽路口",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7254,
+        24.24326
+      ]
+    },
+    "properties": {
+      "id": "4966",
+      "name": "豐原醫院",
+      "seq": 22
     }
   },
   {
@@ -446,7 +776,112 @@
     "properties": {
       "id": "5142",
       "name": "陽明自強南街口",
-      "seq": 9
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72343,
+        24.24764
+      ]
+    },
+    "properties": {
+      "id": "2269",
+      "name": "育樂新村",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7227,
+        24.24911
+      ]
+    },
+    "properties": {
+      "id": "2607",
+      "name": "南陽國小",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72414,
+        24.25075
+      ]
+    },
+    "properties": {
+      "id": "3238",
+      "name": "惠陽中陽路口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72365,
+        24.25229
+      ]
+    },
+    "properties": {
+      "id": "4203",
+      "name": "新都酒店",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7184,
+        24.25178
+      ]
+    },
+    "properties": {
+      "id": "3343",
+      "name": "媽祖廟",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71612,
+        24.25276
+      ]
+    },
+    "properties": {
+      "id": "2097",
+      "name": "圳寮口",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72154,
+        24.2538
+      ]
+    },
+    "properties": {
+      "id": "3935",
+      "name": "豐原",
+      "seq": 30
     }
   }
 ]

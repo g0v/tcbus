@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.82934,
+        24.25515
+      ]
+    },
+    "properties": {
+      "id": "2570",
+      "name": "南平里",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83003,
+        24.25251
+      ]
+    },
+    "properties": {
+      "id": "1415",
+      "name": "中嵙口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83063,
+        24.24998
+      ]
+    },
+    "properties": {
+      "id": "4409",
+      "name": "東勢南站",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83172,
+        24.24806
+      ]
+    },
+    "properties": {
+      "id": "4524",
+      "name": "東坑豐勢路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83282,
+        24.24723
+      ]
+    },
+    "properties": {
+      "id": "2002",
+      "name": "石角口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83707,
+        24.24493
+      ]
+    },
+    "properties": {
+      "id": "1339",
+      "name": "大雪山後門",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.84068,
+        24.24496
+      ]
+    },
+    "properties": {
+      "id": "2921",
+      "name": "高簡",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.84251,
+        24.24493
+      ]
+    },
+    "properties": {
+      "id": "1242",
+      "name": "上高簡",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.84601,
         24.2429
       ]
@@ -169,13 +289,28 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.82934,
-        24.25515
+        120.87887,
+        24.23887
       ]
     },
     "properties": {
-      "id": "2570",
-      "name": "南平里",
+      "id": "1450",
+      "name": "中坑坪",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.87327,
+        24.24027
+      ]
+    },
+    "properties": {
+      "id": "3881",
+      "name": "檢查站",
       "seq": 2
     }
   },
@@ -184,13 +319,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.83003,
-        24.25251
+        120.86816,
+        24.241
       ]
     },
     "properties": {
-      "id": "1415",
-      "name": "中嵙口",
+      "id": "2324",
+      "name": "坪埔",
       "seq": 3
     }
   },
@@ -199,13 +334,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.83063,
-        24.24998
+        120.86353,
+        24.23974
       ]
     },
     "properties": {
-      "id": "4409",
-      "name": "東勢南站",
+      "id": "2018",
+      "name": "石橋頭前",
       "seq": 4
     }
   },
@@ -214,13 +349,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.83282,
-        24.24723
+        120.86117,
+        24.23723
       ]
     },
     "properties": {
-      "id": "2002",
-      "name": "石角口",
+      "id": "3312",
+      "name": "雲仙洞",
       "seq": 5
     }
   },
@@ -229,13 +364,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.8321,
-        24.24749
+        120.85426,
+        24.23618
       ]
     },
     "properties": {
-      "id": "4524",
-      "name": "東坑豐勢路口",
+      "id": "1227",
+      "name": "上石角",
       "seq": 6
     }
   },
@@ -244,13 +379,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.83707,
-        24.24493
+        120.85152,
+        24.23887
       ]
     },
     "properties": {
-      "id": "1339",
-      "name": "大雪山後門",
+      "id": "2003",
+      "name": "石角國小",
       "seq": 7
     }
   },
@@ -259,14 +394,44 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.84068,
-        24.24496
+        120.85013,
+        24.24041
       ]
     },
     "properties": {
-      "id": "2921",
-      "name": "高簡",
+      "id": "2001",
+      "name": "石角",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8479,
+        24.24109
+      ]
+    },
+    "properties": {
+      "id": "1816",
+      "name": "古靈堂",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.84601,
+        24.2429
+      ]
+    },
+    "properties": {
+      "id": "2217",
+      "name": "伯公下",
+      "seq": 10
     }
   },
   {
@@ -281,7 +446,127 @@
     "properties": {
       "id": "1242",
       "name": "上高簡",
-      "seq": 9
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.84068,
+        24.24496
+      ]
+    },
+    "properties": {
+      "id": "2921",
+      "name": "高簡",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83707,
+        24.24493
+      ]
+    },
+    "properties": {
+      "id": "1339",
+      "name": "大雪山後門",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83282,
+        24.24723
+      ]
+    },
+    "properties": {
+      "id": "2002",
+      "name": "石角口",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83172,
+        24.24806
+      ]
+    },
+    "properties": {
+      "id": "4524",
+      "name": "東坑豐勢路口",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83063,
+        24.24998
+      ]
+    },
+    "properties": {
+      "id": "4409",
+      "name": "東勢南站",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.83003,
+        24.25251
+      ]
+    },
+    "properties": {
+      "id": "1415",
+      "name": "中嵙口",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82934,
+        24.25515
+      ]
+    },
+    "properties": {
+      "id": "2570",
+      "name": "南平里",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82862,
+        24.25742
+      ]
+    },
+    "properties": {
+      "id": "2428",
+      "name": "東勢",
+      "seq": 19
     }
   }
 ]

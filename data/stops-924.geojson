@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.68345,
+        24.13906
+      ]
+    },
+    "properties": {
+      "id": "0151",
+      "name": "第一廣場",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6826,
+        24.13984
+      ]
+    },
+    "properties": {
+      "id": "4401",
+      "name": "彰化銀行(臺灣大道)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68014,
+        24.14198
+      ]
+    },
+    "properties": {
+      "id": "4395",
+      "name": "第二市場(臺灣大道)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68133,
+        24.14407
+      ]
+    },
+    "properties": {
+      "id": "5506",
+      "name": "光復國小(三民路)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68227,
+        24.14525
+      ]
+    },
+    "properties": {
+      "id": "4543",
+      "name": "臺中公園(三民路)",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68387,
+        24.14921
+      ]
+    },
+    "properties": {
+      "id": "0045",
+      "name": "國立臺中科技大學",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68514,
+        24.15241
+      ]
+    },
+    "properties": {
+      "id": "0046",
+      "name": "中友百貨",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68381,
+        24.1538
+      ]
+    },
+    "properties": {
+      "id": "3772",
+      "name": "五權學士路口",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.68025,
         24.15236
       ]
@@ -162,21 +282,6 @@
       "id": "0320",
       "name": "科學博物館(臺灣大道)",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68345,
-        24.13906
-      ]
-    },
-    "properties": {
-      "id": "0151",
-      "name": "第一廣場",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6826,
-        24.13984
-      ]
-    },
-    "properties": {
-      "id": "4401",
-      "name": "彰化銀行(臺灣大道)",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.6506,
         24.13486
       ]
@@ -499,21 +589,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68014,
-        24.14198
-      ]
-    },
-    "properties": {
-      "id": "4395",
-      "name": "第二市場(臺灣大道)",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.62779,
         24.11837
       ]
@@ -597,21 +672,6 @@
       "id": "2907",
       "name": "高鐵臺中站",
       "seq": 47
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68133,
-        24.14407
-      ]
-    },
-    "properties": {
-      "id": "5506",
-      "name": "光復國小(三民路)",
-      "seq": 5
     }
   },
   {
@@ -709,21 +769,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68227,
-        24.14525
-      ]
-    },
-    "properties": {
-      "id": "4543",
-      "name": "臺中公園(三民路)",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.60908,
         24.12914
       ]
@@ -807,51 +852,6 @@
       "id": "6040",
       "name": "嶺東科技大學",
       "seq": 65
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68387,
-        24.14921
-      ]
-    },
-    "properties": {
-      "id": "0045",
-      "name": "國立臺中科技大學",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68514,
-        24.15241
-      ]
-    },
-    "properties": {
-      "id": "0046",
-      "name": "中友百貨",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68381,
-        24.1538
-      ]
-    },
-    "properties": {
-      "id": "3772",
-      "name": "五權學士路口",
-      "seq": 9
     }
   }
 ]

@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.68569,
+        24.15378
+      ]
+    },
+    "properties": {
+      "id": "0047",
+      "name": "一心市場",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68484,
+        24.15177
+      ]
+    },
+    "properties": {
+      "id": "0046",
+      "name": "中友百貨",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68396,
+        24.14936
+      ]
+    },
+    "properties": {
+      "id": "0045",
+      "name": "國立臺中科技大學",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68228,
+        24.14554
+      ]
+    },
+    "properties": {
+      "id": "4543",
+      "name": "臺中公園(三民路)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68113,
+        24.14401
+      ]
+    },
+    "properties": {
+      "id": "5506",
+      "name": "光復國小(三民路)",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67986,
+        24.14274
+      ]
+    },
+    "properties": {
+      "id": "4609",
+      "name": "第二市場(三民路)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67838,
+        24.14131
+      ]
+    },
+    "properties": {
+      "id": "5026",
+      "name": "美榮藥局",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67604,
+        24.139
+      ]
+    },
+    "properties": {
+      "id": "0209",
+      "name": "臺中科大民生校區",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.67406,
         24.13715
       ]
@@ -169,21 +289,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68569,
-        24.15378
-      ]
-    },
-    "properties": {
-      "id": "0047",
-      "name": "一心市場",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.6511,
         24.13208
       ]
@@ -282,21 +387,6 @@
       "id": "4176",
       "name": "光日站",
       "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68484,
-        24.15177
-      ]
-    },
-    "properties": {
-      "id": "0046",
-      "name": "中友百貨",
-      "seq": 3
     }
   },
   {
@@ -417,21 +507,6 @@
       "id": "4964",
       "name": "同安南北巷口",
       "seq": 39
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68396,
-        24.14936
-      ]
-    },
-    "properties": {
-      "id": "0045",
-      "name": "國立臺中科技大學",
-      "seq": 4
     }
   },
   {
@@ -589,21 +664,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68228,
-        24.14554
-      ]
-    },
-    "properties": {
-      "id": "4543",
-      "name": "臺中公園(三民路)",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.57558,
         24.14754
       ]
@@ -619,13 +679,88 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68113,
-        24.14401
+        120.57558,
+        24.14754
       ]
     },
     "properties": {
-      "id": "5506",
-      "name": "光復國小(三民路)",
+      "id": "5715",
+      "name": "動物之家南屯園區",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57847,
+        24.14471
+      ]
+    },
+    "properties": {
+      "id": "5714",
+      "name": "望高寮",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58457,
+        24.13949
+      ]
+    },
+    "properties": {
+      "id": "5470",
+      "name": "白陽山",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5888,
+        24.1375
+      ]
+    },
+    "properties": {
+      "id": "5029",
+      "name": "清新溫泉飯店",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59588,
+        24.13847
+      ]
+    },
+    "properties": {
+      "id": "5028",
+      "name": "中台溫泉路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5995,
+        24.13875
+      ]
+    },
+    "properties": {
+      "id": "0810",
+      "name": "復興電台",
       "seq": 6
     }
   },
@@ -634,13 +769,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.67986,
-        24.14274
+        120.60906,
+        24.13851
       ]
     },
     "properties": {
-      "id": "4609",
-      "name": "第二市場(三民路)",
+      "id": "5162",
+      "name": "嶺東科技大學(永春南路)",
       "seq": 7
     }
   },
@@ -649,14 +784,434 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.67838,
-        24.14131
+        120.61141,
+        24.13851
       ]
     },
     "properties": {
-      "id": "5026",
-      "name": "美榮藥局",
+      "id": "3874",
+      "name": "嶺東高中",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61191,
+        24.13612
+      ]
+    },
+    "properties": {
+      "id": "4763",
+      "name": "春社派出所",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61133,
+        24.13403
+      ]
+    },
+    "properties": {
+      "id": "4762",
+      "name": "彩虹眷村",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61049,
+        24.13168
+      ]
+    },
+    "properties": {
+      "id": "4761",
+      "name": "南屯同安厝",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60908,
+        24.12914
+      ]
+    },
+    "properties": {
+      "id": "4964",
+      "name": "同安南北巷口",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60748,
+        24.12644
+      ]
+    },
+    "properties": {
+      "id": "4760",
+      "name": "成功嶺3號門",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60689,
+        24.12455
+      ]
+    },
+    "properties": {
+      "id": "4759",
+      "name": "烏日學田里",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6073,
+        24.12222
+      ]
+    },
+    "properties": {
+      "id": "5472",
+      "name": "學田活動中心",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60777,
+        24.12063
+      ]
+    },
+    "properties": {
+      "id": "4758",
+      "name": "學田診所",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60802,
+        24.11806
+      ]
+    },
+    "properties": {
+      "id": "4757",
+      "name": "幸記公司",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60827,
+        24.11382
+      ]
+    },
+    "properties": {
+      "id": "5971",
+      "name": "高鐵學田路口",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61872,
+        24.11117
+      ]
+    },
+    "properties": {
+      "id": "2907",
+      "name": "高鐵臺中站",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62606,
+        24.1086
+      ]
+    },
+    "properties": {
+      "id": "4176",
+      "name": "光日站",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63425,
+        24.11078
+      ]
+    },
+    "properties": {
+      "id": "5379",
+      "name": "九德(建國路)",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64786,
+        24.11912
+      ]
+    },
+    "properties": {
+      "id": "4032",
+      "name": "大慶火車站",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64885,
+        24.12251
+      ]
+    },
+    "properties": {
+      "id": "4034",
+      "name": "中山醫學大學",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6465,
+        24.13027
+      ]
+    },
+    "properties": {
+      "id": "0026",
+      "name": "豐樂公園",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64853,
+        24.13201
+      ]
+    },
+    "properties": {
+      "id": "4030",
+      "name": "好市多",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6511,
+        24.13208
+      ]
+    },
+    "properties": {
+      "id": "4970",
+      "name": "文心南五路260巷口",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65312,
+        24.13231
+      ]
+    },
+    "properties": {
+      "id": "4029",
+      "name": "愛心家園",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65335,
+        24.13496
+      ]
+    },
+    "properties": {
+      "id": "0569",
+      "name": "永春東東興路口",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65592,
+        24.13458
+      ]
+    },
+    "properties": {
+      "id": "0348",
+      "name": "土庫",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65784,
+        24.13368
+      ]
+    },
+    "properties": {
+      "id": "0126",
+      "name": "崇倫國中(南屯路)",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65968,
+        24.13321
+      ]
+    },
+    "properties": {
+      "id": "0935",
+      "name": "靜和醫院",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66132,
+        24.13231
+      ]
+    },
+    "properties": {
+      "id": "4637",
+      "name": "南屯美村路口",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6648,
+        24.13215
+      ]
+    },
+    "properties": {
+      "id": "0562",
+      "name": "永安市場",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6696,
+        24.13275
+      ]
+    },
+    "properties": {
+      "id": "5661",
+      "name": "公館(三民路)",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67248,
+        24.13556
+      ]
+    },
+    "properties": {
+      "id": "0673",
+      "name": "三民林森路口",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67406,
+        24.13715
+      ]
+    },
+    "properties": {
+      "id": "0210",
+      "name": "忠孝國小",
+      "seq": 41
     }
   },
   {
@@ -671,7 +1226,142 @@
     "properties": {
       "id": "0209",
       "name": "臺中科大民生校區",
-      "seq": 9
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67821,
+        24.14119
+      ]
+    },
+    "properties": {
+      "id": "5026",
+      "name": "美榮藥局",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68091,
+        24.14368
+      ]
+    },
+    "properties": {
+      "id": "5506",
+      "name": "光復國小(三民路)",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68224,
+        24.14526
+      ]
+    },
+    "properties": {
+      "id": "4543",
+      "name": "臺中公園(三民路)",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68393,
+        24.14947
+      ]
+    },
+    "properties": {
+      "id": "0045",
+      "name": "國立臺中科技大學",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68514,
+        24.15241
+      ]
+    },
+    "properties": {
+      "id": "0046",
+      "name": "中友百貨",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68587,
+        24.1542
+      ]
+    },
+    "properties": {
+      "id": "0047",
+      "name": "一心市場",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68854,
+        24.15679
+      ]
+    },
+    "properties": {
+      "id": "4399",
+      "name": "新民高中(三民路)",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68941,
+        24.15652
+      ]
+    },
+    "properties": {
+      "id": "4520",
+      "name": "文英兒童公園",
+      "seq": 50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68797,
+        24.15401
+      ]
+    },
+    "properties": {
+      "id": "0048",
+      "name": "莒光新城",
+      "seq": 51
     }
   }
 ]

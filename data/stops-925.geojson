@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.61141,
+        24.13851
+      ]
+    },
+    "properties": {
+      "id": "3874",
+      "name": "嶺東高中",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61191,
+        24.13612
+      ]
+    },
+    "properties": {
+      "id": "4763",
+      "name": "春社派出所",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61133,
+        24.13403
+      ]
+    },
+    "properties": {
+      "id": "4762",
+      "name": "彩虹眷村",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61049,
+        24.13168
+      ]
+    },
+    "properties": {
+      "id": "4761",
+      "name": "南屯同安厝",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60908,
+        24.12914
+      ]
+    },
+    "properties": {
+      "id": "4964",
+      "name": "同安南北巷口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60748,
+        24.12644
+      ]
+    },
+    "properties": {
+      "id": "4760",
+      "name": "成功嶺3號門",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60689,
+        24.12455
+      ]
+    },
+    "properties": {
+      "id": "4759",
+      "name": "烏日學田里",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6073,
+        24.12222
+      ]
+    },
+    "properties": {
+      "id": "5472",
+      "name": "學田活動中心",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.60777,
         24.12063
       ]
@@ -72,21 +192,6 @@
       "id": "2907",
       "name": "高鐵臺中站",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.61141,
-        24.13851
-      ]
-    },
-    "properties": {
-      "id": "3874",
-      "name": "嶺東高中",
-      "seq": 2
     }
   },
   {
@@ -207,21 +312,6 @@
       "id": "0953",
       "name": "鎮平里",
       "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.61191,
-        24.13612
-      ]
-    },
-    "properties": {
-      "id": "4763",
-      "name": "春社派出所",
-      "seq": 3
     }
   },
   {
@@ -379,21 +469,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.61133,
-        24.13403
-      ]
-    },
-    "properties": {
-      "id": "4762",
-      "name": "彩虹眷村",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.65302,
         24.14551
       ]
@@ -537,21 +612,6 @@
       "id": "0089",
       "name": "忠明高中",
       "seq": 49
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.61049,
-        24.13168
-      ]
-    },
-    "properties": {
-      "id": "4761",
-      "name": "南屯同安厝",
-      "seq": 5
     }
   },
   {
@@ -709,21 +769,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60908,
-        24.12914
-      ]
-    },
-    "properties": {
-      "id": "4964",
-      "name": "同安南北巷口",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.68563,
         24.15369
       ]
@@ -866,52 +911,7 @@
     "properties": {
       "id": "0905",
       "name": "綠川東站",
-      "seq": 69
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.60748,
-        24.12644
-      ]
-    },
-    "properties": {
-      "id": "4760",
-      "name": "成功嶺3號門",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.60689,
-        24.12455
-      ]
-    },
-    "properties": {
-      "id": "4759",
-      "name": "烏日學田里",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.6073,
-        24.12222
-      ]
-    },
-    "properties": {
-      "id": "5472",
-      "name": "學田活動中心",
-      "seq": 9
+      "seq": 70
     }
   }
 ]

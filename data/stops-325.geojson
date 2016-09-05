@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.54536,
+        24.1512
+      ]
+    },
+    "properties": {
+      "id": "4786",
+      "name": "大肚區公所",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54565,
+        24.15014
+      ]
+    },
+    "properties": {
+      "id": "1302",
+      "name": "大肚",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54619,
+        24.14857
+      ]
+    },
+    "properties": {
+      "id": "5401",
+      "name": "平和東沙田路口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54838,
+        24.1487
+      ]
+    },
+    "properties": {
+      "id": "5400",
+      "name": "育英平和東路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54779,
+        24.15184
+      ]
+    },
+    "properties": {
+      "id": "5395",
+      "name": "自治育英路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.572,
+        24.15583
+      ]
+    },
+    "properties": {
+      "id": "0455",
+      "name": "臺中區監理所(華南路)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57336,
+        24.15785
+      ]
+    },
+    "properties": {
+      "id": "4752",
+      "name": "幸福新城",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57437,
+        24.1598
+      ]
+    },
+    "properties": {
+      "id": "1480",
+      "name": "中富國宅",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.57538,
         24.16178
       ]
@@ -162,21 +282,6 @@
       "id": "5144",
       "name": "新庄里",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.54536,
-        24.1512
-      ]
-    },
-    "properties": {
-      "id": "4786",
-      "name": "大肚區公所",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.54565,
-        24.15014
-      ]
-    },
-    "properties": {
-      "id": "1302",
-      "name": "大肚",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.61239,
         24.18435
       ]
@@ -379,8 +469,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.61948,
-        24.18123
+        120.61956,
+        24.18121
       ]
     },
     "properties": {
@@ -492,21 +582,6 @@
       "id": "0017",
       "name": "臺中市政府",
       "seq": 39
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.54619,
-        24.14857
-      ]
-    },
-    "properties": {
-      "id": "5401",
-      "name": "平和東沙田路口",
-      "seq": 4
     }
   },
   {
@@ -664,21 +739,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.54838,
-        24.1487
-      ]
-    },
-    "properties": {
-      "id": "5400",
-      "name": "育英平和東路口",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.6765,
         24.14097
       ]
@@ -769,13 +829,88 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.54779,
-        24.15184
+        120.68442,
+        24.13753
       ]
     },
     "properties": {
-      "id": "5395",
-      "name": "自治育英路口",
+      "id": "1824",
+      "name": "臺中火車站",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68095,
+        24.13706
+      ]
+    },
+    "properties": {
+      "id": "4284",
+      "name": "民權繼光街口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67847,
+        24.13918
+      ]
+    },
+    "properties": {
+      "id": "4416",
+      "name": "臺中州廳",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6765,
+        24.14097
+      ]
+    },
+    "properties": {
+      "id": "0208",
+      "name": "臺中醫院",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67464,
+        24.14257
+      ]
+    },
+    "properties": {
+      "id": "4623",
+      "name": "民權中華路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67153,
+        24.14517
+      ]
+    },
+    "properties": {
+      "id": "0513",
+      "name": "臺中教育大學",
       "seq": 6
     }
   },
@@ -784,13 +919,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.572,
-        24.15583
+        120.66969,
+        24.14932
       ]
     },
     "properties": {
-      "id": "0455",
-      "name": "臺中區監理所(華南路)",
+      "id": "0262",
+      "name": "民權路口",
       "seq": 7
     }
   },
@@ -799,14 +934,539 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.57336,
+        120.66933,
+        24.15143
+      ]
+    },
+    "properties": {
+      "id": "4619",
+      "name": "臺灣大道民權路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66735,
+        24.15302
+      ]
+    },
+    "properties": {
+      "id": "0419",
+      "name": "中正國小",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66147,
+        24.15615
+      ]
+    },
+    "properties": {
+      "id": "0320",
+      "name": "科學博物館(臺灣大道)",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65868,
         24.15785
       ]
     },
     "properties": {
-      "id": "4752",
-      "name": "幸福新城",
-      "seq": 8
+      "id": "0087",
+      "name": "忠明國小",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65635,
+        24.1592
+      ]
+    },
+    "properties": {
+      "id": "4569",
+      "name": "頂何厝(臺灣大道)",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65484,
+        24.15967
+      ]
+    },
+    "properties": {
+      "id": "4566",
+      "name": "何厝(臺灣大道)",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65151,
+        24.1617
+      ]
+    },
+    "properties": {
+      "id": "4564",
+      "name": "臺灣大道文心路口",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64686,
+        24.16416
+      ]
+    },
+    "properties": {
+      "id": "0017",
+      "name": "臺中市政府",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64429,
+        24.16551
+      ]
+    },
+    "properties": {
+      "id": "0016",
+      "name": "新光三越",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64186,
+        24.1671
+      ]
+    },
+    "properties": {
+      "id": "0015",
+      "name": "教師新村",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6401,
+        24.1685
+      ]
+    },
+    "properties": {
+      "id": "0826",
+      "name": "秋紅谷(朝陽橋)",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63717,
+        24.17059
+      ]
+    },
+    "properties": {
+      "id": "0054",
+      "name": "朝馬(臺灣大道)",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62485,
+        24.17849
+      ]
+    },
+    "properties": {
+      "id": "5149",
+      "name": "福安里(臺灣大道)",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62067,
+        24.18029
+      ]
+    },
+    "properties": {
+      "id": "3060",
+      "name": "統聯轉運站",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61948,
+        24.18123
+      ]
+    },
+    "properties": {
+      "id": "0008",
+      "name": "中港新城",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6161,
+        24.18276
+      ]
+    },
+    "properties": {
+      "id": "0430",
+      "name": "中港澄清醫院",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61326,
+        24.1842
+      ]
+    },
+    "properties": {
+      "id": "0006",
+      "name": "臺中捐血中心",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61003,
+        24.18449
+      ]
+    },
+    "properties": {
+      "id": "4335",
+      "name": "臺灣大道玉門路口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60898,
+        24.18437
+      ]
+    },
+    "properties": {
+      "id": "0004",
+      "name": "普濟寺",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60686,
+        24.18365
+      ]
+    },
+    "properties": {
+      "id": "2378",
+      "name": "東大附中",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60491,
+        24.18349
+      ]
+    },
+    "properties": {
+      "id": "5386",
+      "name": "臺中榮總(臺灣大道)",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59644,
+        24.18203
+      ]
+    },
+    "properties": {
+      "id": "0526",
+      "name": "台中精機",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59424,
+        24.18244
+      ]
+    },
+    "properties": {
+      "id": "0240",
+      "name": "東海別墅",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59084,
+        24.18385
+      ]
+    },
+    "properties": {
+      "id": "0094",
+      "name": "台糖公營學苑",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58788,
+        24.1853
+      ]
+    },
+    "properties": {
+      "id": "5304",
+      "name": "東海街口",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5847,
+        24.18357
+      ]
+    },
+    "properties": {
+      "id": "5389",
+      "name": "東海停車場",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58327,
+        24.18024
+      ]
+    },
+    "properties": {
+      "id": "5144",
+      "name": "新庄里",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58207,
+        24.17694
+      ]
+    },
+    "properties": {
+      "id": "3747",
+      "name": "磐頂教會",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58156,
+        24.17563
+      ]
+    },
+    "properties": {
+      "id": "1875",
+      "name": "巧聖先師",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58047,
+        24.1724
+      ]
+    },
+    "properties": {
+      "id": "2168",
+      "name": "自強新城",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57977,
+        24.17085
+      ]
+    },
+    "properties": {
+      "id": "3751",
+      "name": "蔗部",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5788,
+        24.16828
+      ]
+    },
+    "properties": {
+      "id": "1501",
+      "name": "遊園中蔗路口",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5776,
+        24.16589
+      ]
+    },
+    "properties": {
+      "id": "2419",
+      "name": "東海駕訓班",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57706,
+        24.16503
+      ]
+    },
+    "properties": {
+      "id": "5797",
+      "name": "竹仔腳",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5763,
+        24.16337
+      ]
+    },
+    "properties": {
+      "id": "5145",
+      "name": "瑞井里",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57538,
+        24.16178
+      ]
+    },
+    "properties": {
+      "id": "1521",
+      "name": "井子頭",
+      "seq": 43
     }
   },
   {
@@ -821,7 +1481,127 @@
     "properties": {
       "id": "1480",
       "name": "中富國宅",
-      "seq": 9
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57336,
+        24.15785
+      ]
+    },
+    "properties": {
+      "id": "4752",
+      "name": "幸福新城",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.572,
+        24.15583
+      ]
+    },
+    "properties": {
+      "id": "0455",
+      "name": "臺中區監理所(華南路)",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54779,
+        24.15184
+      ]
+    },
+    "properties": {
+      "id": "5395",
+      "name": "自治育英路口",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54838,
+        24.1487
+      ]
+    },
+    "properties": {
+      "id": "5400",
+      "name": "育英平和東路口",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54619,
+        24.14857
+      ]
+    },
+    "properties": {
+      "id": "5401",
+      "name": "平和東沙田路口",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54565,
+        24.15014
+      ]
+    },
+    "properties": {
+      "id": "1302",
+      "name": "大肚",
+      "seq": 50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54536,
+        24.1512
+      ]
+    },
+    "properties": {
+      "id": "4786",
+      "name": "大肚區公所",
+      "seq": 51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.54284,
+        24.15404
+      ]
+    },
+    "properties": {
+      "id": "0099",
+      "name": "大肚火車站(華山路)",
+      "seq": 52
     }
   }
 ]

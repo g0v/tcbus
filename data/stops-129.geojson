@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.64674,
+        24.22498
+      ]
+    },
+    "properties": {
+      "id": "1620",
+      "name": "大雅分駐所",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64457,
+        24.22699
+      ]
+    },
+    "properties": {
+      "id": "5423",
+      "name": "大雅澄清醫院",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64284,
+        24.22844
+      ]
+    },
+    "properties": {
+      "id": "4651",
+      "name": "大明國小(中清路)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64123,
+        24.23041
+      ]
+    },
+    "properties": {
+      "id": "2253",
+      "name": "秀山里",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63847,
+        24.2331
+      ]
+    },
+    "properties": {
+      "id": "2798",
+      "name": "泰聯公司",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63451,
+        24.23695
+      ]
+    },
+    "properties": {
+      "id": "1593",
+      "name": "六寶里",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63235,
+        24.23908
+      ]
+    },
+    "properties": {
+      "id": "2289",
+      "name": "亞東公司",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63117,
+        24.24023
+      ]
+    },
+    "properties": {
+      "id": "1591",
+      "name": "六張犁",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.62673,
         24.24248
       ]
@@ -169,21 +289,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64674,
-        24.22498
-      ]
-    },
-    "properties": {
-      "id": "1620",
-      "name": "大雅分駐所",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.59899,
         24.25348
       ]
@@ -282,21 +387,6 @@
       "id": "2335",
       "name": "居仁里",
       "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.64457,
-        24.22699
-      ]
-    },
-    "properties": {
-      "id": "5423",
-      "name": "大雅澄清醫院",
-      "seq": 3
     }
   },
   {
@@ -454,21 +544,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64284,
-        24.22844
-      ]
-    },
-    "properties": {
-      "id": "4651",
-      "name": "大明國小(中清路)",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.52859,
         24.25374
       ]
@@ -492,81 +567,6 @@
       "id": "4841",
       "name": "梧棲(朝元宮)",
       "seq": 41
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.64123,
-        24.23041
-      ]
-    },
-    "properties": {
-      "id": "2253",
-      "name": "秀山里",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.63847,
-        24.2331
-      ]
-    },
-    "properties": {
-      "id": "2798",
-      "name": "泰聯公司",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.63451,
-        24.23695
-      ]
-    },
-    "properties": {
-      "id": "1593",
-      "name": "六寶里",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.63235,
-        24.23908
-      ]
-    },
-    "properties": {
-      "id": "2289",
-      "name": "亞東公司",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.63117,
-        24.24023
-      ]
-    },
-    "properties": {
-      "id": "1591",
-      "name": "六張犁",
-      "seq": 9
     }
   }
 ]

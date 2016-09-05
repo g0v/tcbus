@@ -2,7 +2,6 @@
 
 var G = {
     routeDB: {},
-    stopDB: {}
 };
 
 window.setTimeout(init.bind({ data: $.get('data/all-routes.csv')}), 500);
@@ -53,23 +52,41 @@ function addRoute(stops, trace) {
 	firstStop: 9999,
 	lastStop: -1,
 	stopsLG: stopsLG,
-	traceLG: traceLG
+	traceLG: traceLG,
     };
 
     stopsLG.getLayers().forEach(function (x) {
         x.setIcon(G.busIcon);
-	x.tooltip = L.tooltip({
-	    target: x,
-	    map: G.theMap,
-	    html: x.feature.properties.name,
-	    padding: '4px 8px'
-        });
+	// change marker title after creation:
+	// https://groups.google.com/forum/#!topic/leaflet-js/3bcC9sfgJ6k
+	x._icon.title = x.feature.properties.name;
     });
     traceLG.setStyle({
         weight: 5,
         color: '#008',
         dashArray: '8,6,2,6'
     });
+    traceLG.getLayers().forEach(function (x) {
+	var arrow = L.polylineDecorator(x, {
+	    patterns: [{
+		offset: 80,
+		repeat: 160,
+		symbol: L.Symbol.arrowHead({
+		    pixelSize: 15,
+		    polygon: false,
+		    pathOptions: {
+			stroke: true,
+			color: '#008',
+		    }
+		})
+	    }]
+	});
+	traceLG.addLayer(arrow);
+    });
+/*
+var arrow = L.polyline([[24.1, 120.65], [24.2, 120.75]], {}).addTo(G.theMap);
+example(arrow);
+*/
 }
 
 function removeRoute(routeID) {

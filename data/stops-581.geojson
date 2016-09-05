@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.65569,
+        24.12035
+      ]
+    },
+    "properties": {
+      "id": "5535",
+      "name": "東興復興北路口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65753,
+        24.11829
+      ]
+    },
+    "properties": {
+      "id": "0134",
+      "name": "東興樹義一巷口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66048,
+        24.11667
+      ]
+    },
+    "properties": {
+      "id": "5474",
+      "name": "臺中高工(工學六街)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66241,
+        24.11325
+      ]
+    },
+    "properties": {
+      "id": "4537",
+      "name": "臺中高工(高工路)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66525,
+        24.1139
+      ]
+    },
+    "properties": {
+      "id": "4678",
+      "name": "高工一街口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66795,
+        24.11431
+      ]
+    },
+    "properties": {
+      "id": "4367",
+      "name": "僑泰中學(高工路)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67171,
+        24.11476
+      ]
+    },
+    "properties": {
+      "id": "4305",
+      "name": "積善公園",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67597,
+        24.11493
+      ]
+    },
+    "properties": {
+      "id": "4257",
+      "name": "大明爽文路口",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.67838,
         24.11505
       ]
@@ -162,21 +282,6 @@
       "id": "1824",
       "name": "臺中火車站",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.65569,
-        24.12035
-      ]
-    },
-    "properties": {
-      "id": "5535",
-      "name": "東興復興北路口",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.65753,
-        24.11829
-      ]
-    },
-    "properties": {
-      "id": "0134",
-      "name": "東興樹義一巷口",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.68535,
         24.17052
       ]
@@ -469,13 +559,58 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.66048,
-        24.11667
+        120.68619,
+        24.18243
       ]
     },
     "properties": {
-      "id": "5474",
-      "name": "臺中高工(工學六街)",
+      "id": "0194",
+      "name": "北屯區行政大樓",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68608,
+        24.18086
+      ]
+    },
+    "properties": {
+      "id": "5387",
+      "name": "崇德六路口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68588,
+        24.17879
+      ]
+    },
+    "properties": {
+      "id": "0195",
+      "name": "崇德五路口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68577,
+        24.17701
+      ]
+    },
+    "properties": {
+      "id": "0196",
+      "name": "崇德一路口",
       "seq": 4
     }
   },
@@ -484,13 +619,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.66241,
-        24.11325
+        120.68564,
+        24.17516
       ]
     },
     "properties": {
-      "id": "4537",
-      "name": "臺中高工(高工路)",
+      "id": "5131",
+      "name": "崇德國中(民俗公園)",
       "seq": 5
     }
   },
@@ -499,14 +634,404 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.66525,
-        24.1139
+        120.6855,
+        24.17308
       ]
     },
     "properties": {
-      "id": "4678",
-      "name": "高工一街口",
+      "id": "0199",
+      "name": "崇德瀋陽路口",
       "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68539,
+        24.1717
+      ]
+    },
+    "properties": {
+      "id": "4339",
+      "name": "崇德文心路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68535,
+        24.17052
+      ]
+    },
+    "properties": {
+      "id": "1768",
+      "name": "崇德北平路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68529,
+        24.16818
+      ]
+    },
+    "properties": {
+      "id": "5866",
+      "name": "崇德青島路口",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68503,
+        24.16474
+      ]
+    },
+    "properties": {
+      "id": "0098",
+      "name": "崇德橋",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68507,
+        24.16169
+      ]
+    },
+    "properties": {
+      "id": "4576",
+      "name": "崇德德化街口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68505,
+        24.15953
+      ]
+    },
+    "properties": {
+      "id": "4607",
+      "name": "新民高中(崇德路)",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68538,
+        24.15651
+      ]
+    },
+    "properties": {
+      "id": "0203",
+      "name": "市立殯儀館",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68591,
+        24.15417
+      ]
+    },
+    "properties": {
+      "id": "0047",
+      "name": "一心市場",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68484,
+        24.15177
+      ]
+    },
+    "properties": {
+      "id": "0046",
+      "name": "中友百貨",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6838,
+        24.14918
+      ]
+    },
+    "properties": {
+      "id": "0045",
+      "name": "國立臺中科技大學",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68463,
+        24.14621
+      ]
+    },
+    "properties": {
+      "id": "1513",
+      "name": "中興堂",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68611,
+        24.1441
+      ]
+    },
+    "properties": {
+      "id": "4544",
+      "name": "臺中公園(雙十路)",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6861,
+        24.14082
+      ]
+    },
+    "properties": {
+      "id": "0402",
+      "name": "干城站",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6847,
+        24.13734
+      ]
+    },
+    "properties": {
+      "id": "1824",
+      "name": "臺中火車站",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68354,
+        24.13301
+      ]
+    },
+    "properties": {
+      "id": "0049",
+      "name": "第三市場",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68459,
+        24.13137
+      ]
+    },
+    "properties": {
+      "id": "0257",
+      "name": "臺中國小",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68488,
+        24.1286
+      ]
+    },
+    "properties": {
+      "id": "5607",
+      "name": "興大附農(臺中路)",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68425,
+        24.12529
+      ]
+    },
+    "properties": {
+      "id": "0255",
+      "name": "南門仔",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68416,
+        24.1228
+      ]
+    },
+    "properties": {
+      "id": "5112",
+      "name": "明德高中(臺中路)",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68407,
+        24.12079
+      ]
+    },
+    "properties": {
+      "id": "4618",
+      "name": "明德高中(明德街)",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68199,
+        24.11886
+      ]
+    },
+    "properties": {
+      "id": "4535",
+      "name": "忠明南國光路口",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67943,
+        24.11824
+      ]
+    },
+    "properties": {
+      "id": "4292",
+      "name": "國光忠明南路口",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67937,
+        24.11606
+      ]
+    },
+    "properties": {
+      "id": "2930",
+      "name": "國光橋",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67797,
+        24.11488
+      ]
+    },
+    "properties": {
+      "id": "4256",
+      "name": "大明國光路口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67591,
+        24.11493
+      ]
+    },
+    "properties": {
+      "id": "4257",
+      "name": "大明爽文路口",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67142,
+        24.11474
+      ]
+    },
+    "properties": {
+      "id": "4305",
+      "name": "積善公園",
+      "seq": 32
     }
   },
   {
@@ -521,7 +1046,7 @@
     "properties": {
       "id": "4367",
       "name": "僑泰中學(高工路)",
-      "seq": 7
+      "seq": 33
     }
   },
   {
@@ -529,14 +1054,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.67171,
-        24.11476
+        120.66525,
+        24.1139
       ]
     },
     "properties": {
-      "id": "4305",
-      "name": "積善公園",
-      "seq": 8
+      "id": "4678",
+      "name": "高工一街口",
+      "seq": 34
     }
   },
   {
@@ -544,14 +1069,74 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.67597,
-        24.11493
+        120.66198,
+        24.11335
       ]
     },
     "properties": {
-      "id": "4257",
-      "name": "大明爽文路口",
-      "seq": 9
+      "id": "4537",
+      "name": "臺中高工(高工路)",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66048,
+        24.11667
+      ]
+    },
+    "properties": {
+      "id": "5474",
+      "name": "臺中高工(工學六街)",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65775,
+        24.11819
+      ]
+    },
+    "properties": {
+      "id": "0134",
+      "name": "東興樹義一巷口",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65596,
+        24.12017
+      ]
+    },
+    "properties": {
+      "id": "5535",
+      "name": "東興復興北路口",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65462,
+        24.1196
+      ]
+    },
+    "properties": {
+      "id": "5534",
+      "name": "大慶活動中心",
+      "seq": 39
     }
   }
 ]

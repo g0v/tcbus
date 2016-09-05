@@ -4,14 +4,29 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62008,
-        24.10974
+        120.61388,
+        24.11428
       ]
     },
     "properties": {
       "id": "2907",
       "name": "高鐵臺中站",
       "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64889,
+        24.12249
+      ]
+    },
+    "properties": {
+      "id": "4034",
+      "name": "中山醫學大學",
+      "seq": 9
     }
   },
   {
@@ -214,14 +229,224 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64889,
-        24.12249
+        120.68587,
+        24.14419
+      ]
+    },
+    "properties": {
+      "id": "4544",
+      "name": "臺中公園(雙十路)",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68753,
+        24.14943
+      ]
+    },
+    "properties": {
+      "id": "0149",
+      "name": "臺中一中",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68824,
+        24.15391
+      ]
+    },
+    "properties": {
+      "id": "0048",
+      "name": "莒光新城",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68189,
+        24.15513
+      ]
+    },
+    "properties": {
+      "id": "0406",
+      "name": "中山堂",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67297,
+        24.15574
+      ]
+    },
+    "properties": {
+      "id": "4177",
+      "name": "篤行國小",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66886,
+        24.15568
+      ]
+    },
+    "properties": {
+      "id": "6020",
+      "name": "西屯英才路口",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.667,
+        24.15827
+      ]
+    },
+    "properties": {
+      "id": "4318",
+      "name": "植物園(西屯路)",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6623,
+        24.1551
+      ]
+    },
+    "properties": {
+      "id": "5169",
+      "name": "廣三SOGO(美村路)",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65722,
+        24.15041
+      ]
+    },
+    "properties": {
+      "id": "4588",
+      "name": "公益公園(忠明南路)",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65742,
+        24.14623
+      ]
+    },
+    "properties": {
+      "id": "4589",
+      "name": "忠明南向上路口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65724,
+        24.14095
+      ]
+    },
+    "properties": {
+      "id": "0205",
+      "name": "土庫停車場(國美館)",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65069,
+        24.14006
+      ]
+    },
+    "properties": {
+      "id": "4594",
+      "name": "五權西大墩路口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64633,
+        24.13441
+      ]
+    },
+    "properties": {
+      "id": "5097",
+      "name": "文心南永春東路口",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64861,
+        24.12238
       ]
     },
     "properties": {
       "id": "4034",
       "name": "中山醫學大學",
-      "seq": 9
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61593,
+        24.11211
+      ]
+    },
+    "properties": {
+      "id": "2907",
+      "name": "高鐵臺中站",
+      "seq": 38
     }
   }
 ]

@@ -1011,5 +1011,9 @@
         24.208827
       ]
     ]
+  },
+  {
+    "type": "LineString",
+    "coordinates": []
   }
 ]

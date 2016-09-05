@@ -4,6 +4,576 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.58668,
+        24.34583
+      ]
+    },
+    "properties": {
+      "id": "4436",
+      "name": "大安區公所",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5893,
+        24.34547
+      ]
+    },
+    "properties": {
+      "id": "5364",
+      "name": "大安區圖書館",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59089,
+        24.34592
+      ]
+    },
+    "properties": {
+      "id": "1061",
+      "name": "三元莊",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59747,
+        24.34581
+      ]
+    },
+    "properties": {
+      "id": "5784",
+      "name": "福興(興安路)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6022,
+        24.34632
+      ]
+    },
+    "properties": {
+      "id": "5362",
+      "name": "興安福東路口",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6047,
+        24.34719
+      ]
+    },
+    "properties": {
+      "id": "3697",
+      "name": "遠東手套",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60896,
+        24.34775
+      ]
+    },
+    "properties": {
+      "id": "4467",
+      "name": "家畜市場",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6125,
+        24.34827
+      ]
+    },
+    "properties": {
+      "id": "1732",
+      "name": "牛埔",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61661,
+        24.34717
+      ]
+    },
+    "properties": {
+      "id": "2038",
+      "name": "光田",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61728,
+        24.35034
+      ]
+    },
+    "properties": {
+      "id": "5691",
+      "name": "大甲體育場",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61843,
+        24.35131
+      ]
+    },
+    "properties": {
+      "id": "5692",
+      "name": "李綜合醫院",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62233,
+        24.34971
+      ]
+    },
+    "properties": {
+      "id": "5437",
+      "name": "大甲區公所",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62247,
+        24.34743
+      ]
+    },
+    "properties": {
+      "id": "1074",
+      "name": "文昌祠",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62668,
+        24.34466
+      ]
+    },
+    "properties": {
+      "id": "4432",
+      "name": "大甲火車站",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62533,
+        24.34304
+      ]
+    },
+    "properties": {
+      "id": "5084",
+      "name": "大甲",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62414,
+        24.34279
+      ]
+    },
+    "properties": {
+      "id": "5639",
+      "name": "南陽里(中山路)",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6229,
+        24.34178
+      ]
+    },
+    "properties": {
+      "id": "4433",
+      "name": "大甲高中(水源路)",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6259,
+        24.34008
+      ]
+    },
+    "properties": {
+      "id": "4558",
+      "name": "中正紀念館",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62837,
+        24.34277
+      ]
+    },
+    "properties": {
+      "id": "1933",
+      "name": "永光寺",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62916,
+        24.34441
+      ]
+    },
+    "properties": {
+      "id": "1420",
+      "name": "中山里",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63264,
+        24.34554
+      ]
+    },
+    "properties": {
+      "id": "5339",
+      "name": "甲工入口",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63642,
+        24.34325
+      ]
+    },
+    "properties": {
+      "id": "2417",
+      "name": "東泰新城",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63827,
+        24.34207
+      ]
+    },
+    "properties": {
+      "id": "1278",
+      "name": "大甲東新城",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57597,
+        24.1848
+      ]
+    },
+    "properties": {
+      "id": "0393",
+      "name": "中興向上路口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57856,
+        24.1873
+      ]
+    },
+    "properties": {
+      "id": "0395",
+      "name": "中興臺灣大道口",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5861,
+        24.18577
+      ]
+    },
+    "properties": {
+      "id": "2325",
+      "name": "坪頂",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59355,
+        24.18274
+      ]
+    },
+    "properties": {
+      "id": "0240",
+      "name": "東海別墅",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60382,
+        24.18291
+      ]
+    },
+    "properties": {
+      "id": "5386",
+      "name": "臺中榮總(臺灣大道)",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60633,
+        24.18359
+      ]
+    },
+    "properties": {
+      "id": "2378",
+      "name": "東大附中",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61536,
+        24.18298
+      ]
+    },
+    "properties": {
+      "id": "0430",
+      "name": "中港澄清醫院",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62138,
+        24.18
+      ]
+    },
+    "properties": {
+      "id": "3060",
+      "name": "統聯轉運站",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63719,
+        24.17033
+      ]
+    },
+    "properties": {
+      "id": "0054",
+      "name": "朝馬(臺灣大道)",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63801,
+        24.16744
+      ]
+    },
+    "properties": {
+      "id": "3059",
+      "name": "朝馬轉運站(朝富路)",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63952,
+        24.16474
+      ]
+    },
+    "properties": {
+      "id": "2161",
+      "name": "老虎城",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64108,
+        24.16259
+      ]
+    },
+    "properties": {
+      "id": "5726",
+      "name": "臺中國家歌劇院",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64297,
+        24.15893
+      ]
+    },
+    "properties": {
+      "id": "1433",
+      "name": "中央健保局(惠中路)",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64056,
+        24.1547
+      ]
+    },
+    "properties": {
+      "id": "5930",
+      "name": "惠來公園(惠中路)",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64057,
+        24.15236
+      ]
+    },
+    "properties": {
+      "id": "5656",
+      "name": "惠文高中(惠中路)",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.64057,
         24.15236
       ]
@@ -12,6 +582,126 @@
       "id": "5656",
       "name": "惠文高中(惠中路)",
       "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63943,
+        24.15144
+      ]
+    },
+    "properties": {
+      "id": "0814",
+      "name": "惠文高中(公益路)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63764,
+        24.15161
+      ]
+    },
+    "properties": {
+      "id": "0815",
+      "name": "惠文國小",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63693,
+        24.15306
+      ]
+    },
+    "properties": {
+      "id": "1356",
+      "name": "河南大業路口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63936,
+        24.1536
+      ]
+    },
+    "properties": {
+      "id": "5342",
+      "name": "惠文高中(大業路)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64083,
+        24.15525
+      ]
+    },
+    "properties": {
+      "id": "5930",
+      "name": "惠來公園(惠中路)",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64297,
+        24.15893
+      ]
+    },
+    "properties": {
+      "id": "1433",
+      "name": "中央健保局(惠中路)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64108,
+        24.16259
+      ]
+    },
+    "properties": {
+      "id": "5726",
+      "name": "臺中國家歌劇院",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63952,
+        24.16474
+      ]
+    },
+    "properties": {
+      "id": "2161",
+      "name": "老虎城",
+      "seq": 9
     }
   },
   {
@@ -169,21 +859,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.63943,
-        24.15144
-      ]
-    },
-    "properties": {
-      "id": "0814",
-      "name": "惠文高中(公益路)",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.63827,
         24.34207
       ]
@@ -237,21 +912,6 @@
       "id": "1420",
       "name": "中山里",
       "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.63764,
-        24.15161
-      ]
-    },
-    "properties": {
-      "id": "0815",
-      "name": "惠文國小",
-      "seq": 3
     }
   },
   {
@@ -409,21 +1069,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.63693,
-        24.15306
-      ]
-    },
-    "properties": {
-      "id": "1356",
-      "name": "河南大業路口",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.61661,
         24.34717
       ]
@@ -552,81 +1197,6 @@
       "id": "4436",
       "name": "大安區公所",
       "seq": 48
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.63936,
-        24.1536
-      ]
-    },
-    "properties": {
-      "id": "5342",
-      "name": "惠文高中(大業路)",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.64083,
-        24.15525
-      ]
-    },
-    "properties": {
-      "id": "5930",
-      "name": "惠來公園(惠中路)",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.64297,
-        24.15893
-      ]
-    },
-    "properties": {
-      "id": "1433",
-      "name": "中央健保局(惠中路)",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.64108,
-        24.16259
-      ]
-    },
-    "properties": {
-      "id": "5726",
-      "name": "臺中國家歌劇院",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.63952,
-        24.16474
-      ]
-    },
-    "properties": {
-      "id": "0608",
-      "name": "老虎城(市政北六路)",
-      "seq": 9
     }
   }
 ]

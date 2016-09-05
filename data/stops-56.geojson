@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.68617,
+        24.14391
+      ]
+    },
+    "properties": {
+      "id": "4544",
+      "name": "臺中公園(雙十路)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68617,
+        24.14693
+      ]
+    },
+    "properties": {
+      "id": "4695",
+      "name": "臺灣體大游泳池",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68733,
+        24.14951
+      ]
+    },
+    "properties": {
+      "id": "0149",
+      "name": "臺中一中",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68844,
+        24.15212
+      ]
+    },
+    "properties": {
+      "id": "4694",
+      "name": "臺灣體大體育場",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68818,
+        24.15388
+      ]
+    },
+    "properties": {
+      "id": "0048",
+      "name": "莒光新城",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68384,
+        24.1538
+      ]
+    },
+    "properties": {
+      "id": "3772",
+      "name": "五權學士路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68074,
+        24.15265
+      ]
+    },
+    "properties": {
+      "id": "0146",
+      "name": "五常里",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67856,
+        24.15179
+      ]
+    },
+    "properties": {
+      "id": "0145",
+      "name": "光大里",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.67686,
         24.15087
       ]
@@ -162,21 +282,6 @@
       "id": "4594",
       "name": "五權西大墩路口",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68617,
-        24.14391
-      ]
-    },
-    "properties": {
-      "id": "4544",
-      "name": "臺中公園(雙十路)",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68617,
-        24.14693
-      ]
-    },
-    "properties": {
-      "id": "4695",
-      "name": "臺灣體大游泳池",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.61561,
         24.14961
       ]
@@ -499,21 +589,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68733,
-        24.14951
-      ]
-    },
-    "properties": {
-      "id": "0149",
-      "name": "臺中一中",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.60908,
         24.12914
       ]
@@ -649,13 +724,73 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68844,
-        24.15212
+        120.6144,
+        24.1087
       ]
     },
     "properties": {
-      "id": "4694",
-      "name": "臺灣體大體育場",
+      "id": "6021",
+      "name": "新烏日火車站",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60837,
+        24.11371
+      ]
+    },
+    "properties": {
+      "id": "5971",
+      "name": "高鐵學田路口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60802,
+        24.11806
+      ]
+    },
+    "properties": {
+      "id": "4757",
+      "name": "幸記公司",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60777,
+        24.12063
+      ]
+    },
+    "properties": {
+      "id": "4758",
+      "name": "學田診所",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6073,
+        24.12222
+      ]
+    },
+    "properties": {
+      "id": "5472",
+      "name": "學田活動中心",
       "seq": 5
     }
   },
@@ -664,13 +799,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68818,
-        24.15388
+        120.60689,
+        24.12455
       ]
     },
     "properties": {
-      "id": "0048",
-      "name": "莒光新城",
+      "id": "4759",
+      "name": "烏日學田里",
       "seq": 6
     }
   },
@@ -679,13 +814,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68384,
-        24.1538
+        120.60748,
+        24.12644
       ]
     },
     "properties": {
-      "id": "3772",
-      "name": "五權學士路口",
+      "id": "4760",
+      "name": "成功嶺3號門",
       "seq": 7
     }
   },
@@ -694,14 +829,464 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68074,
-        24.15265
+        120.60908,
+        24.12914
       ]
     },
     "properties": {
-      "id": "0146",
-      "name": "五常里",
+      "id": "4964",
+      "name": "同安南北巷口",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61049,
+        24.13168
+      ]
+    },
+    "properties": {
+      "id": "4761",
+      "name": "南屯同安厝",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6104,
+        24.134
+      ]
+    },
+    "properties": {
+      "id": "6028",
+      "name": "彩虹眷村(嶺東南路)",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61016,
+        24.13701
+      ]
+    },
+    "properties": {
+      "id": "5319",
+      "name": "嶺東科技大學(嶺東路)",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61109,
+        24.13835
+      ]
+    },
+    "properties": {
+      "id": "3874",
+      "name": "嶺東高中",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61287,
+        24.13912
+      ]
+    },
+    "properties": {
+      "id": "4599",
+      "name": "春社里(忠勇路)",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61321,
+        24.14047
+      ]
+    },
+    "properties": {
+      "id": "0157",
+      "name": "七星橋",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61372,
+        24.14275
+      ]
+    },
+    "properties": {
+      "id": "0158",
+      "name": "下文山",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6148,
+        24.14465
+      ]
+    },
+    "properties": {
+      "id": "0159",
+      "name": "一善堂",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61502,
+        24.14648
+      ]
+    },
+    "properties": {
+      "id": "0160",
+      "name": "文山里",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6156,
+        24.14938
+      ]
+    },
+    "properties": {
+      "id": "0165",
+      "name": "文山國小(忠勇路)",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6157,
+        24.15073
+      ]
+    },
+    "properties": {
+      "id": "5489",
+      "name": "寶山里土地公",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61641,
+        24.15269
+      ]
+    },
+    "properties": {
+      "id": "5488",
+      "name": "忠勇寶山東二街口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62551,
+        24.14865
+      ]
+    },
+    "properties": {
+      "id": "0164",
+      "name": "新生里(哈魚碼頭)",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63029,
+        24.14692
+      ]
+    },
+    "properties": {
+      "id": "5430",
+      "name": "中村加油站",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63364,
+        24.14442
+      ]
+    },
+    "properties": {
+      "id": "5606",
+      "name": "五權西永春東七路口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63598,
+        24.14307
+      ]
+    },
+    "properties": {
+      "id": "5093",
+      "name": "五權西三厝街口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63855,
+        24.14209
+      ]
+    },
+    "properties": {
+      "id": "0062",
+      "name": "南屯",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64128,
+        24.14121
+      ]
+    },
+    "properties": {
+      "id": "4549",
+      "name": "五權西萬和路口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64522,
+        24.14023
+      ]
+    },
+    "properties": {
+      "id": "4961",
+      "name": "五權西向心路口",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64773,
+        24.13991
+      ]
+    },
+    "properties": {
+      "id": "4262",
+      "name": "五權西文心路口",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65069,
+        24.14006
+      ]
+    },
+    "properties": {
+      "id": "4594",
+      "name": "五權西大墩路口",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65356,
+        24.14006
+      ]
+    },
+    "properties": {
+      "id": "4551",
+      "name": "五權西東興路口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65824,
+        24.14015
+      ]
+    },
+    "properties": {
+      "id": "0035",
+      "name": "五權西忠明南路口",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66315,
+        24.14018
+      ]
+    },
+    "properties": {
+      "id": "4556",
+      "name": "美術館(五權西路)",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66634,
+        24.14079
+      ]
+    },
+    "properties": {
+      "id": "5088",
+      "name": "大墩文化中心(五權路)",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66836,
+        24.14269
+      ]
+    },
+    "properties": {
+      "id": "4261",
+      "name": "五權自立街口",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66955,
+        24.14388
+      ]
+    },
+    "properties": {
+      "id": "4260",
+      "name": "五權民生路口",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67269,
+        24.1469
+      ]
+    },
+    "properties": {
+      "id": "5628",
+      "name": "五權臺灣大道口",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67543,
+        24.14952
+      ]
+    },
+    "properties": {
+      "id": "0144",
+      "name": "中央市場",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67686,
+        24.15087
+      ]
+    },
+    "properties": {
+      "id": "6017",
+      "name": "五權公園路口(光大社區)",
+      "seq": 38
     }
   },
   {
@@ -716,7 +1301,127 @@
     "properties": {
       "id": "0145",
       "name": "光大里",
-      "seq": 9
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68021,
+        24.15238
+      ]
+    },
+    "properties": {
+      "id": "0146",
+      "name": "五常里",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68384,
+        24.1538
+      ]
+    },
+    "properties": {
+      "id": "3772",
+      "name": "五權學士路口",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68797,
+        24.15401
+      ]
+    },
+    "properties": {
+      "id": "0048",
+      "name": "莒光新城",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68866,
+        24.15269
+      ]
+    },
+    "properties": {
+      "id": "4694",
+      "name": "臺灣體大體育場",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68745,
+        24.1495
+      ]
+    },
+    "properties": {
+      "id": "0149",
+      "name": "臺中一中",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68632,
+        24.14687
+      ]
+    },
+    "properties": {
+      "id": "4695",
+      "name": "臺灣體大游泳池",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68623,
+        24.14405
+      ]
+    },
+    "properties": {
+      "id": "4544",
+      "name": "臺中公園(雙十路)",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68574,
+        24.14119
+      ]
+    },
+    "properties": {
+      "id": "0402",
+      "name": "干城站",
+      "seq": 47
     }
   }
 ]

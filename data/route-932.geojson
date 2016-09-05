@@ -287,5 +287,9 @@
         24.193294
       ]
     ]
+  },
+  {
+    "type": "LineString",
+    "coordinates": []
   }
 ]

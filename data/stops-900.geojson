@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.67803,
+        24.13596
+      ]
+    },
+    "properties": {
+      "id": "0071",
+      "name": "臺中女中",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68397,
+        24.13672
+      ]
+    },
+    "properties": {
+      "id": "1824",
+      "name": "臺中火車站",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68413,
+        24.14987
+      ]
+    },
+    "properties": {
+      "id": "0045",
+      "name": "國立臺中科技大學",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6852,
+        24.15251
+      ]
+    },
+    "properties": {
+      "id": "0046",
+      "name": "中友百貨",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68571,
+        24.15366
+      ]
+    },
+    "properties": {
+      "id": "0047",
+      "name": "一心市場",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6885,
+        24.1568
+      ]
+    },
+    "properties": {
+      "id": "4399",
+      "name": "新民高中(三民路)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69209,
+        24.16106
+      ]
+    },
+    "properties": {
+      "id": "0892",
+      "name": "監理站",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69318,
+        24.16325
+      ]
+    },
+    "properties": {
+      "id": "5405",
+      "name": "北屯國小(北屯路)",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.69591,
         24.16762
       ]
@@ -162,21 +282,6 @@
       "id": "4240",
       "name": "潭子火車站",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.67803,
-        24.13596
-      ]
-    },
-    "properties": {
-      "id": "0071",
-      "name": "臺中女中",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68397,
-        24.13672
-      ]
-    },
-    "properties": {
-      "id": "1824",
-      "name": "臺中火車站",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.74185,
         24.25572
       ]
@@ -364,13 +454,58 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68413,
-        24.14987
+        120.74185,
+        24.25572
       ]
     },
     "properties": {
-      "id": "0045",
-      "name": "國立臺中科技大學",
+      "id": "3937",
+      "name": "豐原高中",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73574,
+        24.2557
+      ]
+    },
+    "properties": {
+      "id": "3931",
+      "name": "豐村國小",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72247,
+        24.25504
+      ]
+    },
+    "properties": {
+      "id": "4931",
+      "name": "豐原火車站",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72123,
+        24.25234
+      ]
+    },
+    "properties": {
+      "id": "3157",
+      "name": "頂街",
       "seq": 4
     }
   },
@@ -379,13 +514,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6852,
-        24.15251
+        120.7184,
+        24.25178
       ]
     },
     "properties": {
-      "id": "0046",
-      "name": "中友百貨",
+      "id": "3343",
+      "name": "媽祖廟",
       "seq": 5
     }
   },
@@ -394,13 +529,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68571,
-        24.15366
+        120.71526,
+        24.25136
       ]
     },
     "properties": {
-      "id": "0047",
-      "name": "一心市場",
+      "id": "3939",
+      "name": "豐原郵局",
       "seq": 6
     }
   },
@@ -409,13 +544,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6885,
-        24.1568
+        120.7153,
+        24.24754
       ]
     },
     "properties": {
-      "id": "4399",
-      "name": "新民高中(三民路)",
+      "id": "3938",
+      "name": "豐原高商",
       "seq": 7
     }
   },
@@ -424,14 +559,209 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69209,
-        24.16106
+        120.71085,
+        24.23837
       ]
     },
     "properties": {
-      "id": "0892",
-      "name": "監理站",
+      "id": "1661",
+      "name": "文化新村",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7077,
+        24.22655
+      ]
+    },
+    "properties": {
+      "id": "1909",
+      "name": "弘文中學",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70569,
+        24.21797
+      ]
+    },
+    "properties": {
+      "id": "3741",
+      "name": "潭子加工區",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70509,
+        24.21499
+      ]
+    },
+    "properties": {
+      "id": "6012",
+      "name": "潭子國小",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70542,
+        24.2126
+      ]
+    },
+    "properties": {
+      "id": "4240",
+      "name": "潭子火車站",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70522,
+        24.20949
+      ]
+    },
+    "properties": {
+      "id": "3742",
+      "name": "潭子區公所",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7037,
+        24.2021
+      ]
+    },
+    "properties": {
+      "id": "3567",
+      "name": "僑忠國小",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70243,
+        24.1954
+      ]
+    },
+    "properties": {
+      "id": "3836",
+      "name": "頭家厝",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70243,
+        24.1916
+      ]
+    },
+    "properties": {
+      "id": "4659",
+      "name": "中山中興路口",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70167,
+        24.18155
+      ]
+    },
+    "properties": {
+      "id": "4582",
+      "name": "舊社公園(北屯路)",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70034,
+        24.17842
+      ]
+    },
+    "properties": {
+      "id": "0105",
+      "name": "北新國中",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69932,
+        24.17585
+      ]
+    },
+    "properties": {
+      "id": "0200",
+      "name": "北屯崇德二路口",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69716,
+        24.16973
+      ]
+    },
+    "properties": {
+      "id": "0103",
+      "name": "大坑口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69591,
+        24.16762
+      ]
+    },
+    "properties": {
+      "id": "5511",
+      "name": "三光國中",
+      "seq": 21
     }
   },
   {
@@ -446,7 +776,127 @@
     "properties": {
       "id": "5405",
       "name": "北屯國小(北屯路)",
-      "seq": 9
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69209,
+        24.16106
+      ]
+    },
+    "properties": {
+      "id": "0892",
+      "name": "監理站",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6885,
+        24.1568
+      ]
+    },
+    "properties": {
+      "id": "4399",
+      "name": "新民高中(三民路)",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68571,
+        24.15366
+      ]
+    },
+    "properties": {
+      "id": "0047",
+      "name": "一心市場",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68484,
+        24.15177
+      ]
+    },
+    "properties": {
+      "id": "0046",
+      "name": "中友百貨",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68413,
+        24.14987
+      ]
+    },
+    "properties": {
+      "id": "0045",
+      "name": "國立臺中科技大學",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6837,
+        24.1366
+      ]
+    },
+    "properties": {
+      "id": "1824",
+      "name": "臺中火車站",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67785,
+        24.13571
+      ]
+    },
+    "properties": {
+      "id": "0071",
+      "name": "臺中女中",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67433,
+        24.1332
+      ]
+    },
+    "properties": {
+      "id": "4091",
+      "name": "光明國中(貴和街)",
+      "seq": 30
     }
   }
 ]

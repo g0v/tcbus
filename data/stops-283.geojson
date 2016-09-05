@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.69786,
+        24.05787
+      ]
+    },
+    "properties": {
+      "id": "3976",
+      "name": "霧峰國小",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69819,
+        24.06073
+      ]
+    },
+    "properties": {
+      "id": "5546",
+      "name": "教育部國教署",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69822,
+        24.06094
+      ]
+    },
+    "properties": {
+      "id": "3978",
+      "name": "霧峰郵局",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6985,
+        24.06306
+      ]
+    },
+    "properties": {
+      "id": "3972",
+      "name": "霧峰",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69864,
+        24.06431
+      ]
+    },
+    "properties": {
+      "id": "4930",
+      "name": "霧峰農會",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69658,
+        24.06529
+      ]
+    },
+    "properties": {
+      "id": "5850",
+      "name": "聖賢宮(四德路)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69345,
+        24.06606
+      ]
+    },
+    "properties": {
+      "id": "3977",
+      "name": "霧峰國中",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68939,
+        24.06595
+      ]
+    },
+    "properties": {
+      "id": "2293",
+      "name": "佳興新村",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.68724,
         24.06579
       ]
@@ -79,8 +199,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.67486,
-        24.06358
+        120.6747,
+        24.06359
       ]
     },
     "properties": {
@@ -162,21 +282,6 @@
       "id": "0336",
       "name": "五福活動中心",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69786,
-        24.05787
-      ]
-    },
-    "properties": {
-      "id": "3976",
-      "name": "霧峰國小",
-      "seq": 2
     }
   },
   {
@@ -289,8 +394,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.67964,
-        24.09545
+        120.67947,
+        24.09581
       ]
     },
     "properties": {
@@ -327,21 +432,6 @@
       "id": "5128",
       "name": "國光大里路口",
       "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69819,
-        24.06073
-      ]
-    },
-    "properties": {
-      "id": "5546",
-      "name": "教育部國教署",
-      "seq": 3
     }
   },
   {
@@ -394,13 +484,58 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69822,
-        24.06094
+        120.67994,
+        24.10847
       ]
     },
     "properties": {
-      "id": "3978",
-      "name": "霧峰郵局",
+      "id": "0521",
+      "name": "大里仁愛醫院(國光路)",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68056,
+        24.10656
+      ]
+    },
+    "properties": {
+      "id": "4294",
+      "name": "國光德芳路口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68152,
+        24.10403
+      ]
+    },
+    "properties": {
+      "id": "2928",
+      "name": "國光花市",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6822,
+        24.101
+      ]
+    },
+    "properties": {
+      "id": "5128",
+      "name": "國光大里路口",
       "seq": 4
     }
   },
@@ -409,13 +544,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6985,
-        24.06306
+        120.6807,
+        24.09999
       ]
     },
     "properties": {
-      "id": "3972",
-      "name": "霧峰",
+      "id": "4920",
+      "name": "大里區公所",
       "seq": 5
     }
   },
@@ -424,13 +559,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69864,
-        24.06431
+        120.6794,
+        24.09572
       ]
     },
     "properties": {
-      "id": "4930",
-      "name": "霧峰農會",
+      "id": "4921",
+      "name": "東里國中路口",
       "seq": 6
     }
   },
@@ -439,13 +574,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69658,
-        24.06529
+        120.6791,
+        24.09526
       ]
     },
     "properties": {
-      "id": "5850",
-      "name": "聖賢宮(四德路)",
+      "id": "4922",
+      "name": "市立大里高中",
       "seq": 7
     }
   },
@@ -454,13 +589,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69345,
-        24.06606
+        120.6753,
+        24.09192
       ]
     },
     "properties": {
-      "id": "3977",
-      "name": "霧峰國中",
+      "id": "0352",
+      "name": "國中路",
       "seq": 8
     }
   },
@@ -469,14 +604,359 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68939,
-        24.06595
+        120.67074,
+        24.08796
+      ]
+    },
+    "properties": {
+      "id": "0349",
+      "name": "夏田社區",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66833,
+        24.08613
+      ]
+    },
+    "properties": {
+      "id": "0345",
+      "name": "夏田活動中心",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67047,
+        24.08535
+      ]
+    },
+    "properties": {
+      "id": "0344",
+      "name": "頂厝夏田路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67095,
+        24.07995
+      ]
+    },
+    "properties": {
+      "id": "0343",
+      "name": "新埔福德祠",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66715,
+        24.076
+      ]
+    },
+    "properties": {
+      "id": "0339",
+      "name": "五福國小",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66582,
+        24.07175
+      ]
+    },
+    "properties": {
+      "id": "0336",
+      "name": "五福活動中心",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66655,
+        24.06993
+      ]
+    },
+    "properties": {
+      "id": "0333",
+      "name": "四德北路85巷",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66504,
+        24.06563
+      ]
+    },
+    "properties": {
+      "id": "0332",
+      "name": "五福里1鄰",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66458,
+        24.06191
+      ]
+    },
+    "properties": {
+      "id": "0331",
+      "name": "四德厝",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66543,
+        24.06017
+      ]
+    },
+    "properties": {
+      "id": "5231",
+      "name": "四德國小",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67473,
+        24.06349
+      ]
+    },
+    "properties": {
+      "id": "5622",
+      "name": "水牛城",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67642,
+        24.0641
+      ]
+    },
+    "properties": {
+      "id": "3406",
+      "name": "新厝(四德路)",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67769,
+        24.0645
+      ]
+    },
+    "properties": {
+      "id": "1779",
+      "name": "北柳",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68091,
+        24.06516
+      ]
+    },
+    "properties": {
+      "id": "5267",
+      "name": "領鮮超市",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68489,
+        24.06557
+      ]
+    },
+    "properties": {
+      "id": "3105",
+      "name": "頂北柳",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68701,
+        24.06577
       ]
     },
     "properties": {
       "id": "2293",
       "name": "佳興新村",
-      "seq": 9
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68926,
+        24.06594
+      ]
+    },
+    "properties": {
+      "id": "3977",
+      "name": "霧峰國中",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69403,
+        24.06605
+      ]
+    },
+    "properties": {
+      "id": "5850",
+      "name": "聖賢宮(四德路)",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69649,
+        24.06535
+      ]
+    },
+    "properties": {
+      "id": "4930",
+      "name": "霧峰農會",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69851,
+        24.0645
+      ]
+    },
+    "properties": {
+      "id": "3972",
+      "name": "霧峰",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69847,
+        24.06252
+      ]
+    },
+    "properties": {
+      "id": "3978",
+      "name": "霧峰郵局",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69819,
+        24.06073
+      ]
+    },
+    "properties": {
+      "id": "5546",
+      "name": "教育部國教署",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69794,
+        24.05882
+      ]
+    },
+    "properties": {
+      "id": "3976",
+      "name": "霧峰國小",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69751,
+        24.05622
+      ]
+    },
+    "properties": {
+      "id": "2692",
+      "name": "省議會",
+      "seq": 32
     }
   }
 ]

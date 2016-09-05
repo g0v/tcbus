@@ -19,6 +19,96 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.8272,
+        24.26098
+      ]
+    },
+    "properties": {
+      "id": "4500",
+      "name": "東勢老人會館",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82676,
+        24.26256
+      ]
+    },
+    "properties": {
+      "id": "2434",
+      "name": "東新國中",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82464,
+        24.26264
+      ]
+    },
+    "properties": {
+      "id": "4494",
+      "name": "新豐新寧街口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81565,
+        24.25913
+      ]
+    },
+    "properties": {
+      "id": "4650",
+      "name": "土牛(和盛街)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81402,
+        24.25639
+      ]
+    },
+    "properties": {
+      "id": "2593",
+      "name": "南眉",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80775,
+        24.25706
+      ]
+    },
+    "properties": {
+      "id": "2446",
+      "name": "果菜市場",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.80698,
         24.25547
       ]
@@ -169,21 +259,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.8272,
-        24.26098
-      ]
-    },
-    "properties": {
-      "id": "4500",
-      "name": "東勢老人會館",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.81938,
         24.22295
       ]
@@ -312,21 +387,6 @@
       "id": "2603",
       "name": "南華",
       "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.82676,
-        24.26256
-      ]
-    },
-    "properties": {
-      "id": "2434",
-      "name": "東新國中",
-      "seq": 3
     }
   },
   {
@@ -484,13 +544,58 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.82464,
-        24.26264
+        120.82895,
+        24.15707
       ]
     },
     "properties": {
-      "id": "4494",
-      "name": "新豐新寧街口",
+      "id": "0421",
+      "name": "中和",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82684,
+        24.15794
+      ]
+    },
+    "properties": {
+      "id": "5285",
+      "name": "中和國小",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82606,
+        24.16291
+      ]
+    },
+    "properties": {
+      "id": "1122",
+      "name": "下中和",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82465,
+        24.16594
+      ]
+    },
+    "properties": {
+      "id": "1050",
+      "name": "十股林",
       "seq": 4
     }
   },
@@ -499,13 +604,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.81565,
-        24.25913
+        120.82506,
+        24.16815
       ]
     },
     "properties": {
-      "id": "4650",
-      "name": "土牛(和盛街)",
+      "id": "5207",
+      "name": "下十股林",
       "seq": 5
     }
   },
@@ -514,14 +619,359 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.81402,
-        24.25639
+        120.82272,
+        24.17029
       ]
     },
     "properties": {
-      "id": "2593",
-      "name": "南眉",
+      "id": "1905",
+      "name": "平崎",
       "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82251,
+        24.17562
+      ]
+    },
+    "properties": {
+      "id": "3259",
+      "name": "湖興",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82116,
+        24.18117
+      ]
+    },
+    "properties": {
+      "id": "3369",
+      "name": "新六村",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82237,
+        24.18773
+      ]
+    },
+    "properties": {
+      "id": "3497",
+      "name": "矮山坪",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82198,
+        24.18933
+      ]
+    },
+    "properties": {
+      "id": "2220",
+      "name": "伯公廟",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82015,
+        24.18996
+      ]
+    },
+    "properties": {
+      "id": "2603",
+      "name": "南華",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82141,
+        24.19754
+      ]
+    },
+    "properties": {
+      "id": "1333",
+      "name": "大排",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82131,
+        24.2005
+      ]
+    },
+    "properties": {
+      "id": "0085",
+      "name": "何厝",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82143,
+        24.20415
+      ]
+    },
+    "properties": {
+      "id": "3123",
+      "name": "頂東興",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8214,
+        24.20688
+      ]
+    },
+    "properties": {
+      "id": "2441",
+      "name": "東興",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82012,
+        24.21243
+      ]
+    },
+    "properties": {
+      "id": "1158",
+      "name": "下東興",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81995,
+        24.21527
+      ]
+    },
+    "properties": {
+      "id": "3362",
+      "name": "新七村",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8204,
+        24.21904
+      ]
+    },
+    "properties": {
+      "id": "1133",
+      "name": "下水底寮",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81938,
+        24.22295
+      ]
+    },
+    "properties": {
+      "id": "2500",
+      "name": "股份園路口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.8169,
+        24.23039
+      ]
+    },
+    "properties": {
+      "id": "2219",
+      "name": "伯公崎",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81476,
+        24.23702
+      ]
+    },
+    "properties": {
+      "id": "1691",
+      "name": "月湖里",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80926,
+        24.23992
+      ]
+    },
+    "properties": {
+      "id": "1264",
+      "name": "土城",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80832,
+        24.24234
+      ]
+    },
+    "properties": {
+      "id": "1887",
+      "name": "市場前",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80835,
+        24.24458
+      ]
+    },
+    "properties": {
+      "id": "3398",
+      "name": "新社",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80832,
+        24.24638
+      ]
+    },
+    "properties": {
+      "id": "1199",
+      "name": "下新社",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80868,
+        24.24772
+      ]
+    },
+    "properties": {
+      "id": "0011",
+      "name": "郵局",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80893,
+        24.25027
+      ]
+    },
+    "properties": {
+      "id": "1438",
+      "name": "中正里",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80775,
+        24.25339
+      ]
+    },
+    "properties": {
+      "id": "3557",
+      "name": "電信局前",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.80698,
+        24.25547
+      ]
+    },
+    "properties": {
+      "id": "1394",
+      "name": "山頂",
+      "seq": 30
     }
   },
   {
@@ -536,7 +986,67 @@
     "properties": {
       "id": "2446",
       "name": "果菜市場",
-      "seq": 9
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81402,
+        24.25639
+      ]
+    },
+    "properties": {
+      "id": "2593",
+      "name": "南眉",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.81565,
+        24.25913
+      ]
+    },
+    "properties": {
+      "id": "4650",
+      "name": "土牛(和盛街)",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82456,
+        24.26119
+      ]
+    },
+    "properties": {
+      "id": "4415",
+      "name": "東勢游泳池",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.82862,
+        24.25742
+      ]
+    },
+    "properties": {
+      "id": "2428",
+      "name": "東勢",
+      "seq": 37
     }
   }
 ]

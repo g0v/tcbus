@@ -19,6 +19,66 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.57911,
+        24.22188
+      ]
+    },
+    "properties": {
+      "id": "0442",
+      "name": "晉江寮",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58038,
+        24.21727
+      ]
+    },
+    "properties": {
+      "id": "4386",
+      "name": "弘光科技大學",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5813,
+        24.20988
+      ]
+    },
+    "properties": {
+      "id": "0435",
+      "name": "正英路",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58534,
+        24.18617
+      ]
+    },
+    "properties": {
+      "id": "2325",
+      "name": "坪頂",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.5935,
         24.1827
       ]
@@ -79,8 +139,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.61944,
-        24.18095
+        120.61956,
+        24.18121
       ]
     },
     "properties": {
@@ -162,21 +222,6 @@
       "id": "0086",
       "name": "頂何厝",
       "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.57911,
-        24.22188
-      ]
-    },
-    "properties": {
-      "id": "0442",
-      "name": "晉江寮",
-      "seq": 3
     }
   },
   {
@@ -349,13 +394,73 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.58038,
-        24.21727
+        120.68488,
+        24.13755
       ]
     },
     "properties": {
-      "id": "4386",
-      "name": "弘光科技大學",
+      "id": "1824",
+      "name": "臺中火車站",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68358,
+        24.13897
+      ]
+    },
+    "properties": {
+      "id": "0151",
+      "name": "第一廣場",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68254,
+        24.13998
+      ]
+    },
+    "properties": {
+      "id": "4401",
+      "name": "彰化銀行(臺灣大道)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68009,
+        24.14198
+      ]
+    },
+    "properties": {
+      "id": "4395",
+      "name": "第二市場(臺灣大道)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67822,
+        24.14366
+      ]
+    },
+    "properties": {
+      "id": "4662",
+      "name": "仁愛醫院",
       "seq": 5
     }
   },
@@ -364,13 +469,28 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.5813,
-        24.20988
+        120.67666,
+        24.14472
       ]
     },
     "properties": {
-      "id": "0435",
-      "name": "正英路",
+      "id": "4375",
+      "name": "臺灣大道中華路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67463,
+        24.14671
+      ]
+    },
+    "properties": {
+      "id": "5092",
+      "name": "臺灣大道原子街口",
       "seq": 7
     }
   },
@@ -379,14 +499,284 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.58534,
-        24.18617
+        120.67097,
+        24.15001
+      ]
+    },
+    "properties": {
+      "id": "0723",
+      "name": "茄苳腳",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66819,
+        24.15233
+      ]
+    },
+    "properties": {
+      "id": "0419",
+      "name": "中正國小",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66319,
+        24.15517
+      ]
+    },
+    "properties": {
+      "id": "2696",
+      "name": "科博館",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65919,
+        24.15748
+      ]
+    },
+    "properties": {
+      "id": "0087",
+      "name": "忠明國小",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65632,
+        24.15928
+      ]
+    },
+    "properties": {
+      "id": "0086",
+      "name": "頂何厝",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64877,
+        24.16321
+      ]
+    },
+    "properties": {
+      "id": "0433",
+      "name": "市政府",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64414,
+        24.16577
+      ]
+    },
+    "properties": {
+      "id": "0467",
+      "name": "新光/遠百",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63958,
+        24.16891
+      ]
+    },
+    "properties": {
+      "id": "0441",
+      "name": "秋紅谷",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62337,
+        24.1792
+      ]
+    },
+    "properties": {
+      "id": "0445",
+      "name": "福安",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62017,
+        24.18079
+      ]
+    },
+    "properties": {
+      "id": "0008",
+      "name": "中港新城",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61675,
+        24.18248
+      ]
+    },
+    "properties": {
+      "id": "0007",
+      "name": "澄清醫院",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61032,
+        24.18442
+      ]
+    },
+    "properties": {
+      "id": "0439",
+      "name": "玉門路",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60293,
+        24.18296
+      ]
+    },
+    "properties": {
+      "id": "0444",
+      "name": "榮總/東海大學",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59344,
+        24.18296
+      ]
+    },
+    "properties": {
+      "id": "0240",
+      "name": "東海別墅",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58603,
+        24.186
       ]
     },
     "properties": {
       "id": "2325",
       "name": "坪頂",
-      "seq": 9
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58149,
+        24.20952
+      ]
+    },
+    "properties": {
+      "id": "0435",
+      "name": "正英路",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58056,
+        24.21702
+      ]
+    },
+    "properties": {
+      "id": "4386",
+      "name": "弘光科技大學",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5797,
+        24.22123
+      ]
+    },
+    "properties": {
+      "id": "0442",
+      "name": "晉江寮",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57703,
+        24.22553
+      ]
+    },
+    "properties": {
+      "id": "4147",
+      "name": "靜宜大學",
+      "seq": 44
     }
   }
 ]

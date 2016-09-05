@@ -19,6 +19,66 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.6844,
+        24.13743
+      ]
+    },
+    "properties": {
+      "id": "1824",
+      "name": "臺中火車站",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68742,
+        24.14897
+      ]
+    },
+    "properties": {
+      "id": "0149",
+      "name": "臺中一中",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68375,
+        24.15386
+      ]
+    },
+    "properties": {
+      "id": "3772",
+      "name": "五權學士路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6774,
+        24.15234
+      ]
+    },
+    "properties": {
+      "id": "0503",
+      "name": "臺中二中",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.67314,
         24.16755
       ]
@@ -72,21 +132,6 @@
       "id": "1475",
       "name": "中清環中路口",
       "seq": 16
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.6844,
-        24.13743
-      ]
-    },
-    "properties": {
-      "id": "1824",
-      "name": "臺中火車站",
-      "seq": 2
     }
   },
   {
@@ -274,13 +319,58 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68742,
-        24.14897
+        120.6221,
+        24.34906
       ]
     },
     "properties": {
-      "id": "0149",
-      "name": "臺中一中",
+      "id": "5437",
+      "name": "大甲區公所",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62286,
+        24.34726
+      ]
+    },
+    "properties": {
+      "id": "1074",
+      "name": "文昌祠",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62664,
+        24.34461
+      ]
+    },
+    "properties": {
+      "id": "4432",
+      "name": "大甲火車站",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62553,
+        24.34321
+      ]
+    },
+    "properties": {
+      "id": "5084",
+      "name": "大甲",
       "seq": 4
     }
   },
@@ -289,14 +379,179 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68375,
-        24.15386
+        120.62431,
+        24.34272
       ]
     },
     "properties": {
-      "id": "3772",
-      "name": "五權學士路口",
+      "id": "2609",
+      "name": "南陽里",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6229,
+        24.34182
+      ]
+    },
+    "properties": {
+      "id": "4433",
+      "name": "大甲高中(水源路)",
       "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62643,
+        24.34027
+      ]
+    },
+    "properties": {
+      "id": "4558",
+      "name": "中正紀念館",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62844,
+        24.3429
+      ]
+    },
+    "properties": {
+      "id": "1933",
+      "name": "永光寺",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62933,
+        24.34477
+      ]
+    },
+    "properties": {
+      "id": "1420",
+      "name": "中山里",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63244,
+        24.34568
+      ]
+    },
+    "properties": {
+      "id": "5339",
+      "name": "甲工入口",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63656,
+        24.34323
+      ]
+    },
+    "properties": {
+      "id": "2417",
+      "name": "東泰新城",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63847,
+        24.34202
+      ]
+    },
+    "properties": {
+      "id": "1278",
+      "name": "大甲東新城",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65636,
+        24.19826
+      ]
+    },
+    "properties": {
+      "id": "1475",
+      "name": "中清環中路口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66917,
+        24.17742
+      ]
+    },
+    "properties": {
+      "id": "5100",
+      "name": "水湳市場(中清路)",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67119,
+        24.17516
+      ]
+    },
+    "properties": {
+      "id": "0334",
+      "name": "下水湳",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67314,
+        24.16755
+      ]
+    },
+    "properties": {
+      "id": "5737",
+      "name": "曉明女中(中清路)",
+      "seq": 30
     }
   },
   {
@@ -311,7 +566,67 @@
     "properties": {
       "id": "0503",
       "name": "臺中二中",
-      "seq": 7
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68375,
+        24.15386
+      ]
+    },
+    "properties": {
+      "id": "3772",
+      "name": "五權學士路口",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68742,
+        24.14897
+      ]
+    },
+    "properties": {
+      "id": "0149",
+      "name": "臺中一中",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6844,
+        24.13743
+      ]
+    },
+    "properties": {
+      "id": "1824",
+      "name": "臺中火車站",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67793,
+        24.13595
+      ]
+    },
+    "properties": {
+      "id": "0071",
+      "name": "臺中女中",
+      "seq": 39
     }
   }
 ]

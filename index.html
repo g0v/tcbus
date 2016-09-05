@@ -30,45 +30,27 @@
 
       </header>
       <section>
-        <!-- h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>
-簡介</h3 -->
-
 <h3>一、 簡介</h3>
 
 <p>這個程式讓你自行選擇要在 OpenStreetMap 上面顯示哪幾條
-(臺中市的) 公車路線。</p>
-
-<h3>二、 操作方式</h3>
-
-<ol>
-<li>勾選您有興趣的幾條路線。 目前的版本僅允許勾選路線， 不允許移除路線。
-如果要移除， 只好重新整理頁面從零開始。
-(因為底層函式庫 <a href="http://leafletjs.com/">leaflet</a>
-目前僅支援新增物件而不支援刪除或隱藏物件。)
-<li>點一下 「勾選路線」， 把路線選單藏起來。
-<li>點選一個站牌， 查看通過該站的路線。
-<li>點選一條路線， 查看該路線所停靠的所有站名。
-<strong>注意!</strong> 目前的版本僅顯示去程。
-<strong>您所選的公車， 去回程走的路線一模一樣嗎? 請自行確認!</strong>
-</ol>
-<p>直奔 <a href="tcbus.html">地圖頁面</a> 玩玩看吧!</p>
+(臺中市的) 公車路線及這些路線的站牌。
+請直奔 <a href="tcbus.html">demo 地圖頁面</a> 玩玩看吧!
 
 <p>同場加映： <a href=
-"http://newtoypia.blogspot.tw/2015/01/tcbus-timing.html">
-台中市公車族 窄頻版動態到站時刻表</a> --
-因為市政府 <a href="http://citybus.taichung.gov.tw/tcbus2/">
-官版的公車動態資訊</a> 網站一定會顯示地圖；
-可是對於那些 (跟我一樣) 手機上網沒有吃到飽的族群，
-每個多下載的封包都是浪費掉的錢啊!
+"http://doofenshmirtzevilincorporated.blogspot.tw/2015/07/tcbus-timing4.html">
+臺中市公車結合去回程的動態到站時刻表</a>。
+對於手機上網吃不飽的族群來說，
+這個網頁所吃的封包比市政府 <a href=
+"http://citybus.taichung.gov.tw/tcbus2/">
+官版的公車動態資訊</a> 要少很多啊!!
 
-<h3>三、 自行安裝</h3>
+<h3>二、 自行安裝</h3>
 
 <p>這個頁面僅僅使用 javascript， 所以您也可以在自己的電腦上安裝。
 從左側下載之後， 在您電腦的網頁目錄 (例如 ~/public_html
 或 /var/www) 解壓縮， 即可使用。
 
-<h3>四、 參與改進及開發</h3>
+<h3>三、 參與改進及開發</h3>
 
 <p>您不需要是程式高手也可參與改進這個計畫!
 
@@ -87,11 +69,18 @@
 "http://user.frdm.info/ckhung/g/#contact">
 私下與我聯絡</a>。
 
-<h3>五、 給程式設計看的資訊</h3>
+<h3>四、 給程式設計看的資訊</h3>
 
-<p>以後再補。
+<p>本程式採用 <a href="http://leafletjs.com/">
+leaflet 函式庫</a> 1.0.0-rc.3 及 <a href=
+"https://github.com/bbecquet/Leaflet.PolylineDecorator">
+Leaflet.PolylineDecorator</a> 撰寫，
+適合作為學習 leaflet 的入門觀摩。
 
-<h3>六、 為什麼要開發這個程式</h3>
+<p>如果需要從官網下載最新的路線資訊， 請研究
+regenerate-data.sh 。
+
+<h3>五、 為什麼要開發這個程式</h3>
 
 <p>其實市政府的 <a href=
 "http://citybus.taichung.gov.tw/iTravel/">
@@ -107,7 +96,6 @@
 <li>想要同時顯示幾條路線。
 <li>手癢。 (最重要的原因)
 </ol>
-
 
       </section>
       <footer>

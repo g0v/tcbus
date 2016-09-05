@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.72425,
+        24.13933
+      ]
+    },
+    "properties": {
+      "id": "4751",
+      "name": "豐年社區四站",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72457,
+        24.14131
+      ]
+    },
+    "properties": {
+      "id": "3929",
+      "name": "豐年社區三站",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72505,
+        24.14353
+      ]
+    },
+    "properties": {
+      "id": "3928",
+      "name": "豐年社區二站",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72497,
+        24.14469
+      ]
+    },
+    "properties": {
+      "id": "3927",
+      "name": "豐年社區一站",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72409,
+        24.14635
+      ]
+    },
+    "properties": {
+      "id": "1519",
+      "name": "中興駕訓班",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72069,
+        24.14911
+      ]
+    },
+    "properties": {
+      "id": "0436",
+      "name": "中興駕訓班前",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71891,
+        24.14889
+      ]
+    },
+    "properties": {
+      "id": "0875",
+      "name": "遊樂大樓",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71567,
+        24.14881
+      ]
+    },
+    "properties": {
+      "id": "0633",
+      "name": "宜欣社區",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.71281,
         24.14975
       ]
@@ -129,8 +249,8 @@
       ]
     },
     "properties": {
-      "id": "0311",
-      "name": "力行國小",
+      "id": "6083",
+      "name": "力行國小(力行路)",
       "seq": 17
     }
   },
@@ -162,21 +282,6 @@
       "id": "4694",
       "name": "臺灣體大體育場",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.72425,
-        24.13933
-      ]
-    },
-    "properties": {
-      "id": "4751",
-      "name": "豐年社區四站",
-      "seq": 2
     }
   },
   {
@@ -334,13 +439,43 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.72457,
-        24.14131
+        120.68363,
+        24.1383
       ]
     },
     "properties": {
-      "id": "3929",
-      "name": "豐年社區三站",
+      "id": "0905",
+      "name": "綠川東站",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6833,
+        24.13797
+      ]
+    },
+    "properties": {
+      "id": "0905",
+      "name": "綠川東站",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68193,
+        24.13977
+      ]
+    },
+    "properties": {
+      "id": "0216",
+      "name": "彰化銀行(自由路)",
       "seq": 3
     }
   },
@@ -349,28 +484,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68363,
-        24.1383
+        120.68388,
+        24.14269
       ]
     },
     "properties": {
-      "id": "0905",
-      "name": "綠川東站",
-      "seq": 30
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.72505,
-        24.14353
-      ]
-    },
-    "properties": {
-      "id": "3928",
-      "name": "豐年社區二站",
+      "id": "5670",
+      "name": "公園自由路口",
       "seq": 4
     }
   },
@@ -379,13 +499,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.72497,
-        24.14469
+        120.68217,
+        24.14492
       ]
     },
     "properties": {
-      "id": "3927",
-      "name": "豐年社區一站",
+      "id": "4543",
+      "name": "臺中公園(三民路)",
       "seq": 5
     }
   },
@@ -394,13 +514,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.72409,
-        24.14635
+        120.68463,
+        24.14621
       ]
     },
     "properties": {
-      "id": "1519",
-      "name": "中興駕訓班",
+      "id": "1513",
+      "name": "中興堂",
       "seq": 6
     }
   },
@@ -409,13 +529,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.72069,
-        24.14911
+        120.6864,
+        24.14704
       ]
     },
     "properties": {
-      "id": "0436",
-      "name": "中興駕訓班前",
+      "id": "4695",
+      "name": "臺灣體大游泳池",
       "seq": 7
     }
   },
@@ -424,13 +544,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.71891,
-        24.14889
+        120.68742,
+        24.14897
       ]
     },
     "properties": {
-      "id": "0875",
-      "name": "遊樂大樓",
+      "id": "0149",
+      "name": "臺中一中",
       "seq": 8
     }
   },
@@ -439,14 +559,299 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.71567,
-        24.14881
+        120.68883,
+        24.15261
       ]
     },
     "properties": {
-      "id": "0633",
-      "name": "宜欣社區",
+      "id": "4694",
+      "name": "臺灣體大體育場",
       "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69087,
+        24.15212
+      ]
+    },
+    "properties": {
+      "id": "0956",
+      "name": "雙十國中",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69322,
+        24.15164
+      ]
+    },
+    "properties": {
+      "id": "6083",
+      "name": "力行國小(力行路)",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69441,
+        24.15044
+      ]
+    },
+    "properties": {
+      "id": "0599",
+      "name": "合作市場",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69533,
+        24.14791
+      ]
+    },
+    "properties": {
+      "id": "0317",
+      "name": "十甲社區",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70215,
+        24.14799
+      ]
+    },
+    "properties": {
+      "id": "0862",
+      "name": "新光里(中山路)",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70479,
+        24.14822
+      ]
+    },
+    "properties": {
+      "id": "4745",
+      "name": "精武十甲東路口",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70719,
+        24.14886
+      ]
+    },
+    "properties": {
+      "id": "0867",
+      "name": "楓愛林社區",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71006,
+        24.14949
+      ]
+    },
+    "properties": {
+      "id": "0864",
+      "name": "新高社區",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71281,
+        24.14975
+      ]
+    },
+    "properties": {
+      "id": "4321",
+      "name": "宜欣郵局",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71595,
+        24.14842
+      ]
+    },
+    "properties": {
+      "id": "1422",
+      "name": "宜昌中山路口",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71413,
+        24.14546
+      ]
+    },
+    "properties": {
+      "id": "3764",
+      "name": "賢德醫院",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71468,
+        24.14165
+      ]
+    },
+    "properties": {
+      "id": "4747",
+      "name": "新平溪洲路口",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71495,
+        24.13889
+      ]
+    },
+    "properties": {
+      "id": "2330",
+      "name": "宜欣國小",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7154,
+        24.1373
+      ]
+    },
+    "properties": {
+      "id": "5147",
+      "name": "新平仁和街口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71864,
+        24.13364
+      ]
+    },
+    "properties": {
+      "id": "4717",
+      "name": "崇正寶宮",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72152,
+        24.13421
+      ]
+    },
+    "properties": {
+      "id": "4748",
+      "name": "東平里",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72297,
+        24.13597
+      ]
+    },
+    "properties": {
+      "id": "4749",
+      "name": "中和東村三街口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72414,
+        24.13747
+      ]
+    },
+    "properties": {
+      "id": "3660",
+      "name": "福德祠",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72423,
+        24.13838
+      ]
+    },
+    "properties": {
+      "id": "4750",
+      "name": "豐年社區五站",
+      "seq": 28
     }
   }
 ]

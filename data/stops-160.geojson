@@ -4,14 +4,59 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.61388,
-        24.11428
+        120.61593,
+        24.11211
       ]
     },
     "properties": {
       "id": "2907",
       "name": "高鐵臺中站",
       "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62327,
+        24.14395
+      ]
+    },
+    "properties": {
+      "id": "6043",
+      "name": "環中向上路口(哈魚碼頭)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63473,
+        24.14634
+      ]
+    },
+    "properties": {
+      "id": "4994",
+      "name": "向上永春東七路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6347,
+        24.15475
+      ]
+    },
+    "properties": {
+      "id": "3892",
+      "name": "黎明新村(黎明路)",
+      "seq": 9
     }
   },
   {
@@ -94,14 +139,89 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62327,
-        24.14395
+        120.64166,
+        24.18505
       ]
     },
     "properties": {
-      "id": "6043",
-      "name": "環中向上路口(哈魚碼頭)",
+      "id": "5409",
+      "name": "文修停車場",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64436,
+        24.1864
+      ]
+    },
+    "properties": {
+      "id": "4327",
+      "name": "僑光科技大學",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64525,
+        24.17928
+      ]
+    },
+    "properties": {
+      "id": "4586",
+      "name": "逢甲大學(福星路)",
       "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64361,
+        24.17066
+      ]
+    },
+    "properties": {
+      "id": "4615",
+      "name": "河南青海路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63755,
+        24.16821
+      ]
+    },
+    "properties": {
+      "id": "6042",
+      "name": "和欣朝馬轉運站",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63458,
+        24.15475
+      ]
+    },
+    "properties": {
+      "id": "3892",
+      "name": "黎明新村(黎明路)",
+      "seq": 17
     }
   },
   {
@@ -116,7 +236,7 @@
     "properties": {
       "id": "4994",
       "name": "向上永春東七路口",
-      "seq": 7
+      "seq": 20
     }
   },
   {
@@ -124,14 +244,29 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6347,
-        24.15475
+        120.62327,
+        24.14395
       ]
     },
     "properties": {
-      "id": "3892",
-      "name": "黎明新村(黎明路)",
-      "seq": 9
+      "id": "6043",
+      "name": "環中向上路口(哈魚碼頭)",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61593,
+        24.11211
+      ]
+    },
+    "properties": {
+      "id": "2907",
+      "name": "高鐵臺中站",
+      "seq": 25
     }
   }
 ]

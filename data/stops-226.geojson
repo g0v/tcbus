@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.71765,
+        24.30969
+      ]
+    },
+    "properties": {
+      "id": "2651",
+      "name": "后里電信局",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71645,
+        24.30747
+      ]
+    },
+    "properties": {
+      "id": "4453",
+      "name": "民生文明路口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7133,
+        24.30633
+      ]
+    },
+    "properties": {
+      "id": "1571",
+      "name": "內埔市場",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7107,
+        24.30482
+      ]
+    },
+    "properties": {
+      "id": "4504",
+      "name": "后里區公所",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70917,
+        24.30554
+      ]
+    },
+    "properties": {
+      "id": "4449",
+      "name": "公安主和路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70587,
+        24.30699
+      ]
+    },
+    "properties": {
+      "id": "3309",
+      "name": "雅藝公司",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69814,
+        24.31041
+      ]
+    },
+    "properties": {
+      "id": "0421",
+      "name": "中和",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69621,
+        24.31178
+      ]
+    },
+    "properties": {
+      "id": "2469",
+      "name": "松鶴酒莊",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.6951,
         24.31351
       ]
@@ -169,13 +289,28 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.71765,
-        24.30969
+        120.65928,
+        24.31385
       ]
     },
     "properties": {
-      "id": "2651",
-      "name": "后里電信局",
+      "id": "1639",
+      "name": "太平里",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66434,
+        24.31197
+      ]
+    },
+    "properties": {
+      "id": "1613",
+      "name": "公館仔",
       "seq": 2
     }
   },
@@ -184,13 +319,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.71645,
-        24.30747
+        120.66874,
+        24.31041
       ]
     },
     "properties": {
-      "id": "4453",
-      "name": "民生文明路口",
+      "id": "1848",
+      "name": "五哩",
       "seq": 3
     }
   },
@@ -199,13 +334,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.7133,
-        24.30633
+        120.67292,
+        24.31004
       ]
     },
     "properties": {
-      "id": "1571",
-      "name": "內埔市場",
+      "id": "3102",
+      "name": "頂太平",
       "seq": 4
     }
   },
@@ -214,13 +349,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.7107,
-        24.30482
+        120.67728,
+        24.31046
       ]
     },
     "properties": {
-      "id": "4504",
-      "name": "后里區公所",
+      "id": "3093",
+      "name": "頂口庄",
       "seq": 5
     }
   },
@@ -229,13 +364,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.70917,
-        24.30554
+        120.68074,
+        24.3113
       ]
     },
     "properties": {
-      "id": "4449",
-      "name": "公安主和路口",
+      "id": "2266",
+      "name": "育英國小",
       "seq": 6
     }
   },
@@ -244,13 +379,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.70587,
-        24.30699
+        120.6846,
+        24.31136
       ]
     },
     "properties": {
-      "id": "3309",
-      "name": "雅藝公司",
+      "id": "1778",
+      "name": "四月水門路口",
       "seq": 7
     }
   },
@@ -259,14 +394,44 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69814,
-        24.31041
+        120.68729,
+        24.31224
       ]
     },
     "properties": {
-      "id": "0421",
-      "name": "中和",
+      "id": "4455",
+      "name": "甲后四月路口",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69262,
+        24.31389
+      ]
+    },
+    "properties": {
+      "id": "1683",
+      "name": "月眉",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6951,
+        24.31351
+      ]
+    },
+    "properties": {
+      "id": "1689",
+      "name": "月眉糖廠",
+      "seq": 10
     }
   },
   {
@@ -281,7 +446,127 @@
     "properties": {
       "id": "2469",
       "name": "松鶴酒莊",
-      "seq": 9
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69814,
+        24.31041
+      ]
+    },
+    "properties": {
+      "id": "0421",
+      "name": "中和",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70587,
+        24.30699
+      ]
+    },
+    "properties": {
+      "id": "3309",
+      "name": "雅藝公司",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70917,
+        24.30554
+      ]
+    },
+    "properties": {
+      "id": "4449",
+      "name": "公安主和路口",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7107,
+        24.30482
+      ]
+    },
+    "properties": {
+      "id": "4504",
+      "name": "后里區公所",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7133,
+        24.30633
+      ]
+    },
+    "properties": {
+      "id": "1571",
+      "name": "內埔市場",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71645,
+        24.30747
+      ]
+    },
+    "properties": {
+      "id": "4453",
+      "name": "民生文明路口",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71765,
+        24.30969
+      ]
+    },
+    "properties": {
+      "id": "2651",
+      "name": "后里電信局",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72164,
+        24.30903
+      ]
+    },
+    "properties": {
+      "id": "1169",
+      "name": "下后里",
+      "seq": 19
     }
   }
 ]

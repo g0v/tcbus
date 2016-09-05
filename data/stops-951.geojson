@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.57619,
+        24.20993
+      ]
+    },
+    "properties": {
+      "id": "5429",
+      "name": "正英七街口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57388,
+        24.21055
+      ]
+    },
+    "properties": {
+      "id": "3530",
+      "name": "正英鎮南路口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57184,
+        24.21136
+      ]
+    },
+    "properties": {
+      "id": "5751",
+      "name": "正英二街口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57032,
+        24.21241
+      ]
+    },
+    "properties": {
+      "id": "1782",
+      "name": "北埔仔",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57057,
+        24.21764
+      ]
+    },
+    "properties": {
+      "id": "2361",
+      "name": "明秀",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56962,
+        24.2205
+      ]
+    },
+    "properties": {
+      "id": "3529",
+      "name": "鎮南平等路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56915,
+        24.22193
+      ]
+    },
+    "properties": {
+      "id": "5785",
+      "name": "福興(鎮南路)",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56875,
+        24.22442
+      ]
+    },
+    "properties": {
+      "id": "1796",
+      "name": "北勢頭",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.56802,
         24.2263
       ]
@@ -162,21 +282,6 @@
       "id": "5462",
       "name": "中華路201巷口",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.57619,
-        24.20993
-      ]
-    },
-    "properties": {
-      "id": "5429",
-      "name": "正英七街口",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.57388,
-        24.21055
-      ]
-    },
-    "properties": {
-      "id": "3530",
-      "name": "正英鎮南路口",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.57516,
         24.2683
       ]
@@ -469,6 +559,21 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.58698,
+        24.29013
+      ]
+    },
+    "properties": {
+      "id": "4139",
+      "name": "福元批發",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.58824,
         24.29228
       ]
@@ -476,7 +581,7 @@
     "properties": {
       "id": "4127",
       "name": "頂湳子",
-      "seq": 38
+      "seq": 39
     }
   },
   {
@@ -491,22 +596,7 @@
     "properties": {
       "id": "5913",
       "name": "菁埔庄",
-      "seq": 39
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.57184,
-        24.21136
-      ]
-    },
-    "properties": {
-      "id": "5751",
-      "name": "正英二街口",
-      "seq": 4
+      "seq": 40
     }
   },
   {
@@ -521,7 +611,7 @@
     "properties": {
       "id": "5912",
       "name": "中牛埔",
-      "seq": 40
+      "seq": 41
     }
   },
   {
@@ -529,14 +619,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.59554,
-        24.30063
+        120.5955,
+        24.30106
       ]
     },
     "properties": {
       "id": "3708",
       "name": "劉厝",
-      "seq": 41
+      "seq": 42
     }
   },
   {
@@ -551,7 +641,22 @@
     "properties": {
       "id": "0316",
       "name": "中華北臨港路口",
-      "seq": 42
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60122,
+        24.31001
+      ]
+    },
+    "properties": {
+      "id": "5862",
+      "name": "大甲溪南岸",
+      "seq": 44
     }
   },
   {
@@ -566,7 +671,22 @@
     "properties": {
       "id": "1705",
       "name": "水汴頭",
-      "seq": 43
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6102,
+        24.32879
+      ]
+    },
+    "properties": {
+      "id": "6006",
+      "name": "武陵里",
+      "seq": 46
     }
   },
   {
@@ -581,7 +701,7 @@
     "properties": {
       "id": "4133",
       "name": "番子寮",
-      "seq": 45
+      "seq": 47
     }
   },
   {
@@ -596,6 +716,1386 @@
     "properties": {
       "id": "1859",
       "name": "外水尾",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61874,
+        24.33972
+      ]
+    },
+    "properties": {
+      "id": "5693",
+      "name": "水尾橋",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62034,
+        24.34218
+      ]
+    },
+    "properties": {
+      "id": "5361",
+      "name": "大甲高中(順天路)",
+      "seq": 50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6217,
+        24.34371
+      ]
+    },
+    "properties": {
+      "id": "5921",
+      "name": "南門(順天路)",
+      "seq": 51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62577,
+        24.34362
+      ]
+    },
+    "properties": {
+      "id": "5783",
+      "name": "大甲火車站(光明路)",
+      "seq": 52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62445,
+        24.34284
+      ]
+    },
+    "properties": {
+      "id": "5639",
+      "name": "南陽里(中山路)",
+      "seq": 53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62285,
+        24.34205
+      ]
+    },
+    "properties": {
+      "id": "4433",
+      "name": "大甲高中(水源路)",
+      "seq": 54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6259,
+        24.34008
+      ]
+    },
+    "properties": {
+      "id": "3539",
+      "name": "中正紀念館(文化中心)",
+      "seq": 55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62844,
+        24.3429
+      ]
+    },
+    "properties": {
+      "id": "1933",
+      "name": "永光寺",
+      "seq": 56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62933,
+        24.34477
+      ]
+    },
+    "properties": {
+      "id": "1420",
+      "name": "中山里",
+      "seq": 57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63291,
+        24.34581
+      ]
+    },
+    "properties": {
+      "id": "5060",
+      "name": "開元甲后路口",
+      "seq": 58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63592,
+        24.34619
+      ]
+    },
+    "properties": {
+      "id": "5909",
+      "name": "開元英才巷口",
+      "seq": 59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63938,
+        24.34644
+      ]
+    },
+    "properties": {
+      "id": "4875",
+      "name": "大甲高工",
+      "seq": 60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6419,
+        24.34639
+      ]
+    },
+    "properties": {
+      "id": "5808",
+      "name": "鐵山腳公園",
+      "seq": 61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64387,
+        24.34672
+      ]
+    },
+    "properties": {
+      "id": "3262",
+      "name": "番仔田",
+      "seq": 62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64776,
+        24.34648
+      ]
+    },
+    "properties": {
+      "id": "5492",
+      "name": "明湖新村",
+      "seq": 63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65337,
+        24.34702
+      ]
+    },
+    "properties": {
+      "id": "5773",
+      "name": "鐵砧山(長生路)",
+      "seq": 64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65627,
+        24.34847
+      ]
+    },
+    "properties": {
+      "id": "4001",
+      "name": "鐵山國小",
+      "seq": 65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66278,
+        24.34969
+      ]
+    },
+    "properties": {
+      "id": "3406",
+      "name": "新厝(長生路)",
+      "seq": 66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66379,
+        24.34428
+      ]
+    },
+    "properties": {
+      "id": "2946",
+      "name": "埤腳",
+      "seq": 67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66295,
+        24.34048
+      ]
+    },
+    "properties": {
+      "id": "2900",
+      "name": "馬鳴埔",
+      "seq": 68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66211,
+        24.34019
+      ]
+    },
+    "properties": {
+      "id": "5962",
+      "name": "中山里福德祠",
+      "seq": 69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65711,
+        24.33883
+      ]
+    },
+    "properties": {
+      "id": "5348",
+      "name": "大馬中山路口",
+      "seq": 70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64851,
+        24.33981
+      ]
+    },
+    "properties": {
+      "id": "5888",
+      "name": "庄內巷口",
+      "seq": 71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6423,
+        24.34102
+      ]
+    },
+    "properties": {
+      "id": "0357",
+      "name": "大東里活動中心",
+      "seq": 72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64144,
+        24.34057
+      ]
+    },
+    "properties": {
+      "id": "1277",
+      "name": "大甲東",
+      "seq": 73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64983,
+        24.33504
+      ]
+    },
+    "properties": {
+      "id": "2652",
+      "name": "后寮",
+      "seq": 74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6515,
+        24.33252
+      ]
+    },
+    "properties": {
+      "id": "5433",
+      "name": "外埔老人文康中心",
+      "seq": 75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65461,
+        24.33211
+      ]
+    },
+    "properties": {
+      "id": "3548",
+      "name": "外埔區公所",
+      "seq": 76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65563,
+        24.33787
+      ]
+    },
+    "properties": {
+      "id": "5349",
+      "name": "中山大馬路口",
+      "seq": 77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65694,
+        24.33883
+      ]
+    },
+    "properties": {
+      "id": "5348",
+      "name": "大馬中山路口",
+      "seq": 78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66195,
+        24.34008
+      ]
+    },
+    "properties": {
+      "id": "5962",
+      "name": "中山里福德祠",
+      "seq": 79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66817,
+        24.34133
+      ]
+    },
+    "properties": {
+      "id": "6084",
+      "name": "竹圍(新厝路)",
+      "seq": 80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67227,
+        24.34153
+      ]
+    },
+    "properties": {
+      "id": "3114",
+      "name": "頂竹圍",
+      "seq": 81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67548,
+        24.3439
+      ]
+    },
+    "properties": {
+      "id": "6026",
+      "name": "崎頂(土城路)",
+      "seq": 82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68193,
+        24.3445
+      ]
+    },
+    "properties": {
+      "id": "2726",
+      "name": "風坑",
+      "seq": 83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68384,
+        24.34478
+      ]
+    },
+    "properties": {
+      "id": "5325",
+      "name": "土城部子路口",
+      "seq": 84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6849,
+        24.3475
+      ]
+    },
+    "properties": {
+      "id": "5963",
+      "name": "?子路5鄰",
+      "seq": 85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6854,
+        24.3494
+      ]
+    },
+    "properties": {
+      "id": "5968",
+      "name": "蔗部(?子路)",
+      "seq": 86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6868,
+        24.3515
+      ]
+    },
+    "properties": {
+      "id": "5964",
+      "name": "觀園庄",
+      "seq": 87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68864,
+        24.3505
+      ]
+    },
+    "properties": {
+      "id": "6082",
+      "name": "溪埔",
+      "seq": 88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6932,
+        24.349
+      ]
+    },
+    "properties": {
+      "id": "5965",
+      "name": "?子中路",
+      "seq": 89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6968,
+        24.3476
+      ]
+    },
+    "properties": {
+      "id": "5966",
+      "name": "福德祠(?子路)",
+      "seq": 90
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69968,
+        24.34664
+      ]
+    },
+    "properties": {
+      "id": "1243",
+      "name": "上部仔",
+      "seq": 91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70467,
+        24.34492
+      ]
+    },
+    "properties": {
+      "id": "1264",
+      "name": "土城",
+      "seq": 92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70711,
+        24.34294
+      ]
+    },
+    "properties": {
+      "id": "5617",
+      "name": "安定",
+      "seq": 93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71186,
+        24.33649
+      ]
+    },
+    "properties": {
+      "id": "0976",
+      "name": "一安定",
+      "seq": 94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7138,
+        24.3353
+      ]
+    },
+    "properties": {
+      "id": "5967",
+      "name": "土城東路",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71186,
+        24.33649
+      ]
+    },
+    "properties": {
+      "id": "0976",
+      "name": "一安定",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70711,
+        24.34294
+      ]
+    },
+    "properties": {
+      "id": "5617",
+      "name": "安定",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70467,
+        24.34492
+      ]
+    },
+    "properties": {
+      "id": "1264",
+      "name": "土城",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69968,
+        24.34664
+      ]
+    },
+    "properties": {
+      "id": "1243",
+      "name": "上部仔",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6968,
+        24.3476
+      ]
+    },
+    "properties": {
+      "id": "5966",
+      "name": "福德祠(?子路)",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6932,
+        24.349
+      ]
+    },
+    "properties": {
+      "id": "5965",
+      "name": "?子中路",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.689,
+        24.35027
+      ]
+    },
+    "properties": {
+      "id": "6082",
+      "name": "溪埔",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6868,
+        24.3515
+      ]
+    },
+    "properties": {
+      "id": "5964",
+      "name": "觀園庄",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6854,
+        24.3494
+      ]
+    },
+    "properties": {
+      "id": "5968",
+      "name": "蔗部(?子路)",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6849,
+        24.3475
+      ]
+    },
+    "properties": {
+      "id": "5963",
+      "name": "?子路5鄰",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68384,
+        24.34478
+      ]
+    },
+    "properties": {
+      "id": "5325",
+      "name": "土城部子路口",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68193,
+        24.3445
+      ]
+    },
+    "properties": {
+      "id": "2726",
+      "name": "風坑",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67548,
+        24.3439
+      ]
+    },
+    "properties": {
+      "id": "6026",
+      "name": "崎頂(土城路)",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67227,
+        24.34153
+      ]
+    },
+    "properties": {
+      "id": "3114",
+      "name": "頂竹圍",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66817,
+        24.34133
+      ]
+    },
+    "properties": {
+      "id": "6084",
+      "name": "竹圍(新厝路)",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66211,
+        24.34019
+      ]
+    },
+    "properties": {
+      "id": "5962",
+      "name": "中山里福德祠",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65711,
+        24.33883
+      ]
+    },
+    "properties": {
+      "id": "5348",
+      "name": "大馬中山路口",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65563,
+        24.33787
+      ]
+    },
+    "properties": {
+      "id": "5349",
+      "name": "中山大馬路口",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6548,
+        24.33214
+      ]
+    },
+    "properties": {
+      "id": "3548",
+      "name": "外埔區公所",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6526,
+        24.33252
+      ]
+    },
+    "properties": {
+      "id": "1865",
+      "name": "外埔",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64983,
+        24.33504
+      ]
+    },
+    "properties": {
+      "id": "2652",
+      "name": "后寮",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64144,
+        24.34057
+      ]
+    },
+    "properties": {
+      "id": "1277",
+      "name": "大甲東",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6423,
+        24.34102
+      ]
+    },
+    "properties": {
+      "id": "0357",
+      "name": "大東里活動中心",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64851,
+        24.33981
+      ]
+    },
+    "properties": {
+      "id": "5888",
+      "name": "庄內巷口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65694,
+        24.33883
+      ]
+    },
+    "properties": {
+      "id": "5348",
+      "name": "大馬中山路口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66195,
+        24.34008
+      ]
+    },
+    "properties": {
+      "id": "5962",
+      "name": "中山里福德祠",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66295,
+        24.34048
+      ]
+    },
+    "properties": {
+      "id": "2900",
+      "name": "馬鳴埔",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66379,
+        24.34428
+      ]
+    },
+    "properties": {
+      "id": "2946",
+      "name": "埤腳",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66278,
+        24.34969
+      ]
+    },
+    "properties": {
+      "id": "3406",
+      "name": "新厝(長生路)",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65627,
+        24.34847
+      ]
+    },
+    "properties": {
+      "id": "4001",
+      "name": "鐵山國小",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65337,
+        24.34702
+      ]
+    },
+    "properties": {
+      "id": "5773",
+      "name": "鐵砧山(長生路)",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64776,
+        24.34648
+      ]
+    },
+    "properties": {
+      "id": "5492",
+      "name": "明湖新村",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64387,
+        24.34672
+      ]
+    },
+    "properties": {
+      "id": "3262",
+      "name": "番仔田",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6421,
+        24.34638
+      ]
+    },
+    "properties": {
+      "id": "5808",
+      "name": "鐵山腳公園",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63938,
+        24.34644
+      ]
+    },
+    "properties": {
+      "id": "4875",
+      "name": "大甲高工",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63592,
+        24.34619
+      ]
+    },
+    "properties": {
+      "id": "5909",
+      "name": "開元英才巷口",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63291,
+        24.34581
+      ]
+    },
+    "properties": {
+      "id": "5060",
+      "name": "開元甲后路口",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62933,
+        24.34477
+      ]
+    },
+    "properties": {
+      "id": "1420",
+      "name": "中山里",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62844,
+        24.3429
+      ]
+    },
+    "properties": {
+      "id": "1933",
+      "name": "永光寺",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62696,
+        24.34071
+      ]
+    },
+    "properties": {
+      "id": "3539",
+      "name": "中正紀念館(文化中心)",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6229,
+        24.34182
+      ]
+    },
+    "properties": {
+      "id": "4433",
+      "name": "大甲高中(水源路)",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62445,
+        24.34284
+      ]
+    },
+    "properties": {
+      "id": "5639",
+      "name": "南陽里(中山路)",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6256,
+        24.34378
+      ]
+    },
+    "properties": {
+      "id": "5783",
+      "name": "大甲火車站(光明路)",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6217,
+        24.34371
+      ]
+    },
+    "properties": {
+      "id": "5921",
+      "name": "南門(順天路)",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62034,
+        24.34218
+      ]
+    },
+    "properties": {
+      "id": "5361",
+      "name": "大甲高中(順天路)",
       "seq": 46
     }
   },
@@ -619,13 +2119,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62034,
-        24.34218
+        120.61743,
+        24.3376
       ]
     },
     "properties": {
-      "id": "5361",
-      "name": "大甲高中(順天路)",
+      "id": "1859",
+      "name": "外水尾",
       "seq": 48
     }
   },
@@ -634,13 +2134,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6217,
-        24.34371
+        120.61384,
+        24.33278
       ]
     },
     "properties": {
-      "id": "5921",
-      "name": "南門(順天路)",
+      "id": "4133",
+      "name": "番子寮",
       "seq": 49
     }
   },
@@ -649,28 +2149,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.57032,
-        24.21241
+        120.60969,
+        24.32848
       ]
     },
     "properties": {
-      "id": "1782",
-      "name": "北埔仔",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.62577,
-        24.34362
-      ]
-    },
-    "properties": {
-      "id": "5783",
-      "name": "大甲火車站(光明路)",
+      "id": "6006",
+      "name": "武陵里",
       "seq": 50
     }
   },
@@ -679,13 +2164,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62445,
-        24.34284
+        120.60827,
+        24.32677
       ]
     },
     "properties": {
-      "id": "2609",
-      "name": "南陽里",
+      "id": "1705",
+      "name": "水汴頭",
       "seq": 51
     }
   },
@@ -694,13 +2179,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62285,
-        24.34205
+        120.59995,
+        24.30966
       ]
     },
     "properties": {
-      "id": "4433",
-      "name": "大甲高中(水源路)",
+      "id": "5862",
+      "name": "大甲溪南岸",
       "seq": 52
     }
   },
@@ -709,13 +2194,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6259,
-        24.34008
+        120.59644,
+        24.30337
       ]
     },
     "properties": {
-      "id": "3539",
-      "name": "中正紀念館(文化中心)",
+      "id": "0316",
+      "name": "中華北臨港路口",
       "seq": 53
     }
   },
@@ -724,13 +2209,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62844,
-        24.3429
+        120.5955,
+        24.30106
       ]
     },
     "properties": {
-      "id": "1933",
-      "name": "永光寺",
+      "id": "3708",
+      "name": "劉厝",
       "seq": 54
     }
   },
@@ -739,13 +2224,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62933,
-        24.34477
+        120.59354,
+        24.29821
       ]
     },
     "properties": {
-      "id": "1420",
-      "name": "中山里",
+      "id": "5912",
+      "name": "中牛埔",
       "seq": 55
     }
   },
@@ -754,13 +2239,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.63291,
-        24.34581
+        120.59118,
+        24.29611
       ]
     },
     "properties": {
-      "id": "5060",
-      "name": "開元甲后路口",
+      "id": "5913",
+      "name": "菁埔庄",
       "seq": 56
     }
   },
@@ -769,13 +2254,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.63592,
-        24.34619
+        120.58861,
+        24.29345
       ]
     },
     "properties": {
-      "id": "5909",
-      "name": "開元英才巷口",
+      "id": "4127",
+      "name": "頂湳子",
       "seq": 57
     }
   },
@@ -784,13 +2269,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.63938,
-        24.34644
+        120.58698,
+        24.29013
       ]
     },
     "properties": {
-      "id": "4875",
-      "name": "大甲高工",
+      "id": "4139",
+      "name": "福元批發",
       "seq": 58
     }
   },
@@ -799,13 +2284,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6419,
-        24.34639
+        120.58574,
+        24.2882
       ]
     },
     "properties": {
-      "id": "5808",
-      "name": "鐵山腳公園",
+      "id": "4058",
+      "name": "三田國小",
       "seq": 59
     }
   },
@@ -814,28 +2299,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.57057,
-        24.21764
+        120.58338,
+        24.28403
       ]
     },
     "properties": {
-      "id": "2361",
-      "name": "明秀",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.64387,
-        24.34672
-      ]
-    },
-    "properties": {
-      "id": "3262",
-      "name": "番仔田",
+      "id": "4063",
+      "name": "下湳子",
       "seq": 60
     }
   },
@@ -844,13 +2314,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64776,
-        24.34648
+        120.58127,
+        24.28091
       ]
     },
     "properties": {
-      "id": "5492",
-      "name": "明湖新村",
+      "id": "4130",
+      "name": "朝興宮",
       "seq": 61
     }
   },
@@ -859,13 +2329,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.65337,
-        24.34702
+        120.57941,
+        24.2787
       ]
     },
     "properties": {
-      "id": "5773",
-      "name": "鐵砧山(長生路)",
+      "id": "4065",
+      "name": "下湳加油站",
       "seq": 62
     }
   },
@@ -874,13 +2344,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.65627,
-        24.34847
+        120.57725,
+        24.27531
       ]
     },
     "properties": {
-      "id": "4001",
-      "name": "鐵山國小",
+      "id": "4442",
+      "name": "中山高美路口",
       "seq": 63
     }
   },
@@ -889,13 +2359,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.66278,
-        24.34969
+        120.57707,
+        24.27301
       ]
     },
     "properties": {
-      "id": "3406",
-      "name": "新厝(長生路)",
+      "id": "4521",
+      "name": "中山董公街口",
       "seq": 64
     }
   },
@@ -904,13 +2374,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.66379,
-        24.34428
+        120.57609,
+        24.27046
       ]
     },
     "properties": {
-      "id": "2946",
-      "name": "埤腳",
+      "id": "3013",
+      "name": "清水",
       "seq": 65
     }
   },
@@ -919,13 +2389,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.66295,
-        24.34048
+        120.57516,
+        24.2683
       ]
     },
     "properties": {
-      "id": "2900",
-      "name": "馬鳴埔",
+      "id": "5141",
+      "name": "華南銀行(清水分行)",
       "seq": 66
     }
   },
@@ -934,13 +2404,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.66211,
-        24.34019
+        120.57421,
+        24.26615
       ]
     },
     "properties": {
-      "id": "5962",
-      "name": "中山里福德祠",
+      "id": "0314",
+      "name": "清水高中(中山路)",
       "seq": 67
     }
   },
@@ -949,13 +2419,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.65711,
-        24.33883
+        120.567,
+        24.26963
       ]
     },
     "properties": {
-      "id": "5348",
-      "name": "大馬中山路口",
+      "id": "3509",
+      "name": "中華鰲峰路口",
       "seq": 68
     }
   },
@@ -964,13 +2434,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64851,
-        24.33981
+        120.56459,
+        24.26566
       ]
     },
     "properties": {
-      "id": "5888",
-      "name": "庄內巷口",
+      "id": "0356",
+      "name": "中華南社路口",
       "seq": 69
     }
   },
@@ -979,28 +2449,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.56962,
-        24.2205
+        120.56283,
+        24.26598
       ]
     },
     "properties": {
-      "id": "3529",
-      "name": "鎮南平等路口",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.6423,
-        24.34102
-      ]
-    },
-    "properties": {
-      "id": "0357",
-      "name": "大東里活動中心",
+      "id": "0355",
+      "name": "清水戶政事務所",
       "seq": 70
     }
   },
@@ -1009,13 +2464,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64144,
-        24.34057
+        120.56091,
+        24.26567
       ]
     },
     "properties": {
-      "id": "1277",
-      "name": "大甲東",
+      "id": "0354",
+      "name": "鎮政民族路口",
       "seq": 71
     }
   },
@@ -1024,13 +2479,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64983,
-        24.33504
+        120.56252,
+        24.26336
       ]
     },
     "properties": {
-      "id": "2652",
-      "name": "后寮",
+      "id": "3516",
+      "name": "中華民族路口",
       "seq": 72
     }
   },
@@ -1039,13 +2494,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6515,
-        24.33252
+        120.55942,
+        24.25846
       ]
     },
     "properties": {
-      "id": "5433",
-      "name": "外埔老人文康中心",
+      "id": "6025",
+      "name": "中華南華路口",
       "seq": 73
     }
   },
@@ -1054,13 +2509,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.65461,
-        24.33211
+        120.55822,
+        24.25653
       ]
     },
     "properties": {
-      "id": "3548",
-      "name": "外埔區公所",
+      "id": "3523",
+      "name": "中華長春路口",
       "seq": 74
     }
   },
@@ -1069,13 +2524,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.65563,
-        24.33787
+        120.55714,
+        24.25399
       ]
     },
     "properties": {
-      "id": "5349",
-      "name": "中山大馬路口",
+      "id": "5636",
+      "name": "中華田尾巷口",
       "seq": 75
     }
   },
@@ -1084,13 +2539,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.65694,
-        24.33883
+        120.5555,
+        24.25046
       ]
     },
     "properties": {
-      "id": "5348",
-      "name": "大馬中山路口",
+      "id": "3525",
+      "name": "中華大智路口",
       "seq": 76
     }
   },
@@ -1099,13 +2554,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.66195,
-        24.34008
+        120.55444,
+        24.24864
       ]
     },
     "properties": {
-      "id": "5962",
-      "name": "中山里福德祠",
+      "id": "5462",
+      "name": "中華路201巷口",
       "seq": 77
     }
   },
@@ -1114,13 +2569,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.67227,
-        24.34153
+        120.55659,
+        24.24273
       ]
     },
     "properties": {
-      "id": "3114",
-      "name": "頂竹圍",
+      "id": "1482",
+      "name": "中港國小",
       "seq": 78
     }
   },
@@ -1129,13 +2584,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.67548,
-        24.3439
+        120.56004,
+        24.23932
       ]
     },
     "properties": {
-      "id": "6026",
-      "name": "崎頂(土城路)",
+      "id": "5135",
+      "name": "第一銀行(沙鹿分行)",
       "seq": 79
     }
   },
@@ -1144,28 +2599,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.56915,
-        24.22193
+        120.55985,
+        24.23763
       ]
     },
     "properties": {
-      "id": "5785",
-      "name": "福興(鎮南路)",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68193,
-        24.3445
-      ]
-    },
-    "properties": {
-      "id": "2726",
-      "name": "風坑",
+      "id": "4681",
+      "name": "沙鹿市場",
       "seq": 80
     }
   },
@@ -1174,13 +2614,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68384,
-        24.34478
+        120.55931,
+        24.23602
       ]
     },
     "properties": {
-      "id": "5325",
-      "name": "土城部子路口",
+      "id": "4815",
+      "name": "沙鹿火車站",
       "seq": 81
     }
   },
@@ -1189,13 +2629,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6849,
-        24.3475
+        120.5632,
+        24.23335
       ]
     },
     "properties": {
-      "id": "5963",
-      "name": "?子路5鄰",
+      "id": "5794",
+      "name": "沙鹿國中(鎮南路)",
       "seq": 82
     }
   },
@@ -1204,13 +2644,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6854,
-        24.3494
+        120.56586,
+        24.23197
       ]
     },
     "properties": {
-      "id": "3751",
-      "name": "蔗部",
+      "id": "4817",
+      "name": "沙鹿區公所",
       "seq": 83
     }
   },
@@ -1219,13 +2659,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6868,
-        24.3515
+        120.56715,
+        24.22861
       ]
     },
     "properties": {
-      "id": "5964",
-      "name": "觀園庄",
+      "id": "2362",
+      "name": "明泰社區",
       "seq": 84
     }
   },
@@ -1234,74 +2674,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6932,
-        24.349
+        120.56802,
+        24.2263
       ]
     },
     "properties": {
-      "id": "5965",
-      "name": "?子中路",
+      "id": "5681",
+      "name": "鎮南福至路口",
       "seq": 85
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.6968,
-        24.3476
-      ]
-    },
-    "properties": {
-      "id": "5966",
-      "name": "福德祠(?子路)",
-      "seq": 86
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69968,
-        24.34664
-      ]
-    },
-    "properties": {
-      "id": "1243",
-      "name": "上部仔",
-      "seq": 87
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.70467,
-        24.34492
-      ]
-    },
-    "properties": {
-      "id": "1264",
-      "name": "土城",
-      "seq": 88
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.70711,
-        24.34294
-      ]
-    },
-    "properties": {
-      "id": "5617",
-      "name": "安定",
-      "seq": 89
     }
   },
   {
@@ -1316,7 +2696,7 @@
     "properties": {
       "id": "1796",
       "name": "北勢頭",
-      "seq": 9
+      "seq": 86
     }
   },
   {
@@ -1324,14 +2704,119 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.71186,
-        24.33649
+        120.56915,
+        24.22193
       ]
     },
     "properties": {
-      "id": "0976",
-      "name": "一安定",
+      "id": "5785",
+      "name": "福興(鎮南路)",
+      "seq": 87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56971,
+        24.21931
+      ]
+    },
+    "properties": {
+      "id": "3529",
+      "name": "鎮南平等路口",
+      "seq": 88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57082,
+        24.21652
+      ]
+    },
+    "properties": {
+      "id": "2361",
+      "name": "明秀",
+      "seq": 89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57032,
+        24.21241
+      ]
+    },
+    "properties": {
+      "id": "1782",
+      "name": "北埔仔",
       "seq": 90
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57174,
+        24.21114
+      ]
+    },
+    "properties": {
+      "id": "5751",
+      "name": "正英二街口",
+      "seq": 91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57388,
+        24.21055
+      ]
+    },
+    "properties": {
+      "id": "3530",
+      "name": "正英鎮南路口",
+      "seq": 92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57606,
+        24.20963
+      ]
+    },
+    "properties": {
+      "id": "5429",
+      "name": "正英七街口",
+      "seq": 93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58033,
+        24.20961
+      ]
+    },
+    "properties": {
+      "id": "3531",
+      "name": "正英臺灣大道口",
+      "seq": 94
     }
   }
 ]

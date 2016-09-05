@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.5995,
+        24.13875
+      ]
+    },
+    "properties": {
+      "id": "0810",
+      "name": "復興電台",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60206,
+        24.13601
+      ]
+    },
+    "properties": {
+      "id": "5161",
+      "name": "嶺東科大第二校區",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60497,
+        24.13632
+      ]
+    },
+    "properties": {
+      "id": "0058",
+      "name": "東光公司",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60705,
+        24.13638
+      ]
+    },
+    "properties": {
+      "id": "0941",
+      "name": "嶺東三站",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6093,
+        24.13673
+      ]
+    },
+    "properties": {
+      "id": "1411",
+      "name": "干城六村",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61014,
+        24.1371
+      ]
+    },
+    "properties": {
+      "id": "5319",
+      "name": "嶺東科技大學(嶺東路)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61119,
+        24.1385
+      ]
+    },
+    "properties": {
+      "id": "3874",
+      "name": "嶺東高中",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61326,
+        24.13884
+      ]
+    },
+    "properties": {
+      "id": "4598",
+      "name": "春社里(永春南路)",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.62191,
         24.14012
       ]
@@ -139,13 +259,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64692,
-        24.13735
+        120.64701,
+        24.13733
       ]
     },
     "properties": {
-      "id": "0771",
-      "name": "清真寺",
+      "id": "6071",
+      "name": "南屯文心路口",
       "seq": 18
     }
   },
@@ -159,24 +279,9 @@
       ]
     },
     "properties": {
-      "id": "0577",
-      "name": "田心仔",
+      "id": "6072",
+      "name": "田心仔(清真寺)",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.5995,
-        24.13875
-      ]
-    },
-    "properties": {
-      "id": "0810",
-      "name": "復興電台",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60206,
-        24.13601
-      ]
-    },
-    "properties": {
-      "id": "5161",
-      "name": "嶺東科大第二校區",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.66647,
         24.14074
       ]
@@ -492,21 +582,6 @@
       "id": "0402",
       "name": "干城站",
       "seq": 39
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.60497,
-        24.13632
-      ]
-    },
-    "properties": {
-      "id": "0058",
-      "name": "東光公司",
-      "seq": 4
     }
   },
   {
@@ -664,21 +739,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60705,
-        24.13638
-      ]
-    },
-    "properties": {
-      "id": "0941",
-      "name": "嶺東三站",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.66559,
         24.13853
       ]
@@ -829,28 +889,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6093,
-        24.13673
-      ]
-    },
-    "properties": {
-      "id": "1411",
-      "name": "干城六村",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.64879,
         24.13691
       ]
     },
     "properties": {
-      "id": "0577",
-      "name": "田心仔",
+      "id": "6072",
+      "name": "田心仔(清真寺)",
       "seq": 60
     }
   },
@@ -859,13 +904,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64689,
-        24.13734
+        120.64693,
+        24.13733
       ]
     },
     "properties": {
-      "id": "0771",
-      "name": "清真寺",
+      "id": "6071",
+      "name": "南屯文心路口",
       "seq": 61
     }
   },
@@ -987,21 +1032,6 @@
       "id": "0910",
       "name": "劉厝里",
       "seq": 69
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.61014,
-        24.1371
-      ]
-    },
-    "properties": {
-      "id": "5319",
-      "name": "嶺東科技大學(嶺東路)",
-      "seq": 7
     }
   },
   {
@@ -1137,36 +1167,6 @@
       "id": "5796",
       "name": "仁友停車場",
       "seq": 78
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.61119,
-        24.1385
-      ]
-    },
-    "properties": {
-      "id": "3874",
-      "name": "嶺東高中",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.61326,
-        24.13884
-      ]
-    },
-    "properties": {
-      "id": "4598",
-      "name": "春社里(永春南路)",
-      "seq": 9
     }
   }
 ]

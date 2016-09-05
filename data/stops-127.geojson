@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.64605,
+        24.13206
+      ]
+    },
+    "properties": {
+      "id": "0028",
+      "name": "慈濟靜思堂(文心南五路)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64853,
+        24.13201
+      ]
+    },
+    "properties": {
+      "id": "4030",
+      "name": "好市多",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6511,
+        24.13208
+      ]
+    },
+    "properties": {
+      "id": "4970",
+      "name": "文心南五路260巷口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65312,
+        24.13231
+      ]
+    },
+    "properties": {
+      "id": "4029",
+      "name": "愛心家園",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65317,
+        24.13627
+      ]
+    },
+    "properties": {
+      "id": "0664",
+      "name": "東興南屯路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65303,
+        24.1388
+      ]
+    },
+    "properties": {
+      "id": "1367",
+      "name": "東興大墩二街口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65306,
+        24.14245
+      ]
+    },
+    "properties": {
+      "id": "1368",
+      "name": "東興大墩五街口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65307,
+        24.14526
+      ]
+    },
+    "properties": {
+      "id": "0870",
+      "name": "萬壽棒球場(東興路)",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.65301,
         24.1494
       ]
@@ -100,7 +220,7 @@
     },
     "properties": {
       "id": "5659",
-      "name": "漢口台灣大道口",
+      "name": "漢口臺灣大道口",
       "seq": 15
     }
   },
@@ -162,21 +282,6 @@
       "id": "4163",
       "name": "三信公園",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.64605,
-        24.13206
-      ]
-    },
-    "properties": {
-      "id": "0028",
-      "name": "慈濟靜思堂(文心南五路)",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64853,
-        24.13201
-      ]
-    },
-    "properties": {
-      "id": "4030",
-      "name": "好市多",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.69118,
         24.17083
       ]
@@ -499,21 +589,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6511,
-        24.13208
-      ]
-    },
-    "properties": {
-      "id": "4970",
-      "name": "文心南五路260巷口",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.68634,
         24.18967
       ]
@@ -589,13 +664,73 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.65312,
-        24.13231
+        120.6944,
+        24.20082
       ]
     },
     "properties": {
-      "id": "4029",
-      "name": "愛心家園",
+      "id": "5917",
+      "name": "環中豐樂路口",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69549,
+        24.20137
+      ]
+    },
+    "properties": {
+      "id": "5918",
+      "name": "仁美里(環中路)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68864,
+        24.20135
+      ]
+    },
+    "properties": {
+      "id": "5928",
+      "name": "環中長生巷口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68662,
+        24.19626
+      ]
+    },
+    "properties": {
+      "id": "3818",
+      "name": "錦村市場",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68648,
+        24.19325
+      ]
+    },
+    "properties": {
+      "id": "4252",
+      "name": "崇德豐樂路口",
       "seq": 5
     }
   },
@@ -604,13 +739,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.65317,
-        24.13627
+        120.68634,
+        24.18967
       ]
     },
     "properties": {
-      "id": "0664",
-      "name": "東興南屯路口",
+      "id": "2959",
+      "name": "崇德十路口",
       "seq": 6
     }
   },
@@ -619,14 +754,479 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.65303,
-        24.1388
+        120.68619,
+        24.18759
       ]
     },
     "properties": {
-      "id": "1367",
-      "name": "東興大墩二街口",
+      "id": "2958",
+      "name": "崇德九路口",
       "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68631,
+        24.18507
+      ]
+    },
+    "properties": {
+      "id": "1393",
+      "name": "崇德山西路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68611,
+        24.1826
+      ]
+    },
+    "properties": {
+      "id": "0194",
+      "name": "北屯區行政大樓",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68901,
+        24.18136
+      ]
+    },
+    "properties": {
+      "id": "0321",
+      "name": "三分埔",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68968,
+        24.18045
+      ]
+    },
+    "properties": {
+      "id": "0676",
+      "name": "松竹國小",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69061,
+        24.17854
+      ]
+    },
+    "properties": {
+      "id": "5077",
+      "name": "頂頭張(昌平路)",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69036,
+        24.17661
+      ]
+    },
+    "properties": {
+      "id": "5078",
+      "name": "頭張(昌平路)",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69046,
+        24.1747
+      ]
+    },
+    "properties": {
+      "id": "5102",
+      "name": "民俗公園(昌平路)",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69073,
+        24.17234
+      ]
+    },
+    "properties": {
+      "id": "4565",
+      "name": "昌平文心路口",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69115,
+        24.17105
+      ]
+    },
+    "properties": {
+      "id": "0793",
+      "name": "頂二分埔",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69206,
+        24.16924
+      ]
+    },
+    "properties": {
+      "id": "0330",
+      "name": "下二分埔",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69188,
+        24.16733
+      ]
+    },
+    "properties": {
+      "id": "5845",
+      "name": "文昌國小(興安路)",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68975,
+        24.16698
+      ]
+    },
+    "properties": {
+      "id": "4986",
+      "name": "漢口興安路口",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68765,
+        24.16695
+      ]
+    },
+    "properties": {
+      "id": "4985",
+      "name": "漢口熱河路口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68315,
+        24.16705
+      ]
+    },
+    "properties": {
+      "id": "4172",
+      "name": "漢口永興街口",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67883,
+        24.1671
+      ]
+    },
+    "properties": {
+      "id": "4175",
+      "name": "賴厝國小",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67601,
+        24.16693
+      ]
+    },
+    "properties": {
+      "id": "4984",
+      "name": "漢口山西路口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67414,
+        24.16699
+      ]
+    },
+    "properties": {
+      "id": "4644",
+      "name": "曉明女中(漢口路)",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67163,
+        24.16689
+      ]
+    },
+    "properties": {
+      "id": "6070",
+      "name": "漢口漢陽街口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66863,
+        24.16689
+      ]
+    },
+    "properties": {
+      "id": "4170",
+      "name": "漢口大飯店",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66621,
+        24.16686
+      ]
+    },
+    "properties": {
+      "id": "4164",
+      "name": "中華國小",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66347,
+        24.16609
+      ]
+    },
+    "properties": {
+      "id": "4163",
+      "name": "三信公園",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66128,
+        24.16482
+      ]
+    },
+    "properties": {
+      "id": "0358",
+      "name": "漢口大信街口",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65928,
+        24.16388
+      ]
+    },
+    "properties": {
+      "id": "4983",
+      "name": "漢口西屯路口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65681,
+        24.16136
+      ]
+    },
+    "properties": {
+      "id": "0119",
+      "name": "漢口國中",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65636,
+        24.15996
+      ]
+    },
+    "properties": {
+      "id": "5659",
+      "name": "漢口臺灣大道口",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65563,
+        24.15863
+      ]
+    },
+    "properties": {
+      "id": "0572",
+      "name": "永豐棧酒店",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65452,
+        24.15671
+      ]
+    },
+    "properties": {
+      "id": "0665",
+      "name": "東興停車場",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65316,
+        24.15463
+      ]
+    },
+    "properties": {
+      "id": "0666",
+      "name": "東興國小",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.653,
+        24.1516
+      ]
+    },
+    "properties": {
+      "id": "0458",
+      "name": "東興公益路口",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65301,
+        24.1494
+      ]
+    },
+    "properties": {
+      "id": "0380",
+      "name": "東興大墩十二街口",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65302,
+        24.14551
+      ]
+    },
+    "properties": {
+      "id": "0870",
+      "name": "萬壽棒球場(東興路)",
+      "seq": 38
     }
   },
   {
@@ -641,7 +1241,7 @@
     "properties": {
       "id": "1368",
       "name": "東興大墩五街口",
-      "seq": 8
+      "seq": 39
     }
   },
   {
@@ -649,14 +1249,104 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.65307,
-        24.14526
+        120.65303,
+        24.1388
       ]
     },
     "properties": {
-      "id": "0870",
-      "name": "萬壽棒球場(東興路)",
-      "seq": 9
+      "id": "1367",
+      "name": "東興大墩二街口",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65308,
+        24.13622
+      ]
+    },
+    "properties": {
+      "id": "0664",
+      "name": "東興南屯路口",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65312,
+        24.13231
+      ]
+    },
+    "properties": {
+      "id": "4029",
+      "name": "愛心家園",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6511,
+        24.13208
+      ]
+    },
+    "properties": {
+      "id": "4970",
+      "name": "文心南五路260巷口",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64853,
+        24.13201
+      ]
+    },
+    "properties": {
+      "id": "4030",
+      "name": "好市多",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64606,
+        24.13207
+      ]
+    },
+    "properties": {
+      "id": "0028",
+      "name": "慈濟靜思堂(文心南五路)",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.644,
+        24.13125
+      ]
+    },
+    "properties": {
+      "id": "4978",
+      "name": "豐樂雕塑公園",
+      "seq": 46
     }
   }
 ]

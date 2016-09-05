@@ -19,6 +19,111 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.68359,
+        24.13287
+      ]
+    },
+    "properties": {
+      "id": "0049",
+      "name": "第三市場",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68498,
+        24.1304
+      ]
+    },
+    "properties": {
+      "id": "0257",
+      "name": "臺中國小",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68556,
+        24.12981
+      ]
+    },
+    "properties": {
+      "id": "5647",
+      "name": "興大附農(建成路)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68796,
+        24.13072
+      ]
+    },
+    "properties": {
+      "id": "2029",
+      "name": "建成立德街口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6899,
+        24.13148
+      ]
+    },
+    "properties": {
+      "id": "4655",
+      "name": "建成大智路口",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69233,
+        24.13251
+      ]
+    },
+    "properties": {
+      "id": "4362",
+      "name": "建成大振街口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69397,
+        24.13319
+      ]
+    },
+    "properties": {
+      "id": "0188",
+      "name": "大東紡織(建成路)",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.6961,
         24.13468
       ]
@@ -237,111 +342,6 @@
       "id": "5113",
       "name": "東山高中(太原路)",
       "seq": 24
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68359,
-        24.13287
-      ]
-    },
-    "properties": {
-      "id": "0049",
-      "name": "第三市場",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68498,
-        24.1304
-      ]
-    },
-    "properties": {
-      "id": "0257",
-      "name": "臺中國小",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68556,
-        24.12981
-      ]
-    },
-    "properties": {
-      "id": "5647",
-      "name": "興大附農(建成路)",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68796,
-        24.13072
-      ]
-    },
-    "properties": {
-      "id": "2029",
-      "name": "建成立德街口",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.6899,
-        24.13148
-      ]
-    },
-    "properties": {
-      "id": "4655",
-      "name": "建成大智路口",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69233,
-        24.13251
-      ]
-    },
-    "properties": {
-      "id": "4362",
-      "name": "建成大振街口",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69397,
-        24.13319
-      ]
-    },
-    "properties": {
-      "id": "0188",
-      "name": "大東紡織(建成路)",
-      "seq": 9
     }
   }
 ]

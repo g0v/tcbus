@@ -19,96 +19,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.61552,
-        24.11184
-      ]
-    },
-    "properties": {
-      "id": "2907",
-      "name": "高鐵臺中站",
-      "seq": 14
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69721,
-        24.05548
-      ]
-    },
-    "properties": {
-      "id": "2692",
-      "name": "省議會",
-      "seq": 25
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69793,
-        24.05764
-      ]
-    },
-    "properties": {
-      "id": "3976",
-      "name": "霧峰國小",
-      "seq": 26
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69807,
-        24.05974
-      ]
-    },
-    "properties": {
-      "id": "5546",
-      "name": "教育部國教署",
-      "seq": 27
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69847,
-        24.06252
-      ]
-    },
-    "properties": {
-      "id": "3978",
-      "name": "霧峰郵局",
-      "seq": 28
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69867,
-        24.0641
-      ]
-    },
-    "properties": {
-      "id": "3972",
-      "name": "霧峰",
-      "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.64692,
         24.16435
       ]
@@ -117,66 +27,6 @@
       "id": "0017",
       "name": "臺中市政府",
       "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.6989,
-        24.067
-      ]
-    },
-    "properties": {
-      "id": "4972",
-      "name": "中正草湖路口",
-      "seq": 30
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69928,
-        24.0697
-      ]
-    },
-    "properties": {
-      "id": "1994",
-      "name": "甲寅",
-      "seq": 31
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69986,
-        24.07332
-      ]
-    },
-    "properties": {
-      "id": "3980",
-      "name": "霧峰農工",
-      "seq": 32
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69952,
-        24.07654
-      ]
-    },
-    "properties": {
-      "id": "2062",
-      "name": "中正吉峰路口",
-      "seq": 33
     }
   },
   {
@@ -222,6 +72,906 @@
       "id": "5788",
       "name": "朝馬2(臺灣大道)",
       "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61552,
+        24.11184
+      ]
+    },
+    "properties": {
+      "id": "2907",
+      "name": "高鐵臺中站",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6962,
+        24.0557
+      ]
+    },
+    "properties": {
+      "id": "6085",
+      "name": "林森中正路口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6956,
+        24.0585
+      ]
+    },
+    "properties": {
+      "id": "6086",
+      "name": "林森福新路口",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68643,
+        24.05344
+      ]
+    },
+    "properties": {
+      "id": "6107",
+      "name": "亞大醫院",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68497,
+        24.05166
+      ]
+    },
+    "properties": {
+      "id": "5200",
+      "name": "福新柳豐路口",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68648,
+        24.04933
+      ]
+    },
+    "properties": {
+      "id": "5815",
+      "name": "新厝路550巷口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68756,
+        24.04662
+      ]
+    },
+    "properties": {
+      "id": "5529",
+      "name": "亞洲大學安藤館",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6886,
+        24.04377
+      ]
+    },
+    "properties": {
+      "id": "4413",
+      "name": "王厝",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68992,
+        24.04306
+      ]
+    },
+    "properties": {
+      "id": "4629",
+      "name": "光復國中小(柳豐路)",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69218,
+        24.04549
+      ]
+    },
+    "properties": {
+      "id": "5997",
+      "name": "坑口里(光復新村)",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69403,
+        24.0495
+      ]
+    },
+    "properties": {
+      "id": "1026",
+      "name": "八德橋",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69721,
+        24.05548
+      ]
+    },
+    "properties": {
+      "id": "2692",
+      "name": "省議會",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69793,
+        24.05764
+      ]
+    },
+    "properties": {
+      "id": "3976",
+      "name": "霧峰國小",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69807,
+        24.05974
+      ]
+    },
+    "properties": {
+      "id": "5546",
+      "name": "教育部國教署",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69847,
+        24.06252
+      ]
+    },
+    "properties": {
+      "id": "3978",
+      "name": "霧峰郵局",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69867,
+        24.0641
+      ]
+    },
+    "properties": {
+      "id": "3972",
+      "name": "霧峰",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6989,
+        24.067
+      ]
+    },
+    "properties": {
+      "id": "4972",
+      "name": "中正草湖路口",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69928,
+        24.0697
+      ]
+    },
+    "properties": {
+      "id": "1994",
+      "name": "甲寅",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69986,
+        24.07332
+      ]
+    },
+    "properties": {
+      "id": "3980",
+      "name": "霧峰農工",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7011,
+        24.0758
+      ]
+    },
+    "properties": {
+      "id": "3973",
+      "name": "霧峰分局",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70709,
+        24.07648
+      ]
+    },
+    "properties": {
+      "id": "1944",
+      "name": "全陽社區",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71098,
+        24.07694
+      ]
+    },
+    "properties": {
+      "id": "2061",
+      "name": "吉峰社區",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71508,
+        24.07707
+      ]
+    },
+    "properties": {
+      "id": "1844",
+      "name": "台影文化城",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71533,
+        24.07632
+      ]
+    },
+    "properties": {
+      "id": "2059",
+      "name": "吉峰里",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71458,
+        24.07505
+      ]
+    },
+    "properties": {
+      "id": "2060",
+      "name": "吉峰東路口",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71505,
+        24.07375
+      ]
+    },
+    "properties": {
+      "id": "6073",
+      "name": "吉峰東自強路口",
+      "seq": 50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71551,
+        24.07041
+      ]
+    },
+    "properties": {
+      "id": "3246",
+      "name": "朝陽科技大學",
+      "seq": 51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71551,
+        24.07041
+      ]
+    },
+    "properties": {
+      "id": "3246",
+      "name": "朝陽科技大學",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71505,
+        24.07375
+      ]
+    },
+    "properties": {
+      "id": "6073",
+      "name": "吉峰東自強路口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71458,
+        24.07505
+      ]
+    },
+    "properties": {
+      "id": "2060",
+      "name": "吉峰東路口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71533,
+        24.07632
+      ]
+    },
+    "properties": {
+      "id": "2059",
+      "name": "吉峰里",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71508,
+        24.07707
+      ]
+    },
+    "properties": {
+      "id": "1844",
+      "name": "台影文化城",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71098,
+        24.07694
+      ]
+    },
+    "properties": {
+      "id": "2061",
+      "name": "吉峰社區",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70709,
+        24.07648
+      ]
+    },
+    "properties": {
+      "id": "1944",
+      "name": "全陽社區",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7011,
+        24.0758
+      ]
+    },
+    "properties": {
+      "id": "3973",
+      "name": "霧峰分局",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69986,
+        24.07332
+      ]
+    },
+    "properties": {
+      "id": "3980",
+      "name": "霧峰農工",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69928,
+        24.0697
+      ]
+    },
+    "properties": {
+      "id": "1994",
+      "name": "甲寅",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6989,
+        24.067
+      ]
+    },
+    "properties": {
+      "id": "4972",
+      "name": "中正草湖路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69867,
+        24.0641
+      ]
+    },
+    "properties": {
+      "id": "3972",
+      "name": "霧峰",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69847,
+        24.06252
+      ]
+    },
+    "properties": {
+      "id": "3978",
+      "name": "霧峰郵局",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69807,
+        24.05974
+      ]
+    },
+    "properties": {
+      "id": "5546",
+      "name": "教育部國教署",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69793,
+        24.05764
+      ]
+    },
+    "properties": {
+      "id": "3976",
+      "name": "霧峰國小",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69721,
+        24.05548
+      ]
+    },
+    "properties": {
+      "id": "2692",
+      "name": "省議會",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69403,
+        24.0495
+      ]
+    },
+    "properties": {
+      "id": "1026",
+      "name": "八德橋",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69218,
+        24.04549
+      ]
+    },
+    "properties": {
+      "id": "5997",
+      "name": "坑口里(光復新村)",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68992,
+        24.04306
+      ]
+    },
+    "properties": {
+      "id": "4629",
+      "name": "光復國中小(柳豐路)",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6886,
+        24.04377
+      ]
+    },
+    "properties": {
+      "id": "4413",
+      "name": "王厝",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68756,
+        24.04662
+      ]
+    },
+    "properties": {
+      "id": "5529",
+      "name": "亞洲大學安藤館",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68648,
+        24.04933
+      ]
+    },
+    "properties": {
+      "id": "5815",
+      "name": "新厝路550巷口",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68497,
+        24.05166
+      ]
+    },
+    "properties": {
+      "id": "5200",
+      "name": "福新柳豐路口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68643,
+        24.05344
+      ]
+    },
+    "properties": {
+      "id": "6107",
+      "name": "亞大醫院",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6953,
+        24.0584
+      ]
+    },
+    "properties": {
+      "id": "6086",
+      "name": "林森福新路口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.696,
+        24.0554
+      ]
+    },
+    "properties": {
+      "id": "6085",
+      "name": "林森中正路口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61552,
+        24.11184
+      ]
+    },
+    "properties": {
+      "id": "2907",
+      "name": "高鐵臺中站",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6356,
+        24.1722
+      ]
+    },
+    "properties": {
+      "id": "5788",
+      "name": "朝馬2(臺灣大道)",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63717,
+        24.17059
+      ]
+    },
+    "properties": {
+      "id": "0054",
+      "name": "朝馬(臺灣大道)",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63957,
+        24.16852
+      ]
+    },
+    "properties": {
+      "id": "0826",
+      "name": "秋紅谷(朝陽橋)",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64431,
+        24.16537
+      ]
+    },
+    "properties": {
+      "id": "0016",
+      "name": "新光三越",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64738,
+        24.16364
+      ]
+    },
+    "properties": {
+      "id": "0017",
+      "name": "臺中市政府",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64759,
+        24.15935
+      ]
+    },
+    "properties": {
+      "id": "0019",
+      "name": "市警局",
+      "seq": 50
     }
   }
 ]

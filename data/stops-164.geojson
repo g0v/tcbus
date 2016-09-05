@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.56503,
+        24.26848
+      ]
+    },
+    "properties": {
+      "id": "3700",
+      "name": "銀聯二村",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56825,
+        24.26844
+      ]
+    },
+    "properties": {
+      "id": "2486",
+      "name": "社口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57017,
+        24.2693
+      ]
+    },
+    "properties": {
+      "id": "5655",
+      "name": "鰲峰西社路口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57521,
+        24.26918
+      ]
+    },
+    "properties": {
+      "id": "1615",
+      "name": "分局前",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57509,
+        24.26792
+      ]
+    },
+    "properties": {
+      "id": "5141",
+      "name": "華南銀行(清水分行)",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57484,
+        24.26623
+      ]
+    },
+    "properties": {
+      "id": "5568",
+      "name": "清水高中(學園街)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58249,
+        24.2659
+      ]
+    },
+    "properties": {
+      "id": "4137",
+      "name": "嘉陽高中",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58794,
+        24.26415
+      ]
+    },
+    "properties": {
+      "id": "5033",
+      "name": "國仕加油站",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.59534,
         24.26088
       ]
@@ -169,21 +289,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.56503,
-        24.26848
-      ]
-    },
-    "properties": {
-      "id": "3700",
-      "name": "銀聯二村",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.61354,
         24.29099
       ]
@@ -199,13 +304,43 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.56825,
-        24.26844
+        120.61588,
+        24.28928
       ]
     },
     "properties": {
-      "id": "2486",
-      "name": "社口",
+      "id": "3448",
+      "name": "楊厝里",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61336,
+        24.28537
+      ]
+    },
+    "properties": {
+      "id": "1203",
+      "name": "下楊厝里",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61307,
+        24.27969
+      ]
+    },
+    "properties": {
+      "id": "3071",
+      "name": "許厝里",
       "seq": 3
     }
   },
@@ -214,13 +349,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.57017,
-        24.2693
+        120.61122,
+        24.27619
       ]
     },
     "properties": {
-      "id": "5655",
-      "name": "鰲峰西社路口",
+      "id": "3119",
+      "name": "頂吳厝里",
       "seq": 4
     }
   },
@@ -229,13 +364,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.57521,
-        24.26918
+        120.60756,
+        24.26899
       ]
     },
     "properties": {
-      "id": "1615",
-      "name": "分局前",
+      "id": "3434",
+      "name": "新興社區",
       "seq": 5
     }
   },
@@ -244,13 +379,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.57509,
-        24.26792
+        120.60629,
+        24.26658
       ]
     },
     "properties": {
-      "id": "5141",
-      "name": "華南銀行(清水分行)",
+      "id": "2223",
+      "name": "吳厝里",
       "seq": 6
     }
   },
@@ -259,13 +394,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.57484,
-        24.26623
+        120.60411,
+        24.26231
       ]
     },
     "properties": {
-      "id": "5568",
-      "name": "清水高中(學園街)",
+      "id": "3295",
+      "name": "澔明公司",
       "seq": 7
     }
   },
@@ -274,14 +409,44 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.58249,
-        24.2659
+        120.602,
+        24.25926
       ]
     },
     "properties": {
-      "id": "4137",
-      "name": "嘉陽高中",
+      "id": "4790",
+      "name": "友仁公司",
       "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59843,
+        24.25989
+      ]
+    },
+    "properties": {
+      "id": "4101",
+      "name": "西勢里",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59535,
+        24.2609
+      ]
+    },
+    "properties": {
+      "id": "4083",
+      "name": "公館國小",
+      "seq": 10
     }
   },
   {
@@ -296,7 +461,127 @@
     "properties": {
       "id": "5033",
       "name": "國仕加油站",
-      "seq": 9
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58273,
+        24.26616
+      ]
+    },
+    "properties": {
+      "id": "4137",
+      "name": "嘉陽高中",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57484,
+        24.26623
+      ]
+    },
+    "properties": {
+      "id": "5568",
+      "name": "清水高中(學園街)",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57509,
+        24.26792
+      ]
+    },
+    "properties": {
+      "id": "5141",
+      "name": "華南銀行(清水分行)",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57521,
+        24.26918
+      ]
+    },
+    "properties": {
+      "id": "1615",
+      "name": "分局前",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57017,
+        24.2693
+      ]
+    },
+    "properties": {
+      "id": "5655",
+      "name": "鰲峰西社路口",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56825,
+        24.26844
+      ]
+    },
+    "properties": {
+      "id": "2486",
+      "name": "社口",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56503,
+        24.26848
+      ]
+    },
+    "properties": {
+      "id": "3700",
+      "name": "銀聯二村",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56293,
+        24.26786
+      ]
+    },
+    "properties": {
+      "id": "3017",
+      "name": "清水國中",
+      "seq": 19
     }
   }
 ]

@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.62439,
+        24.23497
+      ]
+    },
+    "properties": {
+      "id": "2350",
+      "name": "忠義市場(原民中心)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62584,
+        24.23703
+      ]
+    },
+    "properties": {
+      "id": "5030",
+      "name": "六寶公園",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63098,
+        24.24016
+      ]
+    },
+    "properties": {
+      "id": "1591",
+      "name": "六張犁",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63194,
+        24.23922
+      ]
+    },
+    "properties": {
+      "id": "2289",
+      "name": "亞東公司",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64296,
+        24.22846
+      ]
+    },
+    "properties": {
+      "id": "4651",
+      "name": "大明國小(中清路)",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64805,
+        24.22288
+      ]
+    },
+    "properties": {
+      "id": "1346",
+      "name": "大雅",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64799,
+        24.21971
+      ]
+    },
+    "properties": {
+      "id": "4306",
+      "name": "中清雅潭路口",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64909,
+        24.21724
+      ]
+    },
+    "properties": {
+      "id": "2558",
+      "name": "南大雅",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.64951,
         24.21475
       ]
@@ -169,21 +289,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62439,
-        24.23497
-      ]
-    },
-    "properties": {
-      "id": "2350",
-      "name": "忠義市場(原民中心)",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.68484,
         24.15177
       ]
@@ -236,7 +341,7 @@
     "properties": {
       "id": "0041",
       "name": "臺中火車站",
-      "seq": 23
+      "seq": 25
     }
   },
   {
@@ -244,13 +349,43 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62584,
-        24.23703
+        120.68465,
+        24.13784
       ]
     },
     "properties": {
-      "id": "5030",
-      "name": "六寶公園",
+      "id": "6018",
+      "name": "臺中火車站(臺灣大道)",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68133,
+        24.14407
+      ]
+    },
+    "properties": {
+      "id": "5506",
+      "name": "光復國小(三民路)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68387,
+        24.14921
+      ]
+    },
+    "properties": {
+      "id": "0045",
+      "name": "國立臺中科技大學",
       "seq": 3
     }
   },
@@ -259,13 +394,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.63098,
-        24.24016
+        120.68514,
+        24.15241
       ]
     },
     "properties": {
-      "id": "1591",
-      "name": "六張犁",
+      "id": "0046",
+      "name": "中友百貨",
       "seq": 4
     }
   },
@@ -274,13 +409,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.63194,
-        24.23922
+        120.67864,
+        24.15177
       ]
     },
     "properties": {
-      "id": "2289",
-      "name": "亞東公司",
+      "id": "0145",
+      "name": "光大里",
       "seq": 5
     }
   },
@@ -289,13 +424,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64296,
-        24.22846
+        120.67733,
+        24.15247
       ]
     },
     "properties": {
-      "id": "4651",
-      "name": "大明國小(中清路)",
+      "id": "0503",
+      "name": "臺中二中",
       "seq": 6
     }
   },
@@ -304,13 +439,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64805,
-        24.22288
+        120.67332,
+        24.16651
       ]
     },
     "properties": {
-      "id": "1346",
-      "name": "大雅",
+      "id": "5736",
+      "name": "中清漢口路口",
       "seq": 7
     }
   },
@@ -319,13 +454,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64799,
-        24.21971
+        120.67292,
+        24.16835
       ]
     },
     "properties": {
-      "id": "4306",
-      "name": "中清雅潭路口",
+      "id": "5737",
+      "name": "曉明女中(中清路)",
       "seq": 8
     }
   },
@@ -334,14 +469,209 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64909,
-        24.21724
+        120.67218,
+        24.17062
+      ]
+    },
+    "properties": {
+      "id": "1629",
+      "name": "天津路商圈",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67008,
+        24.17636
+      ]
+    },
+    "properties": {
+      "id": "0486",
+      "name": "水湳",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66916,
+        24.17756
+      ]
+    },
+    "properties": {
+      "id": "5100",
+      "name": "水湳市場(中清路)",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66815,
+        24.17894
+      ]
+    },
+    "properties": {
+      "id": "0385",
+      "name": "大德國中",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64956,
+        24.21521
+      ]
+    },
+    "properties": {
+      "id": "1345",
+      "name": "大華國中",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64923,
+        24.21697
       ]
     },
     "properties": {
       "id": "2558",
       "name": "南大雅",
-      "seq": 9
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64808,
+        24.2198
+      ]
+    },
+    "properties": {
+      "id": "4306",
+      "name": "中清雅潭路口",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64804,
+        24.22356
+      ]
+    },
+    "properties": {
+      "id": "1346",
+      "name": "大雅",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64288,
+        24.22874
+      ]
+    },
+    "properties": {
+      "id": "4651",
+      "name": "大明國小(中清路)",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63238,
+        24.23905
+      ]
+    },
+    "properties": {
+      "id": "2289",
+      "name": "亞東公司",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63124,
+        24.24015
+      ]
+    },
+    "properties": {
+      "id": "1591",
+      "name": "六張犁",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62584,
+        24.23705
+      ]
+    },
+    "properties": {
+      "id": "5030",
+      "name": "六寶公園",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62448,
+        24.2351
+      ]
+    },
+    "properties": {
+      "id": "2350",
+      "name": "忠義市場(原民中心)",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62391,
+        24.23109
+      ]
+    },
+    "properties": {
+      "id": "5110",
+      "name": "忠義里(中科實驗高中)",
+      "seq": 22
     }
   }
 ]

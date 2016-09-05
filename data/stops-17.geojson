@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.69827,
+        24.08061
+      ]
+    },
+    "properties": {
+      "id": "4349",
+      "name": "中興東南路口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69972,
+        24.07591
+      ]
+    },
+    "properties": {
+      "id": "2062",
+      "name": "中正吉峰路口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69981,
+        24.07378
+      ]
+    },
+    "properties": {
+      "id": "3980",
+      "name": "霧峰農工",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69939,
+        24.07032
+      ]
+    },
+    "properties": {
+      "id": "1994",
+      "name": "甲寅",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6989,
+        24.067
+      ]
+    },
+    "properties": {
+      "id": "4972",
+      "name": "中正草湖路口",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69872,
+        24.06418
+      ]
+    },
+    "properties": {
+      "id": "3972",
+      "name": "霧峰",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69829,
+        24.06197
+      ]
+    },
+    "properties": {
+      "id": "3978",
+      "name": "霧峰郵局",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69799,
+        24.05932
+      ]
+    },
+    "properties": {
+      "id": "5546",
+      "name": "教育部國教署",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.69778,
         24.05761
       ]
@@ -64,8 +184,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69236,
-        24.04592
+        120.69218,
+        24.04549
       ]
     },
     "properties": {
@@ -162,21 +282,6 @@
       "id": "5447",
       "name": "峰谷社區",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.69827,
-        24.08061
-      ]
-    },
-    "properties": {
-      "id": "4349",
-      "name": "中興東南路口",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69972,
-        24.07591
-      ]
-    },
-    "properties": {
-      "id": "2062",
-      "name": "中正吉峰路口",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.7327,
         24.03457
       ]
@@ -424,13 +514,58 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69981,
-        24.07378
+        120.73014,
+        24.03869
       ]
     },
     "properties": {
-      "id": "3980",
-      "name": "霧峰農工",
+      "id": "5683",
+      "name": "復興八街口",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72717,
+        24.03848
+      ]
+    },
+    "properties": {
+      "id": "5682",
+      "name": "復興六街口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72375,
+        24.03788
+      ]
+    },
+    "properties": {
+      "id": "5455",
+      "name": "大臺中山莊",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72073,
+        24.03927
+      ]
+    },
+    "properties": {
+      "id": "5454",
+      "name": "福天宮",
       "seq": 4
     }
   },
@@ -439,13 +574,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69939,
-        24.07032
+        120.7327,
+        24.03457
       ]
     },
     "properties": {
-      "id": "1994",
-      "name": "甲寅",
+      "id": "6003",
+      "name": "牛城福德祠",
       "seq": 5
     }
   },
@@ -454,13 +589,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6989,
-        24.067
+        120.7363,
+        24.03548
       ]
     },
     "properties": {
-      "id": "4972",
-      "name": "中正草湖路口",
+      "id": "6004",
+      "name": "峰谷里11鄰",
       "seq": 6
     }
   },
@@ -469,14 +604,314 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69872,
-        24.06418
+        120.7326,
+        24.03448
       ]
     },
     "properties": {
-      "id": "3972",
-      "name": "霧峰",
+      "id": "6003",
+      "name": "牛城福德祠",
       "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72481,
+        24.03552
+      ]
+    },
+    "properties": {
+      "id": "5453",
+      "name": "峰谷國小",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72281,
+        24.03616
+      ]
+    },
+    "properties": {
+      "id": "5452",
+      "name": "峰谷里六鄰",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72097,
+        24.0372
+      ]
+    },
+    "properties": {
+      "id": "5955",
+      "name": "峰谷里公園",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71937,
+        24.0391
+      ]
+    },
+    "properties": {
+      "id": "5451",
+      "name": "峰谷里活動中心",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71791,
+        24.03975
+      ]
+    },
+    "properties": {
+      "id": "5450",
+      "name": "瑪利亞霧峰家園",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71471,
+        24.04001
+      ]
+    },
+    "properties": {
+      "id": "5899",
+      "name": "新峰橋",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70977,
+        24.03833
+      ]
+    },
+    "properties": {
+      "id": "5449",
+      "name": "仙峰宮",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70638,
+        24.0417
+      ]
+    },
+    "properties": {
+      "id": "5448",
+      "name": "峰谷里三鄰",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7031,
+        24.03996
+      ]
+    },
+    "properties": {
+      "id": "5447",
+      "name": "峰谷社區",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70044,
+        24.03939
+      ]
+    },
+    "properties": {
+      "id": "5446",
+      "name": "峰谷里一鄰",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69795,
+        24.03972
+      ]
+    },
+    "properties": {
+      "id": "1396",
+      "name": "山腳",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69509,
+        24.04053
+      ]
+    },
+    "properties": {
+      "id": "5445",
+      "name": "六股里新活動中心",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69398,
+        24.04086
+      ]
+    },
+    "properties": {
+      "id": "0468",
+      "name": "六股(峰谷路)",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69181,
+        24.04138
+      ]
+    },
+    "properties": {
+      "id": "5814",
+      "name": "六股(中正路)",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68992,
+        24.04306
+      ]
+    },
+    "properties": {
+      "id": "4629",
+      "name": "光復國中小(柳豐路)",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69239,
+        24.04561
+      ]
+    },
+    "properties": {
+      "id": "5997",
+      "name": "坑口里(光復新村)",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69403,
+        24.0495
+      ]
+    },
+    "properties": {
+      "id": "1026",
+      "name": "八德橋",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69721,
+        24.05548
+      ]
+    },
+    "properties": {
+      "id": "2692",
+      "name": "省議會",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69793,
+        24.05764
+      ]
+    },
+    "properties": {
+      "id": "3976",
+      "name": "霧峰國小",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69807,
+        24.05974
+      ]
+    },
+    "properties": {
+      "id": "5546",
+      "name": "教育部國教署",
+      "seq": 27
     }
   },
   {
@@ -491,7 +926,7 @@
     "properties": {
       "id": "3978",
       "name": "霧峰郵局",
-      "seq": 8
+      "seq": 28
     }
   },
   {
@@ -499,14 +934,104 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69799,
-        24.05932
+        120.69856,
+        24.06366
       ]
     },
     "properties": {
-      "id": "5546",
-      "name": "教育部國教署",
-      "seq": 9
+      "id": "3972",
+      "name": "霧峰",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6993,
+        24.06829
+      ]
+    },
+    "properties": {
+      "id": "4972",
+      "name": "中正草湖路口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69951,
+        24.06987
+      ]
+    },
+    "properties": {
+      "id": "1994",
+      "name": "甲寅",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69986,
+        24.07332
+      ]
+    },
+    "properties": {
+      "id": "3980",
+      "name": "霧峰農工",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69972,
+        24.07591
+      ]
+    },
+    "properties": {
+      "id": "2062",
+      "name": "中正吉峰路口",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69835,
+        24.08056
+      ]
+    },
+    "properties": {
+      "id": "4349",
+      "name": "中興東南路口",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69728,
+        24.08357
+      ]
+    },
+    "properties": {
+      "id": "2866",
+      "name": "草湖",
+      "seq": 35
     }
   }
 ]

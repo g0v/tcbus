@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.5518,
+        24.13717
+      ]
+    },
+    "properties": {
+      "id": "4038",
+      "name": "崁仔腳",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55358,
+        24.13472
+      ]
+    },
+    "properties": {
+      "id": "5831",
+      "name": "沙田路918巷口",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55397,
+        24.13248
+      ]
+    },
+    "properties": {
+      "id": "2494",
+      "name": "社腳",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.55759,
+        24.12759
+      ]
+    },
+    "properties": {
+      "id": "4514",
+      "name": "營埔里",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56034,
+        24.12584
+      ]
+    },
+    "properties": {
+      "id": "4511",
+      "name": "興國公司",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56207,
+        24.12482
+      ]
+    },
+    "properties": {
+      "id": "2886",
+      "name": "追分郵局",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5645,
+        24.12339
+      ]
+    },
+    "properties": {
+      "id": "1390",
+      "name": "山仔頂",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.56812,
+        24.12203
+      ]
+    },
+    "properties": {
+      "id": "2885",
+      "name": "追分國小",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.57048,
         24.12114
       ]
@@ -162,21 +282,6 @@
       "id": "2742",
       "name": "烏厝巷",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.5518,
-        24.13717
-      ]
-    },
-    "properties": {
-      "id": "4038",
-      "name": "崁仔腳",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.55358,
-        24.13472
-      ]
-    },
-    "properties": {
-      "id": "5831",
-      "name": "沙田路918巷口",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.6512,
         24.11225
       ]
@@ -415,7 +505,7 @@
     },
     "properties": {
       "id": "5870",
-      "name": "宜寧中學(復與路)",
+      "name": "宜寧中學(復興路)",
       "seq": 34
     }
   },
@@ -484,29 +574,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.67196,
-        24.12985
+        120.6711,
+        24.12935
       ]
     },
     "properties": {
       "id": "5393",
       "name": "公共資訊圖書館(復興路)",
       "seq": 39
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.55397,
-        24.13248
-      ]
-    },
-    "properties": {
-      "id": "2494",
-      "name": "社腳",
-      "seq": 4
     }
   },
   {
@@ -529,8 +604,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6764,
-        24.13182
+        120.67573,
+        24.1314
       ]
     },
     "properties": {
@@ -657,21 +732,6 @@
       "id": "4543",
       "name": "臺中公園(三民路)",
       "seq": 49
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.55759,
-        24.12759
-      ]
-    },
-    "properties": {
-      "id": "4514",
-      "name": "營埔里",
-      "seq": 5
     }
   },
   {
@@ -829,21 +889,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.56034,
-        24.12584
-      ]
-    },
-    "properties": {
-      "id": "4511",
-      "name": "興國公司",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.68623,
         24.163
       ]
@@ -994,21 +1039,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.56207,
-        24.12482
-      ]
-    },
-    "properties": {
-      "id": "2886",
-      "name": "追分郵局",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.68613,
         24.18307
       ]
@@ -1107,36 +1137,6 @@
       "id": "1851",
       "name": "四張犁國小",
       "seq": 76
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.5645,
-        24.12339
-      ]
-    },
-    "properties": {
-      "id": "1390",
-      "name": "山仔頂",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.56812,
-        24.12203
-      ]
-    },
-    "properties": {
-      "id": "2885",
-      "name": "追分國小",
-      "seq": 9
     }
   }
 ]

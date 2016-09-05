@@ -127,5 +127,9 @@
         24.23783
       ]
     ]
+  },
+  {
+    "type": "LineString",
+    "coordinates": []
   }
 ]

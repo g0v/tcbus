@@ -19,111 +19,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.59084,
-        24.34598
-      ]
-    },
-    "properties": {
-      "id": "1061",
-      "name": "三元莊",
-      "seq": 10
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.5892,
-        24.34545
-      ]
-    },
-    "properties": {
-      "id": "5364",
-      "name": "大安區圖書館",
-      "seq": 11
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.58701,
-        24.34565
-      ]
-    },
-    "properties": {
-      "id": "4436",
-      "name": "大安區公所",
-      "seq": 12
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.58402,
-        24.35013
-      ]
-    },
-    "properties": {
-      "id": "1476",
-      "name": "中庄",
-      "seq": 13
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.57673,
-        24.34988
-      ]
-    },
-    "properties": {
-      "id": "2601",
-      "name": "南庄",
-      "seq": 14
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.57371,
-        24.34629
-      ]
-    },
-    "properties": {
-      "id": "1989",
-      "name": "田寮",
-      "seq": 15
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.569,
-        24.3406
-      ]
-    },
-    "properties": {
-      "id": "2595",
-      "name": "南埔",
-      "seq": 16
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.61993,
         24.34527
       ]
@@ -237,6 +132,351 @@
       "id": "5784",
       "name": "福興(興安路)",
       "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59084,
+        24.34598
+      ]
+    },
+    "properties": {
+      "id": "1061",
+      "name": "三元莊",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5892,
+        24.34545
+      ]
+    },
+    "properties": {
+      "id": "5364",
+      "name": "大安區圖書館",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58701,
+        24.34565
+      ]
+    },
+    "properties": {
+      "id": "4436",
+      "name": "大安區公所",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58402,
+        24.35013
+      ]
+    },
+    "properties": {
+      "id": "1476",
+      "name": "中庄",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57673,
+        24.34988
+      ]
+    },
+    "properties": {
+      "id": "2601",
+      "name": "南庄",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57371,
+        24.34629
+      ]
+    },
+    "properties": {
+      "id": "1989",
+      "name": "田寮",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.569,
+        24.3406
+      ]
+    },
+    "properties": {
+      "id": "2595",
+      "name": "南埔",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.569,
+        24.3406
+      ]
+    },
+    "properties": {
+      "id": "2595",
+      "name": "南埔",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57371,
+        24.34629
+      ]
+    },
+    "properties": {
+      "id": "1989",
+      "name": "田寮",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.57673,
+        24.34988
+      ]
+    },
+    "properties": {
+      "id": "2601",
+      "name": "南庄",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58402,
+        24.35013
+      ]
+    },
+    "properties": {
+      "id": "1476",
+      "name": "中庄",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.58701,
+        24.34565
+      ]
+    },
+    "properties": {
+      "id": "4436",
+      "name": "大安區公所",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.5892,
+        24.34545
+      ]
+    },
+    "properties": {
+      "id": "5364",
+      "name": "大安區圖書館",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59084,
+        24.34598
+      ]
+    },
+    "properties": {
+      "id": "1061",
+      "name": "三元莊",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.59733,
+        24.34585
+      ]
+    },
+    "properties": {
+      "id": "5784",
+      "name": "福興(興安路)",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60146,
+        24.34622
+      ]
+    },
+    "properties": {
+      "id": "5362",
+      "name": "興安福東路口",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60498,
+        24.34728
+      ]
+    },
+    "properties": {
+      "id": "3697",
+      "name": "遠東手套",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60928,
+        24.34789
+      ]
+    },
+    "properties": {
+      "id": "4467",
+      "name": "家畜市場",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61181,
+        24.34844
+      ]
+    },
+    "properties": {
+      "id": "1732",
+      "name": "牛埔",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61645,
+        24.34723
+      ]
+    },
+    "properties": {
+      "id": "2038",
+      "name": "光田",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61799,
+        24.34645
+      ]
+    },
+    "properties": {
+      "id": "5786",
+      "name": "南門(光明路)",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61993,
+        24.34527
+      ]
+    },
+    "properties": {
+      "id": "3064",
+      "name": "庄美里",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62553,
+        24.34321
+      ]
+    },
+    "properties": {
+      "id": "5084",
+      "name": "大甲",
+      "seq": 16
     }
   }
 ]

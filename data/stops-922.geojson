@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.60064,
+        24.13934
+      ]
+    },
+    "properties": {
+      "id": "5796",
+      "name": "仁友停車場",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60906,
+        24.13851
+      ]
+    },
+    "properties": {
+      "id": "5162",
+      "name": "嶺東科技大學(永春南路)",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61125,
+        24.13845
+      ]
+    },
+    "properties": {
+      "id": "3874",
+      "name": "嶺東高中",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61325,
+        24.13881
+      ]
+    },
+    "properties": {
+      "id": "4598",
+      "name": "春社里(永春路)",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62193,
+        24.14011
+      ]
+    },
+    "properties": {
+      "id": "0910",
+      "name": "劉厝里",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62653,
+        24.14043
+      ]
+    },
+    "properties": {
+      "id": "0338",
+      "name": "下新生里",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63023,
+        24.13912
+      ]
+    },
+    "properties": {
+      "id": "0198",
+      "name": "永定里二站(永春東路)",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6324,
+        24.13759
+      ]
+    },
+    "properties": {
+      "id": "5463",
+      "name": "永定里(永春東路)",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.63715,
         24.13653
       ]
@@ -169,21 +289,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60064,
-        24.13934
-      ]
-    },
-    "properties": {
-      "id": "5796",
-      "name": "仁友停車場",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.63384,
         24.16105
       ]
@@ -319,13 +424,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.64441,
-        24.18662
+        120.64195,
+        24.18725
       ]
     },
     "properties": {
-      "id": "4327",
-      "name": "僑光科技大學",
+      "id": "5954",
+      "name": "福星北西苑路口",
       "seq": 29
     }
   },
@@ -334,14 +439,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60906,
-        24.13851
+        120.64441,
+        24.18662
       ]
     },
     "properties": {
-      "id": "5162",
-      "name": "嶺東科技大學(永春南路)",
-      "seq": 3
+      "id": "4327",
+      "name": "僑光科技大學",
+      "seq": 30
     }
   },
   {
@@ -356,7 +461,7 @@
     "properties": {
       "id": "5658",
       "name": "漢翔公司(星享道)",
-      "seq": 30
+      "seq": 31
     }
   },
   {
@@ -371,7 +476,7 @@
     "properties": {
       "id": "4334",
       "name": "福星西安街口",
-      "seq": 31
+      "seq": 32
     }
   },
   {
@@ -386,7 +491,7 @@
     "properties": {
       "id": "4586",
       "name": "逢甲大學(福星路)",
-      "seq": 32
+      "seq": 33
     }
   },
   {
@@ -401,7 +506,7 @@
     "properties": {
       "id": "4585",
       "name": "逢甲大學(逢甲路)",
-      "seq": 33
+      "seq": 34
     }
   },
   {
@@ -415,8 +520,8 @@
     },
     "properties": {
       "id": "0361",
-      "name": "大魚池",
-      "seq": 34
+      "name": "大漁池",
+      "seq": 35
     }
   },
   {
@@ -431,7 +536,7 @@
     "properties": {
       "id": "0337",
       "name": "下湳仔",
-      "seq": 35
+      "seq": 36
     }
   },
   {
@@ -446,7 +551,7 @@
     "properties": {
       "id": "0803",
       "name": "頂湳仔",
-      "seq": 36
+      "seq": 37
     }
   },
   {
@@ -461,7 +566,7 @@
     "properties": {
       "id": "4600",
       "name": "西屯河南路口",
-      "seq": 37
+      "seq": 38
     }
   },
   {
@@ -476,7 +581,7 @@
     "properties": {
       "id": "0274",
       "name": "西屯上石路口",
-      "seq": 38
+      "seq": 39
     }
   },
   {
@@ -491,22 +596,7 @@
     "properties": {
       "id": "0273",
       "name": "上石里",
-      "seq": 39
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.61125,
-        24.13845
-      ]
-    },
-    "properties": {
-      "id": "3874",
-      "name": "嶺東高中",
-      "seq": 4
+      "seq": 40
     }
   },
   {
@@ -521,7 +611,7 @@
     "properties": {
       "id": "5711",
       "name": "福星公園",
-      "seq": 40
+      "seq": 41
     }
   },
   {
@@ -536,7 +626,7 @@
     "properties": {
       "id": "5710",
       "name": "長安國小",
-      "seq": 41
+      "seq": 42
     }
   },
   {
@@ -551,7 +641,7 @@
     "properties": {
       "id": "4271",
       "name": "文心甘肅路口",
-      "seq": 42
+      "seq": 43
     }
   },
   {
@@ -566,7 +656,7 @@
     "properties": {
       "id": "4612",
       "name": "文華高中(文心路)",
-      "seq": 43
+      "seq": 44
     }
   },
   {
@@ -581,7 +671,7 @@
     "properties": {
       "id": "4275",
       "name": "文心河南路口",
-      "seq": 44
+      "seq": 45
     }
   },
   {
@@ -596,7 +686,7 @@
     "properties": {
       "id": "0230",
       "name": "重慶國小",
-      "seq": 45
+      "seq": 46
     }
   },
   {
@@ -611,7 +701,7 @@
     "properties": {
       "id": "0229",
       "name": "臺灣日報",
-      "seq": 46
+      "seq": 47
     }
   },
   {
@@ -626,7 +716,7 @@
     "properties": {
       "id": "4355",
       "name": "文心陜西路口",
-      "seq": 47
+      "seq": 48
     }
   },
   {
@@ -641,7 +731,7 @@
     "properties": {
       "id": "0805",
       "name": "頂賴厝",
-      "seq": 48
+      "seq": 49
     }
   },
   {
@@ -656,22 +746,7 @@
     "properties": {
       "id": "1629",
       "name": "天津路商圈",
-      "seq": 49
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.61325,
-        24.13881
-      ]
-    },
-    "properties": {
-      "id": "4598",
-      "name": "春社里(永春路)",
-      "seq": 5
+      "seq": 50
     }
   },
   {
@@ -686,7 +761,7 @@
     "properties": {
       "id": "5737",
       "name": "曉明女中(中清路)",
-      "seq": 50
+      "seq": 51
     }
   },
   {
@@ -701,7 +776,7 @@
     "properties": {
       "id": "5736",
       "name": "中清漢口路口",
-      "seq": 51
+      "seq": 52
     }
   },
   {
@@ -716,7 +791,7 @@
     "properties": {
       "id": "5735",
       "name": "中清太原路口",
-      "seq": 52
+      "seq": 53
     }
   },
   {
@@ -731,7 +806,7 @@
     "properties": {
       "id": "5734",
       "name": "中清忠明路口",
-      "seq": 53
+      "seq": 54
     }
   },
   {
@@ -746,7 +821,7 @@
     "properties": {
       "id": "5733",
       "name": "大道公廟(中清路)",
-      "seq": 54
+      "seq": 55
     }
   },
   {
@@ -761,7 +836,7 @@
     "properties": {
       "id": "5732",
       "name": "中清健行路口",
-      "seq": 55
+      "seq": 56
     }
   },
   {
@@ -776,7 +851,7 @@
     "properties": {
       "id": "0092",
       "name": "邱厝里",
-      "seq": 56
+      "seq": 57
     }
   },
   {
@@ -791,7 +866,7 @@
     "properties": {
       "id": "0481",
       "name": "文莊里",
-      "seq": 57
+      "seq": 58
     }
   },
   {
@@ -806,7 +881,7 @@
     "properties": {
       "id": "0503",
       "name": "臺中二中",
-      "seq": 58
+      "seq": 59
     }
   },
   {
@@ -821,22 +896,7 @@
     "properties": {
       "id": "0145",
       "name": "光大里",
-      "seq": 59
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.62193,
-        24.14011
-      ]
-    },
-    "properties": {
-      "id": "0910",
-      "name": "劉厝里",
-      "seq": 6
+      "seq": 60
     }
   },
   {
@@ -851,7 +911,7 @@
     "properties": {
       "id": "0146",
       "name": "五常里",
-      "seq": 60
+      "seq": 61
     }
   },
   {
@@ -866,7 +926,7 @@
     "properties": {
       "id": "3772",
       "name": "五權學士路口",
-      "seq": 61
+      "seq": 62
     }
   },
   {
@@ -881,7 +941,7 @@
     "properties": {
       "id": "0047",
       "name": "一心市場",
-      "seq": 62
+      "seq": 63
     }
   },
   {
@@ -896,7 +956,7 @@
     "properties": {
       "id": "0046",
       "name": "中友百貨",
-      "seq": 63
+      "seq": 64
     }
   },
   {
@@ -911,7 +971,7 @@
     "properties": {
       "id": "0045",
       "name": "國立臺中科技大學",
-      "seq": 64
+      "seq": 65
     }
   },
   {
@@ -926,7 +986,7 @@
     "properties": {
       "id": "4543",
       "name": "臺中公園(三民路)",
-      "seq": 65
+      "seq": 66
     }
   },
   {
@@ -941,7 +1001,7 @@
     "properties": {
       "id": "5670",
       "name": "公園自由路口",
-      "seq": 66
+      "seq": 67
     }
   },
   {
@@ -956,21 +1016,6 @@
     "properties": {
       "id": "0402",
       "name": "干城站",
-      "seq": 67
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68447,
-        24.13909
-      ]
-    },
-    "properties": {
-      "id": "0443",
-      "name": "仁友東站",
       "seq": 68
     }
   },
@@ -979,44 +1024,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.62653,
-        24.14043
+        120.68501,
+        24.13937
       ]
     },
     "properties": {
-      "id": "0338",
-      "name": "下新生里",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.63023,
-        24.13912
-      ]
-    },
-    "properties": {
-      "id": "0198",
-      "name": "永定里二站(永春東路)",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.6324,
-        24.13759
-      ]
-    },
-    "properties": {
-      "id": "5463",
-      "name": "永定里(永春東路)",
-      "seq": 9
+      "id": "0443",
+      "name": "仁友東站",
+      "seq": 70
     }
   }
 ]

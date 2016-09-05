@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.65942,
+        24.11898
+      ]
+    },
+    "properties": {
+      "id": "5870",
+      "name": "宜寧中學(復興路)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66133,
+        24.12141
+      ]
+    },
+    "properties": {
+      "id": "0128",
+      "name": "和平國小",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66303,
+        24.12392
+      ]
+    },
+    "properties": {
+      "id": "3395",
+      "name": "復興新和街口",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66569,
+        24.12704
+      ]
+    },
+    "properties": {
+      "id": "0543",
+      "name": "四育國中",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66837,
+        24.12838
+      ]
+    },
+    "properties": {
+      "id": "5478",
+      "name": "高等法院臺中分院",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6711,
+        24.12935
+      ]
+    },
+    "properties": {
+      "id": "5393",
+      "name": "公共資訊圖書館(復興路)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67469,
+        24.13108
+      ]
+    },
+    "properties": {
+      "id": "0178",
+      "name": "第三分局",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67573,
+        24.1314
+      ]
+    },
+    "properties": {
+      "id": "4604",
+      "name": "復興有恆街口",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.67877,
         24.1328
       ]
@@ -162,21 +282,6 @@
       "id": "0046",
       "name": "中友百貨",
       "seq": 19
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.65942,
-        24.11898
-      ]
-    },
-    "properties": {
-      "id": "5870",
-      "name": "宜寧中學(復與路)",
-      "seq": 2
     }
   },
   {
@@ -334,21 +439,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.66133,
-        24.12141
-      ]
-    },
-    "properties": {
-      "id": "0128",
-      "name": "和平國小",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.68512,
         24.16787
       ]
@@ -499,21 +589,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.66303,
-        24.12392
-      ]
-    },
-    "properties": {
-      "id": "3395",
-      "name": "復興新和街口",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.68567,
         24.18967
       ]
@@ -582,81 +657,6 @@
       "id": "1851",
       "name": "四張犁國小",
       "seq": 44
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.66569,
-        24.12704
-      ]
-    },
-    "properties": {
-      "id": "0543",
-      "name": "四育國中",
-      "seq": 5
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.66837,
-        24.12838
-      ]
-    },
-    "properties": {
-      "id": "5478",
-      "name": "高等法院臺中分院",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.67196,
-        24.12985
-      ]
-    },
-    "properties": {
-      "id": "5393",
-      "name": "公共資訊圖書館(復興路)",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.67469,
-        24.13108
-      ]
-    },
-    "properties": {
-      "id": "0178",
-      "name": "第三分局",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.6764,
-        24.13182
-      ]
-    },
-    "properties": {
-      "id": "4604",
-      "name": "復興有恆街口",
-      "seq": 9
     }
   }
 ]

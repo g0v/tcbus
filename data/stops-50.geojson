@@ -19,6 +19,111 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.68866,
+        24.15269
+      ]
+    },
+    "properties": {
+      "id": "4694",
+      "name": "臺灣體大體育場",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68736,
+        24.14955
+      ]
+    },
+    "properties": {
+      "id": "0149",
+      "name": "臺中一中",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68624,
+        24.1466
+      ]
+    },
+    "properties": {
+      "id": "4695",
+      "name": "臺灣體大游泳池",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68617,
+        24.14466
+      ]
+    },
+    "properties": {
+      "id": "4544",
+      "name": "臺中公園(雙十路)",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68567,
+        24.14253
+      ]
+    },
+    "properties": {
+      "id": "0402",
+      "name": "干城站",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6855,
+        24.13818
+      ]
+    },
+    "properties": {
+      "id": "1824",
+      "name": "臺中火車站",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68087,
+        24.13702
+      ]
+    },
+    "properties": {
+      "id": "4284",
+      "name": "民權繼光街口",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.67793,
         24.13595
       ]
@@ -319,21 +424,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68866,
-        24.15269
-      ]
-    },
-    "properties": {
-      "id": "4694",
-      "name": "臺灣體大體育場",
-      "seq": 3
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.69968,
         24.07308
       ]
@@ -469,29 +559,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.69213,
-        24.04513
+        120.69218,
+        24.04549
       ]
     },
     "properties": {
       "id": "5997",
       "name": "坑口里(光復新村)",
       "seq": 39
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.68736,
-        24.14955
-      ]
-    },
-    "properties": {
-      "id": "0149",
-      "name": "臺中一中",
-      "seq": 4
     }
   },
   {
@@ -544,14 +619,554 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68624,
-        24.1466
+        120.69913,
+        24.04041
       ]
     },
     "properties": {
-      "id": "4695",
-      "name": "臺灣體大游泳池",
+      "id": "4343",
+      "name": "921地震教育園區",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69278,
+        24.04283
+      ]
+    },
+    "properties": {
+      "id": "5709",
+      "name": "六股(乾溪路)",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69441,
+        24.04455
+      ]
+    },
+    "properties": {
+      "id": "5495",
+      "name": "光復新村圓環",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69239,
+        24.04561
+      ]
+    },
+    "properties": {
+      "id": "5997",
+      "name": "坑口里(光復新村)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69462,
+        24.05077
+      ]
+    },
+    "properties": {
+      "id": "1026",
+      "name": "八德橋",
       "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69683,
+        24.05493
+      ]
+    },
+    "properties": {
+      "id": "2692",
+      "name": "省議會",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6979,
+        24.05787
+      ]
+    },
+    "properties": {
+      "id": "3976",
+      "name": "霧峰國小",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69807,
+        24.05974
+      ]
+    },
+    "properties": {
+      "id": "5546",
+      "name": "教育部國教署",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6984,
+        24.06174
+      ]
+    },
+    "properties": {
+      "id": "3978",
+      "name": "霧峰郵局",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69852,
+        24.06383
+      ]
+    },
+    "properties": {
+      "id": "3972",
+      "name": "霧峰",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6989,
+        24.067
+      ]
+    },
+    "properties": {
+      "id": "4972",
+      "name": "中正草湖路口",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69928,
+        24.0697
+      ]
+    },
+    "properties": {
+      "id": "1994",
+      "name": "甲寅",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69985,
+        24.07303
+      ]
+    },
+    "properties": {
+      "id": "3980",
+      "name": "霧峰農工",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69987,
+        24.07597
+      ]
+    },
+    "properties": {
+      "id": "2062",
+      "name": "中正吉峰路口",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69823,
+        24.08097
+      ]
+    },
+    "properties": {
+      "id": "4349",
+      "name": "中興東南路口",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69745,
+        24.08347
+      ]
+    },
+    "properties": {
+      "id": "2866",
+      "name": "草湖",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69635,
+        24.08663
+      ]
+    },
+    "properties": {
+      "id": "5034",
+      "name": "財政部印刷廠",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69536,
+        24.08867
+      ]
+    },
+    "properties": {
+      "id": "4253",
+      "name": "大里圖書館(中興路)",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6941,
+        24.0898
+      ]
+    },
+    "properties": {
+      "id": "4286",
+      "name": "青年高中",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69178,
+        24.09162
+      ]
+    },
+    "properties": {
+      "id": "4661",
+      "name": "中興仁化路口",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68528,
+        24.09675
+      ]
+    },
+    "properties": {
+      "id": "4291",
+      "name": "國光中興路口",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68268,
+        24.10003
+      ]
+    },
+    "properties": {
+      "id": "4254",
+      "name": "大里運動公園",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68185,
+        24.10312
+      ]
+    },
+    "properties": {
+      "id": "2928",
+      "name": "國光花市",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68123,
+        24.10522
+      ]
+    },
+    "properties": {
+      "id": "4294",
+      "name": "國光德芳路口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67988,
+        24.10967
+      ]
+    },
+    "properties": {
+      "id": "0521",
+      "name": "大里仁愛醫院(國光路)",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67929,
+        24.11463
+      ]
+    },
+    "properties": {
+      "id": "4293",
+      "name": "國光東興路口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67947,
+        24.11588
+      ]
+    },
+    "properties": {
+      "id": "2930",
+      "name": "國光橋",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67943,
+        24.11823
+      ]
+    },
+    "properties": {
+      "id": "4292",
+      "name": "國光忠明南路口",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67925,
+        24.12135
+      ]
+    },
+    "properties": {
+      "id": "4347",
+      "name": "中興大學(國光路)",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67947,
+        24.1259
+      ]
+    },
+    "properties": {
+      "id": "0038",
+      "name": "國光國小",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67897,
+        24.12747
+      ]
+    },
+    "properties": {
+      "id": "0735",
+      "name": "恩光堂",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67757,
+        24.13018
+      ]
+    },
+    "properties": {
+      "id": "4313",
+      "name": "醒修宮",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67605,
+        24.13407
+      ]
+    },
+    "properties": {
+      "id": "0070",
+      "name": "地方法院",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67802,
+        24.13593
+      ]
+    },
+    "properties": {
+      "id": "0071",
+      "name": "臺中女中",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68105,
+        24.1369
+      ]
+    },
+    "properties": {
+      "id": "4284",
+      "name": "民權繼光街口",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6848,
+        24.1374
+      ]
+    },
+    "properties": {
+      "id": "1824",
+      "name": "臺中火車站",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68613,
+        24.1408
+      ]
+    },
+    "properties": {
+      "id": "0402",
+      "name": "干城站",
+      "seq": 37
     }
   },
   {
@@ -566,7 +1181,7 @@
     "properties": {
       "id": "4544",
       "name": "臺中公園(雙十路)",
-      "seq": 6
+      "seq": 38
     }
   },
   {
@@ -574,14 +1189,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68567,
-        24.14253
+        120.68624,
+        24.1466
       ]
     },
     "properties": {
-      "id": "0402",
-      "name": "干城站",
-      "seq": 7
+      "id": "4695",
+      "name": "臺灣體大游泳池",
+      "seq": 39
     }
   },
   {
@@ -589,14 +1204,14 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6855,
-        24.13818
+        120.68753,
+        24.14943
       ]
     },
     "properties": {
-      "id": "1824",
-      "name": "臺中火車站",
-      "seq": 8
+      "id": "0149",
+      "name": "臺中一中",
+      "seq": 40
     }
   },
   {
@@ -604,14 +1219,59 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.68087,
-        24.13702
+        120.68866,
+        24.15269
       ]
     },
     "properties": {
-      "id": "4284",
-      "name": "民權繼光街口",
-      "seq": 9
+      "id": "4694",
+      "name": "臺灣體大體育場",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68797,
+        24.15401
+      ]
+    },
+    "properties": {
+      "id": "0048",
+      "name": "莒光新城",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6881,
+        24.15618
+      ]
+    },
+    "properties": {
+      "id": "4399",
+      "name": "新民高中(三民路)",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68971,
+        24.15634
+      ]
+    },
+    "properties": {
+      "id": "4520",
+      "name": "文英兒童公園",
+      "seq": 44
     }
   }
 ]

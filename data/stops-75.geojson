@@ -19,6 +19,126 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.61106,
+        24.19124
+      ]
+    },
+    "properties": {
+      "id": "4632",
+      "name": "玉門西屯路口",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60855,
+        24.19316
+      ]
+    },
+    "properties": {
+      "id": "2931",
+      "name": "國安國小",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60672,
+        24.19327
+      ]
+    },
+    "properties": {
+      "id": "0752",
+      "name": "國安社區(東大路)",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60577,
+        24.19006
+      ]
+    },
+    "properties": {
+      "id": "3609",
+      "name": "榮總北院",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60501,
+        24.18852
+      ]
+    },
+    "properties": {
+      "id": "1544",
+      "name": "五龍公園",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60388,
+        24.18628
+      ]
+    },
+    "properties": {
+      "id": "5258",
+      "name": "瑞聯天地(東大路)",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60253,
+        24.18343
+      ]
+    },
+    "properties": {
+      "id": "0884",
+      "name": "臺中榮總(東大路)",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60491,
+        24.18349
+      ]
+    },
+    "properties": {
+      "id": "5386",
+      "name": "臺中榮總(臺灣大道)",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.60657,
         24.18358
       ]
@@ -94,8 +214,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.6183,
-        24.18145
+        120.61956,
+        24.18121
       ]
     },
     "properties": {
@@ -169,28 +289,13 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.61106,
-        24.19124
-      ]
-    },
-    "properties": {
-      "id": "4632",
-      "name": "玉門西屯路口",
-      "seq": 2
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.63962,
         24.16483
       ]
     },
     "properties": {
-      "id": "0608",
-      "name": "老虎城(市政北六路)",
+      "id": "2161",
+      "name": "老虎城",
       "seq": 20
     }
   },
@@ -327,21 +432,6 @@
       "id": "4245",
       "name": "黎明五權西路口",
       "seq": 29
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.60855,
-        24.19316
-      ]
-    },
-    "properties": {
-      "id": "2931",
-      "name": "國安國小",
-      "seq": 3
     }
   },
   {
@@ -499,21 +589,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60672,
-        24.19327
-      ]
-    },
-    "properties": {
-      "id": "0752",
-      "name": "國安社區(東大路)",
-      "seq": 4
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.67234,
         24.13612
       ]
@@ -657,21 +732,6 @@
       "id": "4563",
       "name": "樂業建成路口",
       "seq": 49
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        120.60577,
-        24.19006
-      ]
-    },
-    "properties": {
-      "id": "3609",
-      "name": "榮總北院",
-      "seq": 5
     }
   },
   {
@@ -829,21 +889,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60501,
-        24.18852
-      ]
-    },
-    "properties": {
-      "id": "1544",
-      "name": "五龍公園",
-      "seq": 6
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.71804,
         24.15308
       ]
@@ -994,21 +1039,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60388,
-        24.18628
-      ]
-    },
-    "properties": {
-      "id": "5258",
-      "name": "瑞聯天地(東大路)",
-      "seq": 7
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.72996,
         24.15018
       ]
@@ -1029,8 +1059,8 @@
       ]
     },
     "properties": {
-      "id": "0346",
-      "name": "叉路口",
+      "id": "6081",
+      "name": "叉路口(中山路)",
       "seq": 71
     }
   },
@@ -1159,21 +1189,6 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        120.60253,
-        24.18343
-      ]
-    },
-    "properties": {
-      "id": "0884",
-      "name": "臺中榮總(東大路)",
-      "seq": 8
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         120.73561,
         24.13352
       ]
@@ -1189,6 +1204,1041 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
+        120.73561,
+        24.13352
+      ]
+    },
+    "properties": {
+      "id": "0977",
+      "name": "一江橋",
+      "seq": 1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7325,
+        24.13701
+      ]
+    },
+    "properties": {
+      "id": "4229",
+      "name": "亞姆拉公司",
+      "seq": 2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73204,
+        24.13917
+      ]
+    },
+    "properties": {
+      "id": "5547",
+      "name": "洪厝庄",
+      "seq": 3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73204,
+        24.14072
+      ]
+    },
+    "properties": {
+      "id": "0631",
+      "name": "和平橋",
+      "seq": 4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73359,
+        24.14283
+      ]
+    },
+    "properties": {
+      "id": "4364",
+      "name": "勤益科技大學",
+      "seq": 5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73444,
+        24.14491
+      ]
+    },
+    "properties": {
+      "id": "0632",
+      "name": "坪林",
+      "seq": 6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73372,
+        24.14684
+      ]
+    },
+    "properties": {
+      "id": "0319",
+      "name": "三中心",
+      "seq": 7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73435,
+        24.1491
+      ]
+    },
+    "properties": {
+      "id": "4350",
+      "name": "太平國中",
+      "seq": 8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73288,
+        24.15056
+      ]
+    },
+    "properties": {
+      "id": "6081",
+      "name": "叉路口(中山路)",
+      "seq": 9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.73022,
+        24.1504
+      ]
+    },
+    "properties": {
+      "id": "2934",
+      "name": "國軍臺中總醫院",
+      "seq": 10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72833,
+        24.15015
+      ]
+    },
+    "properties": {
+      "id": "3560",
+      "name": "預立二村",
+      "seq": 11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72578,
+        24.14981
+      ]
+    },
+    "properties": {
+      "id": "0899",
+      "name": "精武社區",
+      "seq": 12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72326,
+        24.14978
+      ]
+    },
+    "properties": {
+      "id": "2826",
+      "name": "特二號中山路口",
+      "seq": 13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.72691,
+        24.1561
+      ]
+    },
+    "properties": {
+      "id": "0290",
+      "name": "新坪里活動中心",
+      "seq": 14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7258,
+        24.1588
+      ]
+    },
+    "properties": {
+      "id": "5951",
+      "name": "太順太和路口",
+      "seq": 15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7245,
+        24.1576
+      ]
+    },
+    "properties": {
+      "id": "6041",
+      "name": "育賢育仁路口",
+      "seq": 16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.7217,
+        24.1572
+      ]
+    },
+    "properties": {
+      "id": "5950",
+      "name": "育賢育誠街口",
+      "seq": 17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71975,
+        24.15612
+      ]
+    },
+    "properties": {
+      "id": "3791",
+      "name": "樹孝育才路口",
+      "seq": 18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71791,
+        24.1532
+      ]
+    },
+    "properties": {
+      "id": "3374",
+      "name": "新平國小",
+      "seq": 19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71657,
+        24.15114
+      ]
+    },
+    "properties": {
+      "id": "3404",
+      "name": "新城里福德祠",
+      "seq": 20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71558,
+        24.14822
+      ]
+    },
+    "properties": {
+      "id": "1422",
+      "name": "宜昌中山路口",
+      "seq": 21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71439,
+        24.14605
+      ]
+    },
+    "properties": {
+      "id": "3764",
+      "name": "賢德醫院",
+      "seq": 22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.71305,
+        24.14456
+      ]
+    },
+    "properties": {
+      "id": "1043",
+      "name": "十甲宜昌路口",
+      "seq": 23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70995,
+        24.14457
+      ]
+    },
+    "properties": {
+      "id": "4215",
+      "name": "十甲東路口",
+      "seq": 24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70606,
+        24.14313
+      ]
+    },
+    "properties": {
+      "id": "4214",
+      "name": "東英自由路口",
+      "seq": 25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70601,
+        24.14079
+      ]
+    },
+    "properties": {
+      "id": "4213",
+      "name": "東英旱溪街口",
+      "seq": 26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70548,
+        24.13848
+      ]
+    },
+    "properties": {
+      "id": "4212",
+      "name": "東英樂業路口",
+      "seq": 27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.70378,
+        24.13856
+      ]
+    },
+    "properties": {
+      "id": "0083",
+      "name": "樂成公園",
+      "seq": 28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69933,
+        24.13897
+      ]
+    },
+    "properties": {
+      "id": "0075",
+      "name": "育英國中",
+      "seq": 29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69696,
+        24.13896
+      ]
+    },
+    "properties": {
+      "id": "4563",
+      "name": "樂業建成路口",
+      "seq": 30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69224,
+        24.14275
+      ]
+    },
+    "properties": {
+      "id": "0073",
+      "name": "明功堂醫院",
+      "seq": 31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.69054,
+        24.14284
+      ]
+    },
+    "properties": {
+      "id": "2030",
+      "name": "自由富台東街口",
+      "seq": 32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68754,
+        24.14306
+      ]
+    },
+    "properties": {
+      "id": "5318",
+      "name": "立體停車場(自由路)",
+      "seq": 33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68579,
+        24.14196
+      ]
+    },
+    "properties": {
+      "id": "0402",
+      "name": "干城站",
+      "seq": 34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6853,
+        24.1379
+      ]
+    },
+    "properties": {
+      "id": "1824",
+      "name": "臺中火車站",
+      "seq": 35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.68093,
+        24.1371
+      ]
+    },
+    "properties": {
+      "id": "4284",
+      "name": "民權繼光街口",
+      "seq": 36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67764,
+        24.1358
+      ]
+    },
+    "properties": {
+      "id": "0071",
+      "name": "臺中女中",
+      "seq": 37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67575,
+        24.13397
+      ]
+    },
+    "properties": {
+      "id": "0070",
+      "name": "地方法院",
+      "seq": 38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.67234,
+        24.13612
+      ]
+    },
+    "properties": {
+      "id": "4317",
+      "name": "林森三民路口",
+      "seq": 39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6687,
+        24.13953
+      ]
+    },
+    "properties": {
+      "id": "5856",
+      "name": "忠信國小(林森路)",
+      "seq": 40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.66623,
+        24.14084
+      ]
+    },
+    "properties": {
+      "id": "5088",
+      "name": "大墩文化中心(五權路)",
+      "seq": 41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6635,
+        24.14024
+      ]
+    },
+    "properties": {
+      "id": "4556",
+      "name": "美術館(五權西路)",
+      "seq": 42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65821,
+        24.14021
+      ]
+    },
+    "properties": {
+      "id": "0035",
+      "name": "五權西忠明南路口",
+      "seq": 43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65347,
+        24.14019
+      ]
+    },
+    "properties": {
+      "id": "4551",
+      "name": "五權西東興路口",
+      "seq": 44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.65069,
+        24.14006
+      ]
+    },
+    "properties": {
+      "id": "4594",
+      "name": "五權西大墩路口",
+      "seq": 45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64718,
+        24.14003
+      ]
+    },
+    "properties": {
+      "id": "4262",
+      "name": "五權西文心路口",
+      "seq": 46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64522,
+        24.14023
+      ]
+    },
+    "properties": {
+      "id": "4961",
+      "name": "五權西向心路口",
+      "seq": 47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64124,
+        24.14132
+      ]
+    },
+    "properties": {
+      "id": "4549",
+      "name": "五權西萬和路口",
+      "seq": 48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6387,
+        24.14205
+      ]
+    },
+    "properties": {
+      "id": "4900",
+      "name": "南屯(五權西路)",
+      "seq": 49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63717,
+        24.14405
+      ]
+    },
+    "properties": {
+      "id": "4245",
+      "name": "黎明五權西路口",
+      "seq": 50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63575,
+        24.14814
+      ]
+    },
+    "properties": {
+      "id": "0060",
+      "name": "三厝里",
+      "seq": 51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63538,
+        24.15029
+      ]
+    },
+    "properties": {
+      "id": "0059",
+      "name": "黎明公益路口",
+      "seq": 52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63495,
+        24.15284
+      ]
+    },
+    "properties": {
+      "id": "4160",
+      "name": "黎明大業路口",
+      "seq": 53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63462,
+        24.15476
+      ]
+    },
+    "properties": {
+      "id": "3892",
+      "name": "黎明新村(黎明路)",
+      "seq": 54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63431,
+        24.1571
+      ]
+    },
+    "properties": {
+      "id": "0056",
+      "name": "黎明國小",
+      "seq": 55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63385,
+        24.16096
+      ]
+    },
+    "properties": {
+      "id": "5155",
+      "name": "黎明市政路口",
+      "seq": 56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63949,
+        24.15953
+      ]
+    },
+    "properties": {
+      "id": "0407",
+      "name": "第六分局(惠來路)",
+      "seq": 57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.64144,
+        24.1625
+      ]
+    },
+    "properties": {
+      "id": "5726",
+      "name": "臺中國家歌劇院",
+      "seq": 58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63962,
+        24.16483
+      ]
+    },
+    "properties": {
+      "id": "2161",
+      "name": "老虎城",
+      "seq": 59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63804,
+        24.16725
+      ]
+    },
+    "properties": {
+      "id": "3059",
+      "name": "朝馬轉運站(朝富路)",
+      "seq": 60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.63717,
+        24.17059
+      ]
+    },
+    "properties": {
+      "id": "0054",
+      "name": "朝馬(臺灣大道)",
+      "seq": 61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62372,
+        24.17879
+      ]
+    },
+    "properties": {
+      "id": "5149",
+      "name": "福安里(臺灣大道)",
+      "seq": 62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.62195,
+        24.18001
+      ]
+    },
+    "properties": {
+      "id": "3060",
+      "name": "統聯轉運站",
+      "seq": 63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6179,
+        24.18165
+      ]
+    },
+    "properties": {
+      "id": "0008",
+      "name": "中港新城",
+      "seq": 64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6159,
+        24.18301
+      ]
+    },
+    "properties": {
+      "id": "0430",
+      "name": "中港澄清醫院",
+      "seq": 65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6129,
+        24.18443
+      ]
+    },
+    "properties": {
+      "id": "0006",
+      "name": "臺中捐血中心",
+      "seq": 66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61029,
+        24.18472
+      ]
+    },
+    "properties": {
+      "id": "4335",
+      "name": "臺灣大道玉門路口",
+      "seq": 67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60838,
+        24.18431
+      ]
+    },
+    "properties": {
+      "id": "0004",
+      "name": "普濟寺",
+      "seq": 68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60653,
+        24.18385
+      ]
+    },
+    "properties": {
+      "id": "2378",
+      "name": "東大附中",
+      "seq": 69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         120.60491,
         24.18349
       ]
@@ -1196,7 +2246,127 @@
     "properties": {
       "id": "5386",
       "name": "臺中榮總(臺灣大道)",
-      "seq": 9
+      "seq": 70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60269,
+        24.1834
+      ]
+    },
+    "properties": {
+      "id": "0884",
+      "name": "臺中榮總(東大路)",
+      "seq": 71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60388,
+        24.18628
+      ]
+    },
+    "properties": {
+      "id": "5258",
+      "name": "瑞聯天地(東大路)",
+      "seq": 72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60501,
+        24.18852
+      ]
+    },
+    "properties": {
+      "id": "1544",
+      "name": "五龍公園",
+      "seq": 73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.6059,
+        24.18993
+      ]
+    },
+    "properties": {
+      "id": "3609",
+      "name": "榮總北院",
+      "seq": 74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60679,
+        24.19326
+      ]
+    },
+    "properties": {
+      "id": "0752",
+      "name": "國安社區(東大路)",
+      "seq": 75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.60862,
+        24.19305
+      ]
+    },
+    "properties": {
+      "id": "2931",
+      "name": "國安國小",
+      "seq": 76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61088,
+        24.19128
+      ]
+    },
+    "properties": {
+      "id": "4632",
+      "name": "玉門西屯路口",
+      "seq": 77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        120.61072,
+        24.1898
+      ]
+    },
+    "properties": {
+      "id": "0885",
+      "name": "榮總宿舍",
+      "seq": 78
     }
   }
 ]
