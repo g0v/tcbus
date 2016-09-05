@@ -62,11 +62,23 @@ function addRoute(stops, trace) {
 	x._icon.title = x.feature.properties.name;
     });
     traceLG.setStyle({
-        weight: 5,
+        weight: 3,
         color: '#008',
         dashArray: '8,6,2,6'
     });
     traceLG.getLayers().forEach(function (x) {
+	x.on('mouseover', function(e) {
+	    e.target.setStyle({
+		color: '#f00',
+		weight: 8,
+	    });
+	});
+	x.on('mouseout', function(e) {
+	    e.target.setStyle({
+		color: '#008',
+		weight: 3,
+	    });
+	});
 	var arrow = L.polylineDecorator(x, {
 	    patterns: [{
 		offset: 80,
