@@ -24,17 +24,18 @@
         </div>
         <div class="col col-4" id="info_pane">
             <div id="route_selector">
-                <h2><button class="button primary" data-component="toggleme" data-target="#rs_toggle"
-                data-component-toggleme-loaded="true" data-text="點擊按鈕以關閉路線選項">
+                <h2><button class="button primary width-100" data-component="toggleme" data-target="#rs_toggle"
+                data-component-toggleme-loaded="true" data-text="點擊按鈕以關閉路線選取">
                 點擊按鈕以開啟路線選取</button></h2>
                 <div id="rs_toggle" class="hide"> <form id="rsform"> </form> </div>
+                <button class="button primary outline width-100" id="reset_all_routes"> 重設所有路線 </button>
             </div>
-            <div>
+            <div id="stop_info">
                 <h2 class="h3">站牌詳細資訊：</h2>
                 <p>（請點站牌）</p>
                 <span id="stop_details"></span>
             </div>
-            <div>
+            <div id="route_info">
                 <h2 class="h3">路線資訊：</h2>
                 <p>（請點站牌）</p>
                 <span id="route_summary"></span><br />
