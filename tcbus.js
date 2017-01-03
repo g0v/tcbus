@@ -45,12 +45,13 @@ function init() {
     
     // when click "reset_all_routes" button, all of checks will disappear
     $("#reset_all_routes").click(function (x) {
-        $("form#rsform :input").each(function(ex) {
-            var bus_route_number = $(this).attr( "value" );
+        $("form#rsform input:checkbox").each(function(ex) {
+            var bus_route_number  = $(this).attr( "value" );
             var bus_route_checked = $(this).prop( "checked" );
             if ( bus_route_checked == true ) {
                 removeRoute(bus_route_number);
-                $(this).prop( "checked" ) = false;
+                // $(this).removeAttr('checked');
+                $(this).prop( "checked",false );
             }
         });
     });
