@@ -34,3 +34,7 @@ nav {
 h1 {
     margin-bottom: 0px;
 }
+
+#rsform li {
+    list-style:none;
+}
