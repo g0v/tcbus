@@ -28,7 +28,7 @@ function init() {
     // console.log(this);
     var allRoutes = this.data.responseText.split('\n').map(function (x) { return x.split(','); });
     allRoutes.forEach(function (x) {
-    $('#rsform').append('<input type="checkbox" value="' + x[0] + '">' + x[1] + '</input><br />\n');
+        $('#rsform ul').append('<li><input type="checkbox" value="' + x[0] + '">' + x[1] + '</input></li>\n');
     });
 
     $('#route_selector input:checkbox').change(function(e) {
