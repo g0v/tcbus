@@ -64,3 +64,16 @@ h1 {
     display:block;
     padding:5px;
 }
+
+/* RWD Service */
+@media (max-width:768px) {
+    .h1, h1 {
+        font-size: 36px;
+    }
+}
+
+@media (max-height:600px) {
+    #tcbus_map_canvas {
+        height: 340px;
+    }
+}
