@@ -27,12 +27,12 @@
 
 .manual-help {
     text-align:center;
-    margin-top:8px;
-    margin-bottom:8px;
+    margin:8px 0 8px 0;
 }
 
 nav {
-    padding:12px;
+    padding:10px;
+    margin-bottom:10px;
     /* linear gradient */
     background-image: -ms-linear-gradient(top, #4CB2D4 0%,#ffffff 100%);
     background-image: -moz-linear-gradient(top, #4CB2D4 0%,#ffffff 100%);
@@ -46,6 +46,21 @@ h1 {
     color:#003399;
 }
 
+#rsform ul {
+    margin: 24px;
+    margin-top:0;
+}
+
 #rsform li {
     list-style:none;
+}
+
+#rsform li:hover {
+    background-color:#3c74d9;
+    color:#FFFFFF;
+}
+
+#rsform label {
+    display:block;
+    padding:5px;
 }
