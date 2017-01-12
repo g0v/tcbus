@@ -50,7 +50,6 @@ function init() {
             var bus_route_checked = $(this).prop( "checked" );
             if ( bus_route_checked == true ) {
                 removeRoute(bus_route_number);
-                // $(this).removeAttr('checked');
                 $(this).prop( "checked",false );
             }
         });
