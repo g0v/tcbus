@@ -34,3 +34,10 @@ h3 {
     background: #fcc;
 }
 
+#rsform ul{
+    padding:0;
+}
+
+#rsform li {
+    list-style:none;
+}
