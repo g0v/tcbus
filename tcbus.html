@@ -1,68 +1,55 @@
-<!DOCTYPE 
-html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns=
-"http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta name="generator" content=
-  "HTML Tidy for Linux (vers 25 March 2009), see www.w3.org" />
-  <meta http-equiv="Content-Type"
-  content="text/html; charset=utf-8" />
-
-  <title>臺中市公車路線圖</title>
-  <link rel="stylesheet" href="tcbus.css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-rc.3/leaflet.css" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-rc.3/leaflet.js"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-polylinedecorator/1.1.0/leaflet.polylineDecorator.min.js"></script>
-  <!-- this only worked with leaflet 0.7:
-  https://github.com/aratcliffe/Leaflet.tooltip -->
-  <script type="text/javascript" src="tcbus.js">
-</script>
+    <meta charset="utf-8" />
+    <title>臺中市公車路線圖</title>
+    <link rel="stylesheet" href="stylesheets/kube.min.css" />
+    <link rel="stylesheet" href="tcbus.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-rc.3/leaflet.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-rc.3/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-polylinedecorator/1.1.0/leaflet.polylineDecorator.min.js"></script>    
+    <!-- this only worked with leaflet 0.7:
+    https://github.com/aratcliffe/Leaflet.tooltip -->
+    <script type="text/javascript" src="tcbus.js"></script>
+    <script type="text/javascript" src="javascripts/kube.min.js"></script>
 </head>
-
 <body>
-
-  <div id="map_pane">
-  <h1>臺中市公車路線圖</h1>
-      <div id="tcbus_map_canvas"></div>
-
-    <div>
-      <p>說明文件及程式下載連結請見 <a href="https://g0v.github.io/tcbus/">
-      計畫首頁</a>。
+    <nav>
+        <h1 class="text-center">臺中市公車路線圖</h1>
+    </nav>
+    
+    <div class="row centered" id="container">
+        <div class="col col-8">
+            <div id="tcbus_map_canvas"></div>
+            <p class="manual-help">說明文件及程式下載連結請詳見<a href="https://g0v.github.io/tcbus/"> g0v 上的 tcbus 專案首頁</a></p>
+        </div>
+        <div class="col col-4" id="info_pane">
+            <div id="route_selector">
+                <h2>
+                    <button class="button primary width-100"
+                    data-component="toggleme"
+                    data-target="#rs_toggle"
+                    data-component-toggleme-loaded="true"
+                    data-text="點擊按鈕以關閉路線選取">
+                        點擊按鈕以開啟路線選取
+                    </button>
+                </h2>
+                <div id="rs_toggle" class="hide"> <form id="rsform"> <ul></ul> </form> </div>
+                <button class="button primary outline width-100" id="reset_all_routes"> 重設所有路線 </button>
+            </div>
+            <div id="stop_info">
+                <h2 class="h3">站牌詳細資訊：</h2>
+                <p>（請點站牌）</p>
+                <span id="stop_details"></span>
+            </div>
+            <div id="route_info">
+                <h2 class="h3">路線資訊：</h2>
+                <p>（請點站牌）</p>
+                <span id="route_summary"></span><br />
+                <span id="route_details"></span>
+            </div>
+        </div>
     </div>
-  </div>
-
-  <div id="info_pane">
-
-
-    <div id="route_selector">
-      <h3>勾選路線：</h3>
-
-<form id="rsform">
-<ul></ul>
-</form>
-    </div>
-
-    <div>
-      <h3>站牌詳細資訊：</h3>
-
-      <p>(請點站牌)</p>
-      <span id="stop_details"></span>
-    </div>
-
-    <div>
-      <h3>路線資訊：</h3>
-
-      <p>(請點路線)</p>
-      <span id="route_summary"></span><br />
-      <span id="route_details"></span>
-    </div>
-
-    <p class="footnote">詳見 <a href=
-    "https://g0v.github.io/tcbus/">g0v
-    上的 tcbus 專案</a></p>
-  </div>
 </body>
 </html>

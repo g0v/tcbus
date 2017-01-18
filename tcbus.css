@@ -1,7 +1,5 @@
-
-#map_pane {
-    width: 69%;
-    position: fixed;
+#container {
+    max-width:1400px;
 }
 
 #tcbus_map_canvas {
@@ -9,35 +7,73 @@
     height: 480px;
 }
 
-#info_pane {
-    width: 29%;
-    float: right;
+#rs_toggle {
+    height:240px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    margin-bottom:10px;
 }
 
-table {
-    border-collapse: collapse;
+#stop_info {
+    margin:10px 0 10px 0;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding:10px;
+}
+
+#route_info {
+    padding:7px;
+}
+
+.manual-help {
+    text-align:center;
+    margin:8px 0 8px 0;
+}
+
+nav {
+    padding:10px;
+    margin-bottom:10px;
+    /* linear gradient */
+    background-image: -ms-linear-gradient(top, #4CB2D4 0%,#ffffff 100%);
+    background-image: -moz-linear-gradient(top, #4CB2D4 0%,#ffffff 100%);
+    background-image: -o-linear-gradient(top, #4CB2D4 0%,#ffffff 100%);
+    background-image: -webkit-linear-gradient(top, #4CB2D4 0%,#ffffff 100%);
+    background-image: linear-gradient(top, #4CB2D4 0%,#ffffff 100%); 
 }
 
 h1 {
-    text-align: center;
+    margin-bottom: 0px;
+    color:#003399;
 }
 
-h3 {
-    background: #ffc;
-}
-
-.footnote {
-    font-size: 80%;
-}
-
-#route_selector h3:hover {
-    background: #fcc;
-}
-
-#rsform ul{
-    padding:0;
+#rsform ul {
+    margin: 24px;
+    margin-top:0;
 }
 
 #rsform li {
     list-style:none;
+}
+
+#rsform li:hover {
+    background-color:#3c74d9;
+    color:#FFFFFF;
+}
+
+#rsform label {
+    display:block;
+    padding:5px;
+}
+
+/* RWD Service */
+@media (max-width:768px) {
+    .h1, h1 {
+        font-size: 36px;
+    }
+}
+
+@media (max-height:600px) {
+    #tcbus_map_canvas {
+        height: 340px;
+    }
 }

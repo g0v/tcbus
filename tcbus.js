@@ -28,19 +28,32 @@ function init() {
     // console.log(this);
     var allRoutes = this.data.responseText.split('\n').map(function (x) { return x.split(','); });
     allRoutes.forEach(function (x) {
-        $('#rsform ul').append('<li><label><input type="checkbox" value="' + x[0] + '" /> ' + x[1] + '</label></li>\n');
+	$('#rsform').append('<input type="checkbox" value="' + x[0] + '">' + x[1] + '</input><br />\n');
+        $('#rsform ul').append('<li><label><input type="checkbox" value="' + x[0] + '"/>' + x[1] + '</label></li>\n');
     });
 
     $('#route_selector input:checkbox').change(function(e) {
-	var t = $(e.target);
-	var routeID = t.attr('value');
-	if (t.prop('checked')) {
-	    var stops = $.getJSON(routeStopsFileName(routeID));
-	    var trace = $.getJSON(routeTraceFileName(routeID));
-	    $.when(stops, trace).done(addRoute.bind({routeID: routeID}));
-	} else {
-	    removeRoute(routeID);
-	}
+    var t = $(e.target);
+    var routeID = t.attr('value');
+    if (t.prop('checked')) {
+        var stops = $.getJSON(routeStopsFileName(routeID));
+        var trace = $.getJSON(routeTraceFileName(routeID));
+        $.when(stops, trace).done(addRoute.bind({routeID: routeID}));
+    } else {
+        removeRoute(routeID);
+    }
+    });
+    
+    // when click "reset_all_routes" button, all of checks will disappear
+    $("#reset_all_routes").click(function (x) {
+        $("form#rsform input:checkbox").each(function(ex) {
+            var bus_route_number  = $(this).attr( "value" );
+            var bus_route_checked = $(this).prop( "checked" );
+            if ( bus_route_checked == true ) {
+                removeRoute(bus_route_number);
+                $(this).prop( "checked",false );
+            }
+        });
     });
 }
 
@@ -49,17 +62,17 @@ function addRoute(stops, trace) {
     var stopsLG = L.geoJson(stops[0]).addTo(G.theMap);
     var traceLG = L.geoJson(trace[0]).addTo(G.theMap);
     G.routeDB[routeID] = {
-	firstStop: 9999,
-	lastStop: -1,
-	stopsLG: stopsLG,
-	traceLG: traceLG,
+    firstStop: 9999,
+    lastStop: -1,
+    stopsLG: stopsLG,
+    traceLG: traceLG,
     };
 
     stopsLG.getLayers().forEach(function (x) {
         x.setIcon(G.busIcon);
-	// change marker title after creation:
-	// https://groups.google.com/forum/#!topic/leaflet-js/3bcC9sfgJ6k
-	x._icon.title = x.feature.properties.name;
+    // change marker title after creation:
+    // https://groups.google.com/forum/#!topic/leaflet-js/3bcC9sfgJ6k
+    x._icon.title = x.feature.properties.name;
     });
     traceLG.setStyle({
         weight: 3,
@@ -67,33 +80,33 @@ function addRoute(stops, trace) {
         dashArray: '8,6,2,6'
     });
     traceLG.getLayers().forEach(function (x) {
-	x.on('mouseover', function(e) {
-	    e.target.setStyle({
-		color: '#f00',
-		weight: 8,
-	    });
-	});
-	x.on('mouseout', function(e) {
-	    e.target.setStyle({
-		color: '#008',
-		weight: 3,
-	    });
-	});
-	var arrow = L.polylineDecorator(x, {
-	    patterns: [{
-		offset: 80,
-		repeat: 160,
-		symbol: L.Symbol.arrowHead({
-		    pixelSize: 15,
-		    polygon: false,
-		    pathOptions: {
-			stroke: true,
-			color: '#008',
-		    }
-		})
-	    }]
-	});
-	traceLG.addLayer(arrow);
+    x.on('mouseover', function(e) {
+        e.target.setStyle({
+        color: '#f00',
+        weight: 8,
+        });
+    });
+    x.on('mouseout', function(e) {
+        e.target.setStyle({
+        color: '#008',
+        weight: 3,
+        });
+    });
+    var arrow = L.polylineDecorator(x, {
+        patterns: [{
+        offset: 80,
+        repeat: 160,
+        symbol: L.Symbol.arrowHead({
+            pixelSize: 15,
+            polygon: false,
+            pathOptions: {
+            stroke: true,
+            color: '#008',
+            }
+        })
+        }]
+    });
+    traceLG.addLayer(arrow);
     });
 /*
 var arrow = L.polyline([[24.1, 120.65], [24.2, 120.75]], {}).addTo(G.theMap);
@@ -109,4 +122,3 @@ function removeRoute(routeID) {
     var n1 = Object.keys(G.theMap._layers).length;
     console.log('route ' + routeID + ' removed, total layers ' + n0 + ' -> ' + n1);
 }
-
